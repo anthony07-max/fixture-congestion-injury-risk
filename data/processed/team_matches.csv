@@ -1,0 +1,3035 @@
+league,match_id,date,team,injury_subs,rest_days
+Serie A,3878542,2015-08-23,AC Milan,0,
+Serie A,3878551,2015-08-29,AC Milan,1,6.0
+Serie A,3878600,2015-09-13,AC Milan,0,15.0
+Serie A,3878602,2015-09-19,AC Milan,1,6.0
+Serie A,3879537,2015-09-22,AC Milan,0,3.0
+Serie A,3879549,2015-09-27,AC Milan,0,5.0
+Serie A,3879562,2015-10-04,AC Milan,0,7.0
+Serie A,3879568,2015-10-17,AC Milan,0,13.0
+Serie A,3879585,2015-10-25,AC Milan,0,8.0
+Serie A,3879594,2015-10-28,AC Milan,1,3.0
+Serie A,3879599,2015-11-01,AC Milan,2,4.0
+Serie A,3879607,2015-11-07,AC Milan,0,6.0
+Serie A,3879618,2015-11-21,AC Milan,0,14.0
+Serie A,3879628,2015-11-28,AC Milan,0,7.0
+Serie A,3879642,2015-12-06,AC Milan,0,8.0
+Serie A,3879652,2015-12-13,AC Milan,0,7.0
+Serie A,3879665,2015-12-20,AC Milan,0,7.0
+Serie A,3879674,2016-01-06,AC Milan,0,17.0
+Serie A,3879676,2016-01-09,AC Milan,0,3.0
+Serie A,3879690,2016-01-17,AC Milan,0,8.0
+Serie A,3879698,2016-01-23,AC Milan,0,6.0
+Serie A,3879712,2016-01-31,AC Milan,0,8.0
+Serie A,3879721,2016-02-03,AC Milan,0,3.0
+Serie A,3879734,2016-02-07,AC Milan,0,4.0
+Serie A,3879742,2016-02-14,AC Milan,0,7.0
+Serie A,3879756,2016-02-22,AC Milan,0,8.0
+Serie A,3879758,2016-02-27,AC Milan,0,5.0
+Serie A,3879771,2016-03-06,AC Milan,0,8.0
+Serie A,3879781,2016-03-13,AC Milan,1,7.0
+Serie A,3879791,2016-03-20,AC Milan,0,7.0
+Serie A,3879805,2016-04-03,AC Milan,0,14.0
+Serie A,3879810,2016-04-09,AC Milan,0,6.0
+Serie A,3879824,2016-04-17,AC Milan,0,8.0
+Serie A,3879836,2016-04-21,AC Milan,0,4.0
+Serie A,3879846,2016-04-25,AC Milan,1,4.0
+Serie A,3879851,2016-05-01,AC Milan,0,6.0
+Serie A,3879858,2016-05-07,AC Milan,0,6.0
+Serie A,3879869,2016-05-14,AC Milan,0,7.0
+Premier League,3754128,2015-08-08,AFC Bournemouth,0,
+Premier League,3754020,2015-08-17,AFC Bournemouth,0,9.0
+Premier League,3754131,2015-08-22,AFC Bournemouth,1,5.0
+Premier League,3754023,2015-08-29,AFC Bournemouth,0,7.0
+Premier League,3754315,2015-09-12,AFC Bournemouth,0,14.0
+Premier League,3754169,2015-09-19,AFC Bournemouth,0,7.0
+Premier League,3754339,2015-09-26,AFC Bournemouth,1,7.0
+Premier League,3754278,2015-10-03,AFC Bournemouth,0,7.0
+Premier League,3754193,2015-10-17,AFC Bournemouth,0,14.0
+Premier League,3754234,2015-10-25,AFC Bournemouth,0,8.0
+Premier League,3754191,2015-11-01,AFC Bournemouth,0,7.0
+Premier League,3754238,2015-11-07,AFC Bournemouth,0,6.0
+Premier League,3753972,2015-11-21,AFC Bournemouth,0,14.0
+Premier League,3754157,2015-11-28,AFC Bournemouth,1,7.0
+Premier League,3754073,2015-12-05,AFC Bournemouth,1,7.0
+Premier League,3754162,2015-12-12,AFC Bournemouth,1,7.0
+Premier League,3754219,2015-12-19,AFC Bournemouth,0,7.0
+Premier League,3754248,2015-12-26,AFC Bournemouth,0,7.0
+Premier League,3754173,2015-12-28,AFC Bournemouth,0,2.0
+Premier League,3754058,2016-01-02,AFC Bournemouth,0,5.0
+Premier League,3754021,2016-01-12,AFC Bournemouth,1,10.0
+Premier League,3754004,2016-01-16,AFC Bournemouth,1,4.0
+Premier League,3753975,2016-01-23,AFC Bournemouth,1,7.0
+Premier League,3754089,2016-02-02,AFC Bournemouth,0,10.0
+Premier League,3754253,2016-02-07,AFC Bournemouth,0,5.0
+Premier League,3754274,2016-02-13,AFC Bournemouth,0,6.0
+Premier League,3754121,2016-02-27,AFC Bournemouth,1,14.0
+Premier League,3754334,2016-03-01,AFC Bournemouth,0,3.0
+Premier League,3754177,2016-03-05,AFC Bournemouth,0,4.0
+Premier League,3753988,2016-03-12,AFC Bournemouth,1,7.0
+Premier League,3754043,2016-03-20,AFC Bournemouth,0,8.0
+Premier League,3754144,2016-04-02,AFC Bournemouth,0,13.0
+Premier League,3754262,2016-04-09,AFC Bournemouth,0,7.0
+Premier League,3754216,2016-04-17,AFC Bournemouth,0,8.0
+Premier League,3754242,2016-04-23,AFC Bournemouth,0,6.0
+Premier League,3754037,2016-04-30,AFC Bournemouth,0,7.0
+Premier League,3754225,2016-05-07,AFC Bournemouth,0,7.0
+Premier League,3754159,2016-05-17,AFC Bournemouth,0,10.0
+Ligue 1,3829416,2015-08-08,AS Monaco,0,
+Ligue 1,3829423,2015-08-14,AS Monaco,2,6.0
+Ligue 1,3829439,2015-08-22,AS Monaco,0,8.0
+Ligue 1,3829450,2015-08-30,AS Monaco,0,8.0
+Ligue 1,3829462,2015-09-13,AS Monaco,0,14.0
+Ligue 1,3829469,2015-09-20,AS Monaco,0,7.0
+Ligue 1,3829481,2015-09-24,AS Monaco,0,4.0
+Ligue 1,3829488,2015-09-27,AS Monaco,1,3.0
+Ligue 1,3829501,2015-10-04,AS Monaco,0,7.0
+Ligue 1,3829502,2015-10-16,AS Monaco,0,12.0
+Ligue 1,3829520,2015-10-25,AS Monaco,0,9.0
+Ligue 1,3900498,2015-11-01,AS Monaco,0,7.0
+Ligue 1,3900508,2015-11-08,AS Monaco,0,7.0
+Ligue 1,3900515,2015-11-21,AS Monaco,0,13.0
+Ligue 1,3900527,2015-11-29,AS Monaco,0,8.0
+Ligue 1,3900533,2015-12-02,AS Monaco,0,3.0
+Ligue 1,3900541,2015-12-05,AS Monaco,1,3.0
+Ligue 1,3900558,2015-12-13,AS Monaco,0,8.0
+Ligue 1,3900564,2015-12-19,AS Monaco,0,6.0
+Ligue 1,3900572,2016-01-09,AS Monaco,0,21.0
+Ligue 1,3900588,2016-01-17,AS Monaco,1,8.0
+Ligue 1,3900598,2016-01-24,AS Monaco,1,7.0
+Ligue 1,3900604,2016-01-30,AS Monaco,0,6.0
+Ligue 1,3900611,2016-02-02,AS Monaco,0,3.0
+Ligue 1,3900625,2016-02-06,AS Monaco,1,4.0
+Ligue 1,3900639,2016-02-14,AS Monaco,0,8.0
+Ligue 1,3901149,2016-02-20,AS Monaco,0,6.0
+Ligue 1,3901160,2016-02-28,AS Monaco,0,8.0
+Ligue 1,3901162,2016-03-04,AS Monaco,0,5.0
+Ligue 1,3901174,2016-03-11,AS Monaco,0,7.0
+Ligue 1,3901193,2016-03-20,AS Monaco,0,9.0
+Ligue 1,3901194,2016-04-01,AS Monaco,0,12.0
+Ligue 1,3901212,2016-04-10,AS Monaco,0,9.0
+Ligue 1,3901223,2016-04-17,AS Monaco,0,7.0
+Ligue 1,3901231,2016-04-24,AS Monaco,1,7.0
+Ligue 1,3901238,2016-04-30,AS Monaco,0,6.0
+Ligue 1,3901252,2016-05-07,AS Monaco,0,7.0
+Ligue 1,3901256,2016-05-14,AS Monaco,0,7.0
+Serie A,3878541,2015-08-22,AS Roma,0,
+Serie A,3878555,2015-08-30,AS Roma,0,8.0
+Serie A,3878593,2015-09-12,AS Roma,0,13.0
+Serie A,3878607,2015-09-20,AS Roma,0,8.0
+Serie A,3879545,2015-09-23,AS Roma,0,3.0
+Serie A,3879547,2015-09-26,AS Roma,2,3.0
+Serie A,3879564,2015-10-04,AS Roma,0,8.0
+Serie A,3879567,2015-10-17,AS Roma,0,13.0
+Serie A,3879583,2015-10-25,AS Roma,1,8.0
+Serie A,3879592,2015-10-28,AS Roma,0,3.0
+Serie A,3879598,2015-10-31,AS Roma,0,3.0
+Serie A,3879610,2015-11-08,AS Roma,1,8.0
+Serie A,3879617,2015-11-21,AS Roma,0,13.0
+Serie A,3879632,2015-11-29,AS Roma,0,8.0
+Serie A,3879639,2015-12-05,AS Roma,1,6.0
+Serie A,3879651,2015-12-13,AS Roma,0,8.0
+Serie A,3879657,2015-12-20,AS Roma,0,7.0
+Serie A,3879672,2016-01-06,AS Roma,1,17.0
+Serie A,3879676,2016-01-09,AS Roma,0,3.0
+Serie A,3879691,2016-01-17,AS Roma,0,8.0
+Serie A,3879701,2016-01-24,AS Roma,0,7.0
+Serie A,3879707,2016-01-30,AS Roma,0,6.0
+Serie A,3879717,2016-02-02,AS Roma,1,3.0
+Serie A,3879736,2016-02-07,AS Roma,0,5.0
+Serie A,3879738,2016-02-12,AS Roma,1,5.0
+Serie A,3879751,2016-02-21,AS Roma,0,9.0
+Serie A,3879757,2016-02-27,AS Roma,1,6.0
+Serie A,3879767,2016-03-04,AS Roma,0,6.0
+Serie A,3879783,2016-03-13,AS Roma,0,9.0
+Serie A,3879787,2016-03-19,AS Roma,0,6.0
+Serie A,3879799,2016-04-03,AS Roma,1,15.0
+Serie A,3879816,2016-04-11,AS Roma,0,8.0
+Serie A,3879823,2016-04-17,AS Roma,1,6.0
+Serie A,3879828,2016-04-20,AS Roma,0,3.0
+Serie A,3879845,2016-04-25,AS Roma,1,5.0
+Serie A,3879856,2016-05-02,AS Roma,0,7.0
+Serie A,3879866,2016-05-08,AS Roma,0,6.0
+Serie A,3879869,2016-05-14,AS Roma,0,6.0
+Ligue 1,3829419,2015-08-08,Angers,0,
+Ligue 1,3829425,2015-08-15,Angers,0,7.0
+Ligue 1,3829437,2015-08-22,Angers,0,7.0
+Ligue 1,3829445,2015-08-29,Angers,0,7.0
+Ligue 1,3829456,2015-09-12,Angers,0,14.0
+Ligue 1,3829466,2015-09-19,Angers,0,7.0
+Ligue 1,3829474,2015-09-22,Angers,0,3.0
+Ligue 1,3829491,2015-09-27,Angers,1,5.0
+Ligue 1,3829496,2015-10-03,Angers,0,6.0
+Ligue 1,3829507,2015-10-17,Angers,0,14.0
+Ligue 1,3829514,2015-10-24,Angers,0,7.0
+Ligue 1,3900498,2015-11-01,Angers,0,8.0
+Ligue 1,3900500,2015-11-06,Angers,0,5.0
+Ligue 1,3900518,2015-11-22,Angers,0,16.0
+Ligue 1,3900526,2015-11-28,Angers,1,6.0
+Ligue 1,3900532,2015-12-01,Angers,0,3.0
+Ligue 1,3900545,2015-12-05,Angers,2,4.0
+Ligue 1,3900556,2015-12-13,Angers,0,8.0
+Ligue 1,3900569,2015-12-20,Angers,0,7.0
+Ligue 1,3900573,2016-01-09,Angers,0,20.0
+Ligue 1,3900580,2016-01-15,Angers,0,6.0
+Ligue 1,3900591,2016-01-23,Angers,0,8.0
+Ligue 1,3900604,2016-01-30,Angers,0,7.0
+Ligue 1,3900617,2016-02-03,Angers,0,4.0
+Ligue 1,3900624,2016-02-06,Angers,0,3.0
+Ligue 1,3900630,2016-02-12,Angers,1,6.0
+Ligue 1,3901145,2016-02-20,Angers,0,8.0
+Ligue 1,3901156,2016-02-27,Angers,1,7.0
+Ligue 1,3901164,2016-03-05,Angers,0,7.0
+Ligue 1,3901182,2016-03-13,Angers,0,8.0
+Ligue 1,3901187,2016-03-19,Angers,0,6.0
+Ligue 1,3901198,2016-04-02,Angers,0,14.0
+Ligue 1,3901209,2016-04-09,Angers,0,7.0
+Ligue 1,3901218,2016-04-16,Angers,1,7.0
+Ligue 1,3901232,2016-04-27,Angers,0,11.0
+Ligue 1,3901242,2016-05-01,Angers,0,4.0
+Ligue 1,3901243,2016-05-07,Angers,0,6.0
+Ligue 1,3901255,2016-05-14,Angers,0,7.0
+Premier League,3754141,2015-08-09,Arsenal,0,
+Premier League,3754312,2015-08-16,Arsenal,0,7.0
+Premier League,3754129,2015-08-24,Arsenal,0,8.0
+Premier League,3754205,2015-08-29,Arsenal,0,5.0
+Premier League,3754240,2015-09-12,Arsenal,0,14.0
+Premier League,3754217,2015-09-19,Arsenal,0,7.0
+Premier League,3754174,2015-09-26,Arsenal,0,7.0
+Premier League,3754171,2015-10-04,Arsenal,1,8.0
+Premier League,3753999,2015-10-17,Arsenal,0,13.0
+Premier League,3754126,2015-10-24,Arsenal,0,7.0
+Premier League,3753983,2015-10-31,Arsenal,0,7.0
+Premier League,3754265,2015-11-08,Arsenal,0,8.0
+Premier League,3754301,2015-11-21,Arsenal,1,13.0
+Premier League,3754038,2015-11-29,Arsenal,0,8.0
+Premier League,3754160,2015-12-05,Arsenal,0,6.0
+Premier League,3754117,2015-12-13,Arsenal,0,8.0
+Premier League,3754296,2015-12-21,Arsenal,0,8.0
+Premier League,3754309,2015-12-26,Arsenal,0,5.0
+Premier League,3754173,2015-12-28,Arsenal,0,2.0
+Premier League,3754069,2016-01-02,Arsenal,0,5.0
+Premier League,3754305,2016-01-13,Arsenal,0,11.0
+Premier League,3754202,2016-01-17,Arsenal,0,4.0
+Premier League,3754111,2016-01-24,Arsenal,0,7.0
+Premier League,3754201,2016-02-02,Arsenal,0,9.0
+Premier League,3754253,2016-02-07,Arsenal,0,5.0
+Premier League,3754261,2016-02-14,Arsenal,0,7.0
+Premier League,3754239,2016-02-28,Arsenal,0,14.0
+Premier League,3753976,2016-03-02,Arsenal,0,3.0
+Premier League,3754318,2016-03-05,Arsenal,0,3.0
+Premier League,3753980,2016-03-19,Arsenal,0,14.0
+Premier League,3754118,2016-04-02,Arsenal,0,14.0
+Premier League,3754241,2016-04-09,Arsenal,0,7.0
+Premier League,3754009,2016-04-17,Arsenal,0,8.0
+Premier League,3754284,2016-04-21,Arsenal,0,4.0
+Premier League,3753990,2016-04-24,Arsenal,0,3.0
+Premier League,3754184,2016-04-30,Arsenal,1,6.0
+Premier League,3754314,2016-05-08,Arsenal,0,8.0
+Premier League,3754041,2016-05-15,Arsenal,0,7.0
+Premier League,3754128,2015-08-08,Aston Villa,0,
+Premier League,3754107,2015-08-14,Aston Villa,0,6.0
+Premier League,3754190,2015-08-22,Aston Villa,0,8.0
+Premier League,3754204,2015-08-29,Aston Villa,0,7.0
+Premier League,3754106,2015-09-13,Aston Villa,0,15.0
+Premier League,3754068,2015-09-19,Aston Villa,0,6.0
+Premier League,3754212,2015-09-26,Aston Villa,0,7.0
+Premier League,3754330,2015-10-03,Aston Villa,0,7.0
+Premier League,3754115,2015-10-17,Aston Villa,0,14.0
+Premier League,3754017,2015-10-24,Aston Villa,0,7.0
+Premier League,3754029,2015-11-02,Aston Villa,1,9.0
+Premier League,3754258,2015-11-08,Aston Villa,0,6.0
+Premier League,3754283,2015-11-21,Aston Villa,0,13.0
+Premier League,3754178,2015-11-28,Aston Villa,0,7.0
+Premier League,3754113,2015-12-05,Aston Villa,0,7.0
+Premier League,3754117,2015-12-13,Aston Villa,0,8.0
+Premier League,3754136,2015-12-19,Aston Villa,0,6.0
+Premier League,3754285,2015-12-26,Aston Villa,1,7.0
+Premier League,3754130,2015-12-28,Aston Villa,0,2.0
+Premier League,3754036,2016-01-02,Aston Villa,2,5.0
+Premier League,3753981,2016-01-12,Aston Villa,0,10.0
+Premier League,3754250,2016-01-16,Aston Villa,0,4.0
+Premier League,3754084,2016-01-23,Aston Villa,1,7.0
+Premier League,3753997,2016-02-02,Aston Villa,0,10.0
+Premier League,3754306,2016-02-06,Aston Villa,0,4.0
+Premier League,3754214,2016-02-14,Aston Villa,0,8.0
+Premier League,3754321,2016-02-27,Aston Villa,0,13.0
+Premier League,3754327,2016-03-01,Aston Villa,0,3.0
+Premier League,3754249,2016-03-05,Aston Villa,0,4.0
+Premier League,3754053,2016-03-13,Aston Villa,0,8.0
+Premier League,3754224,2016-03-19,Aston Villa,0,6.0
+Premier League,3754075,2016-04-02,Aston Villa,0,14.0
+Premier League,3754262,2016-04-09,Aston Villa,0,7.0
+Premier League,3754295,2016-04-16,Aston Villa,0,7.0
+Premier League,3754282,2016-04-23,Aston Villa,0,7.0
+Premier League,3754063,2016-04-30,Aston Villa,0,7.0
+Premier League,3754070,2016-05-07,Aston Villa,0,7.0
+Premier League,3754041,2016-05-15,Aston Villa,0,8.0
+Serie A,3878543,2015-08-23,Atalanta,1,
+Serie A,3878559,2015-08-30,Atalanta,0,7.0
+Serie A,3878599,2015-09-13,Atalanta,0,14.0
+Serie A,3878610,2015-09-20,Atalanta,0,7.0
+Serie A,3879546,2015-09-24,Atalanta,2,4.0
+Serie A,3879555,2015-09-28,Atalanta,1,4.0
+Serie A,3879561,2015-10-04,Atalanta,0,6.0
+Serie A,3879571,2015-10-18,Atalanta,0,14.0
+Serie A,3879580,2015-10-25,Atalanta,1,7.0
+Serie A,3879588,2015-10-28,Atalanta,0,3.0
+Serie A,3879601,2015-11-01,Atalanta,0,4.0
+Serie A,3879607,2015-11-07,Atalanta,1,6.0
+Serie A,3879621,2015-11-22,Atalanta,1,15.0
+Serie A,3879632,2015-11-29,Atalanta,0,7.0
+Serie A,3879644,2015-12-06,Atalanta,0,7.0
+Serie A,3879654,2015-12-13,Atalanta,0,7.0
+Serie A,3879661,2015-12-20,Atalanta,1,7.0
+Serie A,3879673,2016-01-06,Atalanta,1,17.0
+Serie A,3879685,2016-01-10,Atalanta,0,4.0
+Serie A,3879688,2016-01-16,Atalanta,0,6.0
+Serie A,3879697,2016-01-23,Atalanta,0,7.0
+Serie A,3879708,2016-01-30,Atalanta,1,7.0
+Serie A,3879722,2016-02-03,Atalanta,0,4.0
+Serie A,3879735,2016-02-07,Atalanta,0,4.0
+Serie A,3879744,2016-02-14,Atalanta,0,7.0
+Serie A,3879750,2016-02-21,Atalanta,2,7.0
+Serie A,3879761,2016-02-28,Atalanta,1,7.0
+Serie A,3879770,2016-03-06,Atalanta,0,7.0
+Serie A,3879785,2016-03-13,Atalanta,0,7.0
+Serie A,3879794,2016-03-20,Atalanta,0,7.0
+Serie A,3879805,2016-04-03,Atalanta,0,14.0
+Serie A,3879815,2016-04-10,Atalanta,0,7.0
+Serie A,3879823,2016-04-17,Atalanta,0,7.0
+Serie A,3879832,2016-04-20,Atalanta,0,3.0
+Serie A,3879842,2016-04-24,Atalanta,2,4.0
+Serie A,3879855,2016-05-02,Atalanta,0,8.0
+Serie A,3879863,2016-05-08,Atalanta,0,6.0
+Serie A,3879876,2016-05-15,Atalanta,0,7.0
+La Liga,266236,2015-08-23,Athletic Club,0,
+La Liga,3825578,2015-08-30,Athletic Club,0,7.0
+La Liga,3825587,2015-09-13,Athletic Club,0,14.0
+La Liga,3825595,2015-09-20,Athletic Club,0,7.0
+La Liga,3825602,2015-09-23,Athletic Club,0,3.0
+La Liga,3825609,2015-09-27,Athletic Club,0,4.0
+La Liga,3825622,2015-10-04,Athletic Club,0,7.0
+La Liga,3825630,2015-10-18,Athletic Club,0,14.0
+La Liga,3825641,2015-10-26,Athletic Club,0,8.0
+La Liga,3825650,2015-11-01,Athletic Club,0,6.0
+La Liga,3825659,2015-11-08,Athletic Club,0,7.0
+La Liga,3825665,2015-11-22,Athletic Club,0,14.0
+La Liga,3825675,2015-11-29,Athletic Club,0,7.0
+La Liga,3825686,2015-12-06,Athletic Club,0,7.0
+La Liga,3825693,2015-12-13,Athletic Club,0,7.0
+La Liga,3825703,2015-12-20,Athletic Club,0,7.0
+La Liga,3825706,2015-12-30,Athletic Club,0,10.0
+La Liga,3825719,2016-01-03,Athletic Club,0,4.0
+La Liga,3825726,2016-01-09,Athletic Club,1,6.0
+La Liga,266149,2016-01-17,Athletic Club,0,8.0
+La Liga,3825747,2016-01-24,Athletic Club,0,7.0
+La Liga,3825751,2016-01-30,Athletic Club,0,6.0
+La Liga,3825761,2016-02-06,Athletic Club,0,7.0
+La Liga,3825770,2016-02-13,Athletic Club,0,7.0
+La Liga,3825783,2016-02-21,Athletic Club,0,8.0
+La Liga,3825793,2016-02-28,Athletic Club,0,7.0
+La Liga,3825797,2016-03-02,Athletic Club,0,3.0
+La Liga,3825808,2016-03-06,Athletic Club,0,4.0
+La Liga,3825844,2016-03-13,Athletic Club,0,7.0
+La Liga,3825821,2016-03-20,Athletic Club,0,7.0
+La Liga,3825877,2016-04-03,Athletic Club,1,14.0
+La Liga,3825829,2016-04-10,Athletic Club,0,7.0
+La Liga,3825835,2016-04-17,Athletic Club,0,7.0
+La Liga,3825838,2016-04-20,Athletic Club,0,3.0
+La Liga,3825842,2016-04-24,Athletic Club,0,4.0
+La Liga,3825870,2016-05-01,Athletic Club,0,7.0
+La Liga,3825866,2016-05-08,Athletic Club,0,7.0
+La Liga,3825869,2016-05-14,Athletic Club,1,6.0
+La Liga,3825563,2015-08-22,Atlético Madrid,0,
+La Liga,3825579,2015-08-30,Atlético Madrid,1,8.0
+La Liga,266166,2015-09-12,Atlético Madrid,0,13.0
+La Liga,3825593,2015-09-19,Atlético Madrid,0,7.0
+La Liga,3825598,2015-09-22,Atlético Madrid,0,3.0
+La Liga,3825607,2015-09-26,Atlético Madrid,0,4.0
+La Liga,3825621,2015-10-04,Atlético Madrid,0,8.0
+La Liga,3825631,2015-10-18,Atlético Madrid,0,14.0
+La Liga,3825638,2015-10-25,Atlético Madrid,0,7.0
+La Liga,3825642,2015-10-30,Atlético Madrid,0,5.0
+La Liga,3825658,2015-11-08,Atlético Madrid,0,9.0
+La Liga,3825666,2015-11-22,Atlético Madrid,0,14.0
+La Liga,3825674,2015-11-28,Atlético Madrid,1,6.0
+La Liga,3825682,2015-12-05,Atlético Madrid,0,7.0
+La Liga,3825693,2015-12-13,Atlético Madrid,0,8.0
+La Liga,3825701,2015-12-20,Atlético Madrid,0,7.0
+La Liga,3825711,2015-12-30,Atlético Madrid,0,10.0
+La Liga,3825714,2016-01-02,Atlético Madrid,0,3.0
+La Liga,3825728,2016-01-10,Atlético Madrid,0,8.0
+La Liga,3825738,2016-01-17,Atlético Madrid,0,7.0
+La Liga,3825748,2016-01-24,Atlético Madrid,0,7.0
+La Liga,267576,2016-01-30,Atlético Madrid,1,6.0
+La Liga,3825760,2016-02-06,Atlético Madrid,0,7.0
+La Liga,3825774,2016-02-14,Atlético Madrid,1,8.0
+La Liga,3825784,2016-02-21,Atlético Madrid,0,7.0
+La Liga,3825787,2016-02-27,Atlético Madrid,0,6.0
+La Liga,3825795,2016-03-01,Atlético Madrid,0,3.0
+La Liga,3825807,2016-03-06,Atlético Madrid,0,5.0
+La Liga,3825813,2016-03-12,Atlético Madrid,0,6.0
+La Liga,3825907,2016-03-19,Atlético Madrid,0,7.0
+La Liga,3825872,2016-04-02,Atlético Madrid,0,14.0
+La Liga,3825828,2016-04-09,Atlético Madrid,0,7.0
+La Liga,3825834,2016-04-17,Atlético Madrid,0,8.0
+La Liga,3825838,2016-04-20,Atlético Madrid,1,3.0
+La Liga,3825890,2016-04-23,Atlético Madrid,0,3.0
+La Liga,3825878,2016-04-30,Atlético Madrid,0,7.0
+La Liga,3825860,2016-05-08,Atlético Madrid,0,8.0
+La Liga,3825882,2016-05-14,Atlético Madrid,0,6.0
+La Liga,266236,2015-08-23,Barcelona,2,
+La Liga,267422,2015-08-29,Barcelona,0,6.0
+La Liga,266166,2015-09-12,Barcelona,1,14.0
+La Liga,266490,2015-09-20,Barcelona,0,8.0
+La Liga,266467,2015-09-23,Barcelona,0,3.0
+La Liga,267611,2015-09-26,Barcelona,1,3.0
+La Liga,3825617,2015-10-03,Barcelona,0,7.0
+La Liga,3825627,2015-10-17,Barcelona,0,14.0
+La Liga,3825637,2015-10-25,Barcelona,0,8.0
+La Liga,3825645,2015-10-31,Barcelona,0,6.0
+La Liga,3825660,2015-11-08,Barcelona,0,8.0
+La Liga,266424,2015-11-21,Barcelona,1,13.0
+La Liga,266885,2015-11-28,Barcelona,0,7.0
+La Liga,267274,2015-12-05,Barcelona,0,7.0
+La Liga,266961,2015-12-12,Barcelona,0,7.0
+La Liga,267327,2015-12-30,Barcelona,0,18.0
+La Liga,266670,2016-01-02,Barcelona,0,3.0
+La Liga,266620,2016-01-09,Barcelona,0,7.0
+La Liga,266149,2016-01-17,Barcelona,0,8.0
+La Liga,265894,2016-01-23,Barcelona,1,6.0
+La Liga,267576,2016-01-30,Barcelona,0,7.0
+La Liga,266160,2016-02-07,Barcelona,0,8.0
+La Liga,266254,2016-02-14,Barcelona,0,7.0
+La Liga,266815,2016-02-17,Barcelona,0,3.0
+La Liga,267273,2016-02-20,Barcelona,0,3.0
+La Liga,265839,2016-02-28,Barcelona,0,8.0
+La Liga,266653,2016-03-03,Barcelona,0,4.0
+La Liga,266056,2016-03-06,Barcelona,0,3.0
+La Liga,266498,2016-03-12,Barcelona,0,6.0
+La Liga,266106,2016-03-20,Barcelona,0,8.0
+La Liga,267533,2016-04-02,Barcelona,0,13.0
+La Liga,266664,2016-04-09,Barcelona,0,7.0
+La Liga,266557,2016-04-17,Barcelona,0,8.0
+La Liga,266310,2016-04-20,Barcelona,0,3.0
+La Liga,265944,2016-04-23,Barcelona,0,3.0
+La Liga,266986,2016-04-30,Barcelona,0,7.0
+La Liga,265958,2016-05-08,Barcelona,0,8.0
+La Liga,267506,2016-05-14,Barcelona,0,6.0
+Ligue 1,3829415,2015-08-08,Bastia,0,
+Ligue 1,3829431,2015-08-16,Bastia,0,8.0
+Ligue 1,3829434,2015-08-22,Bastia,0,6.0
+Ligue 1,3829451,2015-08-30,Bastia,0,8.0
+Ligue 1,3829461,2015-09-13,Bastia,0,14.0
+Ligue 1,3829464,2015-09-19,Bastia,0,6.0
+Ligue 1,3829476,2015-09-23,Bastia,0,4.0
+Ligue 1,3829486,2015-09-26,Bastia,1,3.0
+Ligue 1,3829496,2015-10-03,Bastia,0,7.0
+Ligue 1,3829504,2015-10-17,Bastia,0,14.0
+Ligue 1,3829515,2015-10-24,Bastia,1,7.0
+Ligue 1,3900495,2015-10-31,Bastia,0,7.0
+Ligue 1,3900503,2015-11-07,Bastia,0,7.0
+Ligue 1,3900525,2015-11-28,Bastia,0,21.0
+Ligue 1,3900534,2015-12-02,Bastia,0,4.0
+Ligue 1,3900541,2015-12-05,Bastia,1,3.0
+Ligue 1,3900554,2015-12-12,Bastia,0,7.0
+Ligue 1,3900566,2015-12-19,Bastia,1,7.0
+Ligue 1,3900570,2016-01-08,Bastia,0,20.0
+Ligue 1,3900584,2016-01-16,Bastia,0,8.0
+Ligue 1,3900596,2016-01-23,Bastia,1,7.0
+Ligue 1,3900605,2016-01-30,Bastia,0,7.0
+Ligue 1,3900611,2016-02-02,Bastia,0,3.0
+Ligue 1,3900622,2016-02-06,Bastia,0,4.0
+Ligue 1,3900635,2016-02-13,Bastia,0,7.0
+Ligue 1,3901153,2016-02-26,Bastia,0,13.0
+Ligue 1,3901167,2016-03-05,Bastia,0,8.0
+Ligue 1,3901172,2016-03-09,Bastia,0,4.0
+Ligue 1,3901177,2016-03-12,Bastia,0,3.0
+Ligue 1,3901192,2016-03-20,Bastia,0,8.0
+Ligue 1,3901201,2016-04-03,Bastia,1,14.0
+Ligue 1,3901206,2016-04-09,Bastia,0,6.0
+Ligue 1,3901220,2016-04-16,Bastia,0,7.0
+Ligue 1,3901230,2016-04-24,Bastia,0,8.0
+Ligue 1,3901241,2016-04-30,Bastia,0,6.0
+Ligue 1,3901243,2016-05-07,Bastia,0,7.0
+Ligue 1,3901263,2016-05-14,Bastia,0,7.0
+Serie A,3878540,2015-08-22,Bologna,1,
+Serie A,3878550,2015-08-29,Bologna,1,7.0
+Serie A,3878601,2015-09-14,Bologna,1,16.0
+Serie A,3878608,2015-09-20,Bologna,0,6.0
+Serie A,3879541,2015-09-23,Bologna,0,3.0
+Serie A,3879552,2015-09-27,Bologna,2,4.0
+Serie A,3879559,2015-10-04,Bologna,1,7.0
+Serie A,3879569,2015-10-18,Bologna,0,14.0
+Serie A,3879578,2015-10-24,Bologna,1,6.0
+Serie A,3879587,2015-10-27,Bologna,0,3.0
+Serie A,3879601,2015-11-01,Bologna,0,5.0
+Serie A,3879608,2015-11-07,Bologna,0,6.0
+Serie A,3879617,2015-11-21,Bologna,1,14.0
+Serie A,3879627,2015-11-28,Bologna,0,7.0
+Serie A,3879645,2015-12-06,Bologna,0,8.0
+Serie A,3879647,2015-12-12,Bologna,2,6.0
+Serie A,3879656,2015-12-19,Bologna,0,7.0
+Serie A,3879674,2016-01-06,Bologna,1,18.0
+Serie A,3879680,2016-01-10,Bologna,0,4.0
+Serie A,3879694,2016-01-17,Bologna,0,7.0
+Serie A,3879705,2016-01-24,Bologna,0,7.0
+Serie A,3879710,2016-01-31,Bologna,1,7.0
+Serie A,3879725,2016-02-03,Bologna,0,3.0
+Serie A,3879728,2016-02-06,Bologna,0,3.0
+Serie A,3879743,2016-02-14,Bologna,1,8.0
+Serie A,3879747,2016-02-19,Bologna,1,5.0
+Serie A,3879760,2016-02-28,Bologna,0,9.0
+Serie A,3879776,2016-03-06,Bologna,0,7.0
+Serie A,3879779,2016-03-12,Bologna,1,6.0
+Serie A,3879794,2016-03-20,Bologna,1,8.0
+Serie A,3879806,2016-04-04,Bologna,1,15.0
+Serie A,3879816,2016-04-11,Bologna,2,7.0
+Serie A,3879818,2016-04-16,Bologna,0,5.0
+Serie A,3879827,2016-04-19,Bologna,0,3.0
+Serie A,3879840,2016-04-24,Bologna,1,5.0
+Serie A,3879849,2016-05-01,Bologna,0,7.0
+Serie A,3879858,2016-05-07,Bologna,0,6.0
+Serie A,3879872,2016-05-15,Bologna,1,8.0
+Ligue 1,3829420,2015-08-09,Bordeaux,1,
+Ligue 1,3829424,2015-08-15,Bordeaux,0,6.0
+Ligue 1,3829442,2015-08-23,Bordeaux,0,8.0
+Ligue 1,3829452,2015-08-30,Bordeaux,0,7.0
+Ligue 1,3829453,2015-09-11,Bordeaux,0,12.0
+Ligue 1,3829471,2015-09-20,Bordeaux,1,9.0
+Ligue 1,3829475,2015-09-23,Bordeaux,0,3.0
+Ligue 1,3829484,2015-09-26,Bordeaux,0,3.0
+Ligue 1,3829498,2015-10-04,Bordeaux,0,8.0
+Ligue 1,3829511,2015-10-18,Bordeaux,0,14.0
+Ligue 1,3829521,2015-10-25,Bordeaux,1,7.0
+Ligue 1,3900494,2015-10-31,Bordeaux,0,6.0
+Ligue 1,3900508,2015-11-08,Bordeaux,1,8.0
+Ligue 1,3900519,2015-11-22,Bordeaux,3,14.0
+Ligue 1,3900528,2015-11-29,Bordeaux,1,7.0
+Ligue 1,3900534,2015-12-02,Bordeaux,2,3.0
+Ligue 1,3900548,2015-12-06,Bordeaux,2,4.0
+Ligue 1,3900556,2015-12-13,Bordeaux,1,7.0
+Ligue 1,3900567,2015-12-20,Bordeaux,0,7.0
+Ligue 1,3900576,2016-01-09,Bordeaux,0,20.0
+Ligue 1,3900581,2016-01-16,Bordeaux,0,7.0
+Ligue 1,3900594,2016-01-23,Bordeaux,1,7.0
+Ligue 1,3900609,2016-01-31,Bordeaux,0,8.0
+Ligue 1,3900616,2016-02-03,Bordeaux,0,3.0
+Ligue 1,3900627,2016-02-07,Bordeaux,0,4.0
+Ligue 1,3900632,2016-02-13,Bordeaux,1,6.0
+Ligue 1,3901144,2016-02-19,Bordeaux,0,6.0
+Ligue 1,3901157,2016-02-27,Bordeaux,0,8.0
+Ligue 1,3901165,2016-03-05,Bordeaux,0,7.0
+Ligue 1,3901176,2016-03-12,Bordeaux,0,7.0
+Ligue 1,3901192,2016-03-20,Bordeaux,1,8.0
+Ligue 1,3901194,2016-04-01,Bordeaux,0,12.0
+Ligue 1,3901211,2016-04-10,Bordeaux,0,9.0
+Ligue 1,3901218,2016-04-16,Bordeaux,0,6.0
+Ligue 1,3901245,2016-05-07,Bordeaux,1,21.0
+Ligue 1,3901253,2016-05-11,Bordeaux,1,4.0
+Ligue 1,3901262,2016-05-14,Bordeaux,1,3.0
+Ligue 1,3829438,2015-08-22,Caen,0,
+Ligue 1,3829455,2015-09-12,Caen,1,21.0
+Ligue 1,3829479,2015-09-23,Caen,0,11.0
+Ligue 1,3829508,2015-10-17,Caen,0,24.0
+Ligue 1,3901179,2016-03-12,Caen,0,147.0
+Ligue 1,3901200,2016-04-02,Caen,0,21.0
+Ligue 1,3901216,2016-04-16,Caen,0,14.0
+Ligue 1,3901229,2016-04-24,Caen,0,8.0
+Ligue 1,3901246,2016-05-07,Caen,1,13.0
+Serie A,3878545,2015-08-23,Carpi,0,
+Serie A,3878552,2015-08-30,Carpi,0,7.0
+Serie A,3878598,2015-09-13,Carpi,1,14.0
+Serie A,3878605,2015-09-20,Carpi,0,7.0
+Serie A,3879539,2015-09-23,Carpi,1,3.0
+Serie A,3879547,2015-09-26,Carpi,0,3.0
+Serie A,3879558,2015-10-03,Carpi,0,7.0
+Serie A,3879571,2015-10-18,Carpi,0,15.0
+Serie A,3879578,2015-10-24,Carpi,0,6.0
+Serie A,3879589,2015-10-28,Carpi,1,4.0
+Serie A,3879600,2015-11-01,Carpi,1,4.0
+Serie A,3879615,2015-11-08,Carpi,0,7.0
+Serie A,3879622,2015-11-22,Carpi,1,14.0
+Serie A,3879634,2015-11-29,Carpi,0,7.0
+Serie A,3879642,2015-12-06,Carpi,0,7.0
+Serie A,3879650,2015-12-13,Carpi,1,7.0
+Serie A,3879660,2015-12-20,Carpi,0,7.0
+Serie A,3879675,2016-01-06,Carpi,0,17.0
+Serie A,3879678,2016-01-09,Carpi,0,3.0
+Serie A,3879689,2016-01-17,Carpi,0,8.0
+Serie A,3879704,2016-01-24,Carpi,1,7.0
+Serie A,3879709,2016-01-30,Carpi,0,6.0
+Serie A,3879724,2016-02-03,Carpi,0,4.0
+Serie A,3879731,2016-02-07,Carpi,2,4.0
+Serie A,3879738,2016-02-12,Carpi,0,5.0
+Serie A,3879754,2016-02-21,Carpi,0,9.0
+Serie A,3879761,2016-02-28,Carpi,1,7.0
+Serie A,3879776,2016-03-06,Carpi,2,7.0
+Serie A,3879782,2016-03-13,Carpi,0,7.0
+Serie A,3879795,2016-03-20,Carpi,1,7.0
+Serie A,3879797,2016-04-02,Carpi,0,13.0
+Serie A,3879807,2016-04-09,Carpi,0,7.0
+Serie A,3879819,2016-04-16,Carpi,1,7.0
+Serie A,3879836,2016-04-21,Carpi,0,5.0
+Serie A,3879844,2016-04-25,Carpi,0,4.0
+Serie A,3879850,2016-05-01,Carpi,0,6.0
+Serie A,3879859,2016-05-08,Carpi,0,7.0
+Serie A,3879871,2016-05-15,Carpi,0,7.0
+La Liga,3825569,2015-08-23,Celta Vigo,1,
+La Liga,3825574,2015-08-29,Celta Vigo,1,6.0
+La Liga,3825585,2015-09-13,Celta Vigo,0,15.0
+La Liga,3825594,2015-09-20,Celta Vigo,1,7.0
+La Liga,266467,2015-09-23,Celta Vigo,0,3.0
+La Liga,3825608,2015-09-26,Celta Vigo,0,3.0
+La Liga,3825613,2015-10-02,Celta Vigo,0,6.0
+La Liga,3825629,2015-10-18,Celta Vigo,0,16.0
+La Liga,3825635,2015-10-24,Celta Vigo,0,6.0
+La Liga,3825644,2015-10-31,Celta Vigo,0,7.0
+La Liga,3825654,2015-11-07,Celta Vigo,0,7.0
+La Liga,3825662,2015-11-21,Celta Vigo,1,14.0
+La Liga,3825671,2015-11-28,Celta Vigo,0,7.0
+La Liga,3825679,2015-12-05,Celta Vigo,0,7.0
+La Liga,3825689,2015-12-12,Celta Vigo,1,7.0
+La Liga,3825704,2015-12-20,Celta Vigo,0,8.0
+La Liga,3825706,2015-12-30,Celta Vigo,0,10.0
+La Liga,3825715,2016-01-02,Celta Vigo,0,3.0
+La Liga,3825728,2016-01-10,Celta Vigo,0,8.0
+La Liga,3825732,2016-01-16,Celta Vigo,0,6.0
+La Liga,3825743,2016-01-23,Celta Vigo,0,7.0
+La Liga,3825754,2016-01-31,Celta Vigo,0,8.0
+La Liga,3825765,2016-02-07,Celta Vigo,0,7.0
+La Liga,266254,2016-02-14,Celta Vigo,0,7.0
+La Liga,3825779,2016-02-20,Celta Vigo,0,6.0
+La Liga,3825788,2016-02-27,Celta Vigo,0,7.0
+La Liga,3825800,2016-03-02,Celta Vigo,0,4.0
+La Liga,3825806,2016-03-05,Celta Vigo,1,3.0
+La Liga,3825814,2016-03-12,Celta Vigo,0,7.0
+La Liga,3825819,2016-03-20,Celta Vigo,1,8.0
+La Liga,3825898,2016-04-02,Celta Vigo,0,13.0
+La Liga,3825832,2016-04-10,Celta Vigo,0,8.0
+La Liga,3825889,2016-04-16,Celta Vigo,1,6.0
+La Liga,3825862,2016-04-19,Celta Vigo,0,3.0
+La Liga,3825868,2016-04-25,Celta Vigo,0,6.0
+La Liga,3825870,2016-05-01,Celta Vigo,0,6.0
+La Liga,3825850,2016-05-08,Celta Vigo,0,7.0
+La Liga,3825882,2016-05-14,Celta Vigo,0,6.0
+Premier League,3754078,2015-08-08,Chelsea,0,
+Premier League,3754066,2015-08-16,Chelsea,0,8.0
+Premier League,3754059,2015-08-23,Chelsea,0,7.0
+Premier League,3754083,2015-08-29,Chelsea,0,6.0
+Premier League,3754336,2015-09-12,Chelsea,0,14.0
+Premier League,3754217,2015-09-19,Chelsea,0,7.0
+Premier League,3754001,2015-09-26,Chelsea,0,7.0
+Premier League,3753995,2015-10-03,Chelsea,0,7.0
+Premier League,3754115,2015-10-17,Chelsea,0,14.0
+Premier League,3754288,2015-10-24,Chelsea,0,7.0
+Premier League,3754098,2015-10-31,Chelsea,0,7.0
+Premier League,3754293,2015-11-07,Chelsea,0,7.0
+Premier League,3753996,2015-11-21,Chelsea,0,14.0
+Premier League,3754093,2015-11-29,Chelsea,0,8.0
+Premier League,3754073,2015-12-05,Chelsea,0,6.0
+Premier League,3754013,2015-12-14,Chelsea,1,9.0
+Premier League,3754025,2015-12-19,Chelsea,0,5.0
+Premier League,3754287,2015-12-26,Chelsea,0,7.0
+Premier League,3754019,2015-12-28,Chelsea,0,2.0
+Premier League,3754114,2016-01-03,Chelsea,0,6.0
+Premier League,3754062,2016-01-13,Chelsea,0,10.0
+Premier League,3754125,2016-01-16,Chelsea,0,3.0
+Premier League,3754111,2016-01-24,Chelsea,0,8.0
+Premier League,3754103,2016-02-03,Chelsea,0,10.0
+Premier League,3754281,2016-02-07,Chelsea,0,4.0
+Premier League,3754264,2016-02-13,Chelsea,0,6.0
+Premier League,3754012,2016-02-27,Chelsea,1,14.0
+Premier League,3754280,2016-03-01,Chelsea,0,3.0
+Premier League,3754061,2016-03-05,Chelsea,0,4.0
+Premier League,3753973,2016-03-19,Chelsea,0,14.0
+Premier League,3754075,2016-04-02,Chelsea,1,14.0
+Premier League,3754116,2016-04-09,Chelsea,0,7.0
+Premier League,3754322,2016-04-16,Chelsea,0,7.0
+Premier League,3754242,2016-04-23,Chelsea,0,7.0
+Premier League,3754092,2016-05-02,Chelsea,0,9.0
+Premier League,3754108,2016-05-07,Chelsea,0,5.0
+Premier League,3754055,2016-05-11,Chelsea,0,4.0
+Premier League,3754229,2016-05-15,Chelsea,0,4.0
+Serie A,3878549,2015-08-23,Chievo,1,
+Serie A,3878553,2015-08-30,Chievo,0,7.0
+Serie A,3878594,2015-09-12,Chievo,1,13.0
+Serie A,3878611,2015-09-20,Chievo,0,8.0
+Serie A,3879540,2015-09-23,Chievo,0,3.0
+Serie A,3879553,2015-09-27,Chievo,1,4.0
+Serie A,3879557,2015-10-03,Chievo,0,6.0
+Serie A,3879570,2015-10-18,Chievo,1,15.0
+Serie A,3879581,2015-10-25,Chievo,0,7.0
+Serie A,3879594,2015-10-28,Chievo,0,3.0
+Serie A,3879606,2015-11-02,Chievo,0,5.0
+Serie A,3879611,2015-11-08,Chievo,0,6.0
+Serie A,3879622,2015-11-22,Chievo,0,14.0
+Serie A,3879631,2015-11-29,Chievo,0,7.0
+Serie A,3879640,2015-12-06,Chievo,1,7.0
+Serie A,3879654,2015-12-13,Chievo,0,7.0
+Serie A,3879662,2015-12-20,Chievo,0,7.0
+Serie A,3879672,2016-01-06,Chievo,2,17.0
+Serie A,3879680,2016-01-10,Chievo,1,4.0
+Serie A,3879692,2016-01-17,Chievo,1,7.0
+Serie A,3879703,2016-01-24,Chievo,0,7.0
+Serie A,3879713,2016-01-31,Chievo,0,7.0
+Serie A,3879723,2016-02-03,Chievo,0,3.0
+Serie A,3879732,2016-02-07,Chievo,0,4.0
+Serie A,3879741,2016-02-13,Chievo,0,6.0
+Serie A,3879748,2016-02-20,Chievo,0,7.0
+Serie A,3879764,2016-02-28,Chievo,0,8.0
+Serie A,3879769,2016-03-05,Chievo,0,6.0
+Serie A,3879781,2016-03-13,Chievo,0,8.0
+Serie A,3879792,2016-03-20,Chievo,0,7.0
+Serie A,3879802,2016-04-03,Chievo,0,14.0
+Serie A,3879807,2016-04-09,Chievo,0,6.0
+Serie A,3879822,2016-04-17,Chievo,0,8.0
+Serie A,3879835,2016-04-20,Chievo,0,3.0
+Serie A,3879842,2016-04-24,Chievo,0,4.0
+Serie A,3879848,2016-04-30,Chievo,0,6.0
+Serie A,3879866,2016-05-08,Chievo,3,8.0
+Serie A,3879872,2016-05-15,Chievo,1,7.0
+Premier League,3754138,2015-08-08,Crystal Palace,0,
+Premier League,3754312,2015-08-16,Crystal Palace,0,8.0
+Premier League,3754190,2015-08-22,Crystal Palace,0,6.0
+Premier League,3754083,2015-08-29,Crystal Palace,0,7.0
+Premier League,3754257,2015-09-12,Crystal Palace,0,14.0
+Premier League,3754222,2015-09-20,Crystal Palace,0,8.0
+Premier League,3754266,2015-09-27,Crystal Palace,0,7.0
+Premier League,3754099,2015-10-03,Crystal Palace,0,6.0
+Premier League,3754067,2015-10-17,Crystal Palace,0,14.0
+Premier League,3754263,2015-10-24,Crystal Palace,0,7.0
+Premier League,3754223,2015-10-31,Crystal Palace,0,7.0
+Premier League,3754351,2015-11-08,Crystal Palace,0,8.0
+Premier League,3753979,2015-11-23,Crystal Palace,0,15.0
+Premier League,3754304,2015-11-28,Crystal Palace,0,5.0
+Premier League,3754046,2015-12-07,Crystal Palace,0,9.0
+Premier League,3754218,2015-12-12,Crystal Palace,0,5.0
+Premier League,3754153,2015-12-19,Crystal Palace,0,7.0
+Premier League,3754248,2015-12-26,Crystal Palace,0,7.0
+Premier League,3754326,2015-12-28,Crystal Palace,0,2.0
+Premier League,3754114,2016-01-03,Crystal Palace,0,6.0
+Premier League,3753981,2016-01-12,Crystal Palace,0,9.0
+Premier League,3754260,2016-01-16,Crystal Palace,0,4.0
+Premier League,3754179,2016-01-23,Crystal Palace,0,7.0
+Premier League,3754089,2016-02-02,Crystal Palace,0,10.0
+Premier League,3754303,2016-02-06,Crystal Palace,0,4.0
+Premier League,3754039,2016-02-13,Crystal Palace,0,7.0
+Premier League,3754236,2016-02-27,Crystal Palace,0,14.0
+Premier League,3754050,2016-03-01,Crystal Palace,0,3.0
+Premier League,3754220,2016-03-06,Crystal Palace,0,5.0
+Premier League,3754181,2016-03-19,Crystal Palace,0,13.0
+Premier League,3754176,2016-04-02,Crystal Palace,0,14.0
+Premier League,3754022,2016-04-09,Crystal Palace,0,7.0
+Premier League,3754048,2016-04-13,Crystal Palace,0,4.0
+Premier League,3754009,2016-04-17,Crystal Palace,0,4.0
+Premier League,3754310,2016-04-20,Crystal Palace,0,3.0
+Premier League,3754170,2016-04-30,Crystal Palace,0,10.0
+Premier League,3754026,2016-05-07,Crystal Palace,2,7.0
+Premier League,3753994,2016-05-15,Crystal Palace,0,8.0
+La Liga,3825570,2015-08-24,Eibar,1,
+La Liga,3825578,2015-08-30,Eibar,0,6.0
+La Liga,3825586,2015-09-13,Eibar,0,14.0
+La Liga,3825593,2015-09-19,Eibar,0,6.0
+La Liga,3825848,2015-09-23,Eibar,0,4.0
+La Liga,3825608,2015-09-26,Eibar,0,3.0
+La Liga,3825618,2015-10-03,Eibar,0,7.0
+La Liga,3825624,2015-10-17,Eibar,0,14.0
+La Liga,3825637,2015-10-25,Eibar,0,8.0
+La Liga,3825648,2015-11-01,Eibar,0,7.0
+La Liga,3825653,2015-11-07,Eibar,0,6.0
+La Liga,3825667,2015-11-22,Eibar,0,15.0
+La Liga,3825678,2015-11-29,Eibar,0,7.0
+La Liga,3825683,2015-12-06,Eibar,0,7.0
+La Liga,3825694,2015-12-13,Eibar,0,7.0
+La Liga,3825698,2015-12-19,Eibar,2,6.0
+La Liga,3825705,2015-12-30,Eibar,0,11.0
+La Liga,3825720,2016-01-03,Eibar,0,4.0
+La Liga,3825727,2016-01-10,Eibar,1,7.0
+La Liga,3825740,2016-01-18,Eibar,1,8.0
+La Liga,3825747,2016-01-24,Eibar,0,6.0
+La Liga,3825752,2016-01-30,Eibar,1,6.0
+La Liga,3825760,2016-02-06,Eibar,0,7.0
+La Liga,3825773,2016-02-14,Eibar,0,8.0
+La Liga,3825779,2016-02-20,Eibar,0,6.0
+La Liga,3825786,2016-02-26,Eibar,0,6.0
+La Liga,3825801,2016-03-02,Eibar,0,5.0
+La Liga,266056,2016-03-06,Eibar,0,4.0
+La Liga,3825858,2016-03-12,Eibar,0,6.0
+La Liga,3825817,2016-03-18,Eibar,0,6.0
+La Liga,3825824,2016-04-03,Eibar,0,16.0
+La Liga,3825856,2016-04-09,Eibar,0,6.0
+La Liga,3825897,2016-04-16,Eibar,0,7.0
+La Liga,3825840,2016-04-20,Eibar,0,4.0
+La Liga,3825847,2016-04-23,Eibar,0,3.0
+La Liga,3825854,2016-04-29,Eibar,0,6.0
+La Liga,3825904,2016-05-08,Eibar,0,9.0
+La Liga,3825908,2016-05-15,Eibar,0,7.0
+Serie A,3878549,2015-08-23,Empoli,0,
+Serie A,3878551,2015-08-29,Empoli,1,6.0
+Serie A,3878597,2015-09-13,Empoli,0,15.0
+Serie A,3878603,2015-09-19,Empoli,0,6.0
+Serie A,3879546,2015-09-24,Empoli,0,5.0
+Serie A,3879556,2015-09-28,Empoli,1,4.0
+Serie A,3879563,2015-10-04,Empoli,0,6.0
+Serie A,3879567,2015-10-17,Empoli,0,13.0
+Serie A,3879577,2015-10-24,Empoli,1,7.0
+Serie A,3879596,2015-10-29,Empoli,0,5.0
+Serie A,3879605,2015-11-02,Empoli,0,4.0
+Serie A,3879613,2015-11-08,Empoli,0,6.0
+Serie A,3879623,2015-11-22,Empoli,0,14.0
+Serie A,3879633,2015-11-29,Empoli,1,7.0
+Serie A,3879641,2015-12-06,Empoli,0,7.0
+Serie A,3879650,2015-12-13,Empoli,0,7.0
+Serie A,3879656,2015-12-19,Empoli,0,6.0
+Serie A,3879668,2016-01-06,Empoli,0,18.0
+Serie A,3879682,2016-01-10,Empoli,0,4.0
+Serie A,3879692,2016-01-17,Empoli,0,7.0
+Serie A,3879698,2016-01-23,Empoli,0,6.0
+Serie A,3879714,2016-01-31,Empoli,0,8.0
+Serie A,3879718,2016-02-03,Empoli,0,3.0
+Serie A,3879735,2016-02-07,Empoli,0,4.0
+Serie A,3879740,2016-02-13,Empoli,0,6.0
+Serie A,3879753,2016-02-21,Empoli,0,8.0
+Serie A,3879757,2016-02-27,Empoli,0,6.0
+Serie A,3879775,2016-03-06,Empoli,0,8.0
+Serie A,3879778,2016-03-12,Empoli,0,6.0
+Serie A,3879788,2016-03-19,Empoli,1,7.0
+Serie A,3879798,2016-04-02,Empoli,0,14.0
+Serie A,3879814,2016-04-10,Empoli,0,8.0
+Serie A,3879825,2016-04-17,Empoli,1,7.0
+Serie A,3879829,2016-04-20,Empoli,0,3.0
+Serie A,3879844,2016-04-25,Empoli,0,5.0
+Serie A,3879849,2016-05-01,Empoli,0,6.0
+Serie A,3879857,2016-05-07,Empoli,0,6.0
+Serie A,3879873,2016-05-15,Empoli,0,8.0
+La Liga,3825565,2015-08-22,Espanyol,1,
+La Liga,3825571,2015-08-28,Espanyol,0,6.0
+La Liga,3825581,2015-09-12,Espanyol,0,15.0
+La Liga,3825592,2015-09-19,Espanyol,0,7.0
+La Liga,3825599,2015-09-22,Espanyol,0,3.0
+La Liga,3825611,2015-09-27,Espanyol,0,5.0
+La Liga,3825615,2015-10-03,Espanyol,0,6.0
+La Liga,3825626,2015-10-17,Espanyol,0,14.0
+La Liga,3825633,2015-10-23,Espanyol,0,6.0
+La Liga,3825651,2015-11-01,Espanyol,0,9.0
+La Liga,3825659,2015-11-08,Espanyol,0,7.0
+La Liga,3825663,2015-11-21,Espanyol,0,13.0
+La Liga,3825674,2015-11-28,Espanyol,1,7.0
+La Liga,3825687,2015-12-07,Espanyol,0,9.0
+La Liga,3825689,2015-12-12,Espanyol,0,5.0
+La Liga,3825891,2015-12-19,Espanyol,1,7.0
+La Liga,3825709,2015-12-30,Espanyol,0,11.0
+La Liga,266670,2016-01-02,Espanyol,0,3.0
+La Liga,3825727,2016-01-10,Espanyol,0,8.0
+La Liga,3825737,2016-01-17,Espanyol,1,7.0
+La Liga,3825744,2016-01-23,Espanyol,1,6.0
+La Liga,3825757,2016-01-31,Espanyol,1,8.0
+La Liga,3825767,2016-02-08,Espanyol,0,8.0
+La Liga,3825772,2016-02-13,Espanyol,0,5.0
+La Liga,3825780,2016-02-20,Espanyol,1,7.0
+La Liga,3825790,2016-02-27,Espanyol,0,7.0
+La Liga,3825802,2016-03-03,Espanyol,0,5.0
+La Liga,3825811,2016-03-07,Espanyol,0,4.0
+La Liga,3825881,2016-03-14,Espanyol,0,7.0
+La Liga,3825821,2016-03-20,Espanyol,0,6.0
+La Liga,3825905,2016-04-03,Espanyol,0,14.0
+La Liga,3825828,2016-04-09,Espanyol,0,6.0
+La Liga,3825857,2016-04-15,Espanyol,0,6.0
+La Liga,3825862,2016-04-19,Espanyol,1,4.0
+La Liga,3825871,2016-04-22,Espanyol,1,3.0
+La Liga,3825845,2016-05-01,Espanyol,0,9.0
+La Liga,265958,2016-05-08,Espanyol,1,7.0
+La Liga,3825908,2016-05-15,Espanyol,1,7.0
+Premier League,3754300,2015-08-08,Everton,0,
+Premier League,3754034,2015-08-15,Everton,0,7.0
+Premier League,3754233,2015-08-23,Everton,0,8.0
+Premier League,3754268,2015-08-29,Everton,1,6.0
+Premier League,3754336,2015-09-12,Everton,1,14.0
+Premier League,3754298,2015-09-19,Everton,0,7.0
+Premier League,3754105,2015-09-28,Everton,0,9.0
+Premier League,3754060,2015-10-04,Everton,0,6.0
+Premier League,3754256,2015-10-17,Everton,0,13.0
+Premier League,3754126,2015-10-24,Everton,0,7.0
+Premier League,3754082,2015-11-01,Everton,1,8.0
+Premier League,3754194,2015-11-07,Everton,0,6.0
+Premier League,3754283,2015-11-21,Everton,0,14.0
+Premier League,3754157,2015-11-28,Everton,1,7.0
+Premier League,3754046,2015-12-07,Everton,0,9.0
+Premier League,3754182,2015-12-12,Everton,0,5.0
+Premier League,3754166,2015-12-19,Everton,0,7.0
+Premier League,3753974,2015-12-26,Everton,0,7.0
+Premier League,3754056,2015-12-28,Everton,0,2.0
+Premier League,3754140,2016-01-03,Everton,0,6.0
+Premier League,3754142,2016-01-13,Everton,0,10.0
+Premier League,3754125,2016-01-16,Everton,0,3.0
+Premier League,3754163,2016-01-24,Everton,2,8.0
+Premier League,3754252,2016-02-03,Everton,0,10.0
+Premier League,3754127,2016-02-06,Everton,0,3.0
+Premier League,3754350,2016-02-13,Everton,0,7.0
+Premier League,3754327,2016-03-01,Everton,0,17.0
+Premier League,3754277,2016-03-05,Everton,0,4.0
+Premier League,3753980,2016-03-19,Everton,0,14.0
+Premier League,3754299,2016-04-03,Everton,0,15.0
+Premier League,3754030,2016-04-09,Everton,0,6.0
+Premier League,3754048,2016-04-13,Everton,0,4.0
+Premier League,3754137,2016-04-16,Everton,0,3.0
+Premier League,3754294,2016-04-20,Everton,1,4.0
+Premier League,3754037,2016-04-30,Everton,0,10.0
+Premier League,3754033,2016-05-07,Everton,0,7.0
+Premier League,3753989,2016-05-11,Everton,0,4.0
+Premier League,3754123,2016-05-15,Everton,1,4.0
+Serie A,3878542,2015-08-23,Fiorentina,0,
+Serie A,3878556,2015-08-30,Fiorentina,0,7.0
+Serie A,3878592,2015-09-12,Fiorentina,0,13.0
+Serie A,3878605,2015-09-20,Fiorentina,0,8.0
+Serie A,3879541,2015-09-23,Fiorentina,0,3.0
+Serie A,3879550,2015-09-27,Fiorentina,1,4.0
+Serie A,3879561,2015-10-04,Fiorentina,0,7.0
+Serie A,3879572,2015-10-18,Fiorentina,0,14.0
+Serie A,3879583,2015-10-25,Fiorentina,0,7.0
+Serie A,3879595,2015-10-28,Fiorentina,1,3.0
+Serie A,3879602,2015-11-01,Fiorentina,0,4.0
+Serie A,3879616,2015-11-08,Fiorentina,0,7.0
+Serie A,3879623,2015-11-22,Fiorentina,0,14.0
+Serie A,3879636,2015-11-30,Fiorentina,0,8.0
+Serie A,3879646,2015-12-06,Fiorentina,0,6.0
+Serie A,3879653,2015-12-13,Fiorentina,0,7.0
+Serie A,3879662,2015-12-20,Fiorentina,1,7.0
+Serie A,3879671,2016-01-06,Fiorentina,0,17.0
+Serie A,3879677,2016-01-09,Fiorentina,1,3.0
+Serie A,3879690,2016-01-17,Fiorentina,1,8.0
+Serie A,3879706,2016-01-24,Fiorentina,0,7.0
+Serie A,3879716,2016-01-31,Fiorentina,0,7.0
+Serie A,3879724,2016-02-03,Fiorentina,0,3.0
+Serie A,3879728,2016-02-06,Fiorentina,0,3.0
+Serie A,3879746,2016-02-14,Fiorentina,0,8.0
+Serie A,3879750,2016-02-21,Fiorentina,0,7.0
+Serie A,3879765,2016-02-29,Fiorentina,0,8.0
+Serie A,3879767,2016-03-04,Fiorentina,2,4.0
+Serie A,3879780,2016-03-13,Fiorentina,1,9.0
+Serie A,3879789,2016-03-20,Fiorentina,0,7.0
+Serie A,3879800,2016-04-03,Fiorentina,1,14.0
+Serie A,3879814,2016-04-10,Fiorentina,0,7.0
+Serie A,3879821,2016-04-17,Fiorentina,0,7.0
+Serie A,3879834,2016-04-20,Fiorentina,1,3.0
+Serie A,3879839,2016-04-24,Fiorentina,1,4.0
+Serie A,3879848,2016-04-30,Fiorentina,0,6.0
+Serie A,3879860,2016-05-08,Fiorentina,0,8.0
+Serie A,3879874,2016-05-15,Fiorentina,1,7.0
+Serie A,3878547,2015-08-23,Frosinone,0,
+Serie A,3878559,2015-08-30,Frosinone,0,7.0
+Serie A,3878593,2015-09-12,Frosinone,1,13.0
+Serie A,3878608,2015-09-20,Frosinone,1,8.0
+Serie A,3879543,2015-09-23,Frosinone,0,3.0
+Serie A,3879556,2015-09-28,Frosinone,0,5.0
+Serie A,3879560,2015-10-04,Frosinone,0,6.0
+Serie A,3879576,2015-10-18,Frosinone,1,14.0
+Serie A,3879584,2015-10-25,Frosinone,0,7.0
+Serie A,3879589,2015-10-28,Frosinone,0,3.0
+Serie A,3879602,2015-11-01,Frosinone,0,4.0
+Serie A,3879612,2015-11-08,Frosinone,1,7.0
+Serie A,3879626,2015-11-22,Frosinone,0,14.0
+Serie A,3879629,2015-11-29,Frosinone,0,7.0
+Serie A,3879640,2015-12-06,Frosinone,0,7.0
+Serie A,3879649,2015-12-12,Frosinone,0,6.0
+Serie A,3879665,2015-12-20,Frosinone,0,8.0
+Serie A,3879667,2016-01-06,Frosinone,0,17.0
+Serie A,3879679,2016-01-10,Frosinone,0,4.0
+Serie A,3879687,2016-01-16,Frosinone,0,6.0
+Serie A,3879697,2016-01-23,Frosinone,0,7.0
+Serie A,3879707,2016-01-30,Frosinone,0,7.0
+Serie A,3879725,2016-02-03,Frosinone,1,4.0
+Serie A,3879733,2016-02-07,Frosinone,0,4.0
+Serie A,3879740,2016-02-13,Frosinone,0,6.0
+Serie A,3879755,2016-02-21,Frosinone,0,8.0
+Serie A,3879763,2016-02-28,Frosinone,0,7.0
+Serie A,3879773,2016-03-06,Frosinone,0,7.0
+Serie A,3879782,2016-03-13,Frosinone,1,7.0
+Serie A,3879789,2016-03-20,Frosinone,2,7.0
+Serie A,3879804,2016-04-03,Frosinone,3,14.0
+Serie A,3879808,2016-04-09,Frosinone,0,6.0
+Serie A,3879826,2016-04-17,Frosinone,0,8.0
+Serie A,3879835,2016-04-20,Frosinone,0,3.0
+Serie A,3879841,2016-04-24,Frosinone,0,4.0
+Serie A,3879851,2016-05-01,Frosinone,0,7.0
+Serie A,3879861,2016-05-08,Frosinone,1,7.0
+Serie A,3879867,2016-05-14,Frosinone,0,6.0
+Ligue 1,3829417,2015-08-08,Gazélec Ajaccio,0,
+Ligue 1,3829432,2015-08-16,Gazélec Ajaccio,0,8.0
+Ligue 1,3829437,2015-08-22,Gazélec Ajaccio,0,6.0
+Ligue 1,3829447,2015-08-29,Gazélec Ajaccio,0,7.0
+Ligue 1,3829462,2015-09-13,Gazélec Ajaccio,0,15.0
+Ligue 1,3829468,2015-09-19,Gazélec Ajaccio,0,6.0
+Ligue 1,3829478,2015-09-23,Gazélec Ajaccio,0,4.0
+Ligue 1,3829487,2015-09-26,Gazélec Ajaccio,1,3.0
+Ligue 1,3829494,2015-10-03,Gazélec Ajaccio,1,7.0
+Ligue 1,3829505,2015-10-17,Gazélec Ajaccio,0,14.0
+Ligue 1,3829517,2015-10-24,Gazélec Ajaccio,0,7.0
+Ligue 1,3900494,2015-10-31,Gazélec Ajaccio,1,7.0
+Ligue 1,3900506,2015-11-07,Gazélec Ajaccio,0,7.0
+Ligue 1,3900524,2015-11-28,Gazélec Ajaccio,0,21.0
+Ligue 1,3900536,2015-12-02,Gazélec Ajaccio,1,4.0
+Ligue 1,3900546,2015-12-05,Gazélec Ajaccio,0,3.0
+Ligue 1,3900559,2015-12-13,Gazélec Ajaccio,1,8.0
+Ligue 1,3900568,2015-12-20,Gazélec Ajaccio,0,7.0
+Ligue 1,3900572,2016-01-09,Gazélec Ajaccio,0,20.0
+Ligue 1,3900582,2016-01-16,Gazélec Ajaccio,0,7.0
+Ligue 1,3900590,2016-01-22,Gazélec Ajaccio,0,6.0
+Ligue 1,3900601,2016-01-30,Gazélec Ajaccio,0,8.0
+Ligue 1,3900615,2016-02-03,Gazélec Ajaccio,0,4.0
+Ligue 1,3900626,2016-02-06,Gazélec Ajaccio,1,3.0
+Ligue 1,3900633,2016-02-13,Gazélec Ajaccio,2,7.0
+Ligue 1,3901147,2016-02-20,Gazélec Ajaccio,0,7.0
+Ligue 1,3901165,2016-03-05,Gazélec Ajaccio,0,14.0
+Ligue 1,3901173,2016-03-09,Gazélec Ajaccio,0,4.0
+Ligue 1,3901179,2016-03-12,Gazélec Ajaccio,0,3.0
+Ligue 1,3901191,2016-03-20,Gazélec Ajaccio,0,8.0
+Ligue 1,3901195,2016-04-02,Gazélec Ajaccio,0,13.0
+Ligue 1,3901209,2016-04-09,Gazélec Ajaccio,0,7.0
+Ligue 1,3901215,2016-04-16,Gazélec Ajaccio,1,7.0
+Ligue 1,3901230,2016-04-24,Gazélec Ajaccio,1,8.0
+Ligue 1,3901235,2016-04-30,Gazélec Ajaccio,0,6.0
+Ligue 1,3901247,2016-05-07,Gazélec Ajaccio,0,7.0
+Ligue 1,3901260,2016-05-14,Gazélec Ajaccio,0,7.0
+Serie A,3878544,2015-08-23,Genoa,0,
+Serie A,3878554,2015-08-30,Genoa,2,7.0
+Serie A,3878592,2015-09-12,Genoa,0,13.0
+Serie A,3878609,2015-09-20,Genoa,0,8.0
+Serie A,3879538,2015-09-23,Genoa,0,3.0
+Serie A,3879549,2015-09-27,Genoa,0,4.0
+Serie A,3879566,2015-10-04,Genoa,0,7.0
+Serie A,3879570,2015-10-18,Genoa,0,14.0
+Serie A,3879577,2015-10-24,Genoa,0,6.0
+Serie A,3879590,2015-10-28,Genoa,1,4.0
+Serie A,3879604,2015-11-01,Genoa,2,4.0
+Serie A,3879612,2015-11-08,Genoa,0,7.0
+Serie A,3879619,2015-11-22,Genoa,1,14.0
+Serie A,3879634,2015-11-29,Genoa,0,7.0
+Serie A,3879638,2015-12-05,Genoa,0,6.0
+Serie A,3879647,2015-12-12,Genoa,0,7.0
+Serie A,3879657,2015-12-20,Genoa,0,8.0
+Serie A,3879666,2016-01-05,Genoa,0,16.0
+Serie A,3879685,2016-01-10,Genoa,0,5.0
+Serie A,3879695,2016-01-17,Genoa,0,7.0
+Serie A,3879702,2016-01-24,Genoa,0,7.0
+Serie A,3879716,2016-01-31,Genoa,0,7.0
+Serie A,3879726,2016-02-03,Genoa,0,3.0
+Serie A,3879727,2016-02-06,Genoa,1,3.0
+Serie A,3879742,2016-02-14,Genoa,0,8.0
+Serie A,3879752,2016-02-21,Genoa,0,7.0
+Serie A,3879764,2016-02-28,Genoa,0,7.0
+Serie A,3879775,2016-03-06,Genoa,0,7.0
+Serie A,3879784,2016-03-13,Genoa,0,7.0
+Serie A,3879796,2016-03-20,Genoa,1,7.0
+Serie A,3879804,2016-04-03,Genoa,1,14.0
+Serie A,3879809,2016-04-09,Genoa,0,6.0
+Serie A,3879819,2016-04-16,Genoa,0,7.0
+Serie A,3879830,2016-04-20,Genoa,0,4.0
+Serie A,3879840,2016-04-24,Genoa,0,4.0
+Serie A,3879856,2016-05-02,Genoa,0,8.0
+Serie A,3879865,2016-05-08,Genoa,0,6.0
+Serie A,3879876,2016-05-15,Genoa,0,7.0
+La Liga,3825565,2015-08-22,Getafe,0,
+La Liga,3825577,2015-08-30,Getafe,0,8.0
+La Liga,3825587,2015-09-13,Getafe,0,14.0
+La Liga,3825589,2015-09-18,Getafe,0,5.0
+La Liga,3825598,2015-09-22,Getafe,0,4.0
+La Liga,3825612,2015-09-27,Getafe,0,5.0
+La Liga,3825613,2015-10-02,Getafe,1,5.0
+La Liga,3825628,2015-10-18,Getafe,0,16.0
+La Liga,3825874,2015-10-24,Getafe,0,6.0
+La Liga,3825645,2015-10-31,Getafe,0,7.0
+La Liga,3825653,2015-11-07,Getafe,0,7.0
+La Liga,3825669,2015-11-23,Getafe,0,16.0
+La Liga,3825676,2015-11-29,Getafe,0,6.0
+La Liga,3825681,2015-12-05,Getafe,0,6.0
+La Liga,3825688,2015-12-11,Getafe,0,6.0
+La Liga,3825697,2015-12-19,Getafe,0,8.0
+La Liga,3825712,2015-12-30,Getafe,0,11.0
+La Liga,3825722,2016-01-04,Getafe,0,5.0
+La Liga,3825725,2016-01-09,Getafe,1,5.0
+La Liga,3825737,2016-01-17,Getafe,0,8.0
+La Liga,3825742,2016-01-23,Getafe,0,6.0
+La Liga,3825751,2016-01-30,Getafe,0,7.0
+La Liga,3825759,2016-02-05,Getafe,0,6.0
+La Liga,3825774,2016-02-14,Getafe,0,9.0
+La Liga,3825777,2016-02-19,Getafe,0,5.0
+La Liga,3825788,2016-02-27,Getafe,0,8.0
+La Liga,3825796,2016-03-01,Getafe,0,3.0
+La Liga,3825867,2016-03-05,Getafe,0,4.0
+La Liga,266498,2016-03-12,Getafe,0,7.0
+La Liga,3825817,2016-03-18,Getafe,1,6.0
+La Liga,3825885,2016-04-01,Getafe,0,14.0
+La Liga,3825830,2016-04-10,Getafe,0,9.0
+La Liga,3825833,2016-04-16,Getafe,1,6.0
+La Liga,3825841,2016-04-21,Getafe,1,5.0
+La Liga,3825899,2016-04-24,Getafe,1,3.0
+La Liga,3825894,2016-05-01,Getafe,0,7.0
+La Liga,3825865,2016-05-08,Getafe,0,7.0
+La Liga,3825876,2016-05-15,Getafe,0,7.0
+La Liga,3825570,2015-08-24,Granada,0,
+La Liga,3825577,2015-08-30,Granada,0,6.0
+La Liga,3825584,2015-09-13,Granada,0,14.0
+La Liga,3825590,2015-09-19,Granada,0,6.0
+La Liga,3825892,2015-09-22,Granada,0,3.0
+La Liga,3825604,2015-09-25,Granada,0,3.0
+La Liga,3825614,2015-10-03,Granada,0,8.0
+La Liga,3825632,2015-10-19,Granada,0,16.0
+La Liga,3825634,2015-10-24,Granada,0,5.0
+La Liga,3825651,2015-11-01,Granada,0,8.0
+La Liga,3825655,2015-11-07,Granada,0,6.0
+La Liga,3825665,2015-11-22,Granada,2,15.0
+La Liga,3825672,2015-11-28,Granada,0,6.0
+La Liga,3825682,2015-12-05,Granada,0,7.0
+La Liga,3825691,2015-12-12,Granada,0,7.0
+La Liga,3825704,2015-12-20,Granada,1,8.0
+La Liga,3825707,2015-12-30,Granada,0,10.0
+La Liga,3825717,2016-01-03,Granada,0,4.0
+La Liga,266620,2016-01-09,Granada,0,6.0
+La Liga,3825740,2016-01-18,Granada,1,9.0
+La Liga,3825742,2016-01-23,Granada,1,5.0
+La Liga,3825753,2016-01-30,Granada,0,7.0
+La Liga,3825764,2016-02-07,Granada,0,8.0
+La Liga,3825775,2016-02-14,Granada,0,7.0
+La Liga,3825782,2016-02-21,Granada,0,7.0
+La Liga,3825792,2016-02-28,Granada,0,7.0
+La Liga,3825803,2016-03-03,Granada,0,4.0
+La Liga,3825809,2016-03-06,Granada,0,3.0
+La Liga,3825881,2016-03-14,Granada,0,8.0
+La Liga,3825887,2016-03-19,Granada,0,5.0
+La Liga,3825877,2016-04-03,Granada,0,15.0
+La Liga,3825826,2016-04-08,Granada,0,5.0
+La Liga,3825834,2016-04-17,Granada,0,9.0
+La Liga,3825896,2016-04-21,Granada,1,4.0
+La Liga,3825868,2016-04-25,Granada,0,4.0
+La Liga,3825859,2016-04-30,Granada,0,5.0
+La Liga,3825853,2016-05-08,Granada,0,8.0
+La Liga,267506,2016-05-14,Granada,0,6.0
+Ligue 1,3829418,2015-08-08,Guingamp,0,
+Ligue 1,3829426,2015-08-15,Guingamp,0,7.0
+Ligue 1,3829434,2015-08-22,Guingamp,0,7.0
+Ligue 1,3829443,2015-08-28,Guingamp,0,6.0
+Ligue 1,3829459,2015-09-12,Guingamp,0,15.0
+Ligue 1,3829468,2015-09-19,Guingamp,0,7.0
+Ligue 1,3829473,2015-09-22,Guingamp,0,3.0
+Ligue 1,3829488,2015-09-27,Guingamp,0,5.0
+Ligue 1,3829497,2015-10-03,Guingamp,0,6.0
+Ligue 1,3829506,2015-10-17,Guingamp,0,14.0
+Ligue 1,3829514,2015-10-24,Guingamp,0,7.0
+Ligue 1,3900492,2015-10-31,Guingamp,0,7.0
+Ligue 1,3900505,2015-11-07,Guingamp,0,7.0
+Ligue 1,3900514,2015-11-21,Guingamp,0,14.0
+Ligue 1,3900529,2015-11-29,Guingamp,0,8.0
+Ligue 1,3900538,2015-12-02,Guingamp,2,3.0
+Ligue 1,3900548,2015-12-06,Guingamp,0,4.0
+Ligue 1,3900552,2015-12-12,Guingamp,0,6.0
+Ligue 1,3900563,2015-12-19,Guingamp,0,7.0
+Ligue 1,3900577,2016-01-10,Guingamp,0,22.0
+Ligue 1,3900586,2016-01-16,Guingamp,1,6.0
+Ligue 1,3900596,2016-01-23,Guingamp,0,7.0
+Ligue 1,3900603,2016-01-30,Guingamp,0,7.0
+Ligue 1,3900612,2016-02-03,Guingamp,1,4.0
+Ligue 1,3900626,2016-02-06,Guingamp,0,3.0
+Ligue 1,3900632,2016-02-13,Guingamp,1,7.0
+Ligue 1,3901148,2016-02-20,Guingamp,0,7.0
+Ligue 1,3901156,2016-02-27,Guingamp,0,7.0
+Ligue 1,3901171,2016-03-06,Guingamp,0,8.0
+Ligue 1,3901180,2016-03-12,Guingamp,0,6.0
+Ligue 1,3901185,2016-03-19,Guingamp,0,7.0
+Ligue 1,3901197,2016-04-02,Guingamp,1,14.0
+Ligue 1,3901208,2016-04-09,Guingamp,0,7.0
+Ligue 1,3901221,2016-04-17,Guingamp,0,8.0
+Ligue 1,3901229,2016-04-24,Guingamp,0,7.0
+Ligue 1,3901238,2016-04-30,Guingamp,0,6.0
+Ligue 1,3901248,2016-05-07,Guingamp,0,7.0
+Ligue 1,3901258,2016-05-14,Guingamp,0,7.0
+Serie A,3878541,2015-08-22,Hellas Verona,1,
+Serie A,3878554,2015-08-30,Hellas Verona,2,8.0
+Serie A,3878596,2015-09-13,Hellas Verona,0,14.0
+Serie A,3878610,2015-09-20,Hellas Verona,2,7.0
+Serie A,3879542,2015-09-23,Hellas Verona,1,3.0
+Serie A,3879551,2015-09-27,Hellas Verona,0,4.0
+Serie A,3879557,2015-10-03,Hellas Verona,0,6.0
+Serie A,3879575,2015-10-18,Hellas Verona,0,15.0
+Serie A,3879586,2015-10-25,Hellas Verona,0,7.0
+Serie A,3879595,2015-10-28,Hellas Verona,0,3.0
+Serie A,3879600,2015-11-01,Hellas Verona,1,4.0
+Serie A,3879608,2015-11-07,Hellas Verona,0,6.0
+Serie A,3879620,2015-11-22,Hellas Verona,1,15.0
+Serie A,3879629,2015-11-29,Hellas Verona,0,7.0
+Serie A,3879641,2015-12-06,Hellas Verona,0,7.0
+Serie A,3879652,2015-12-13,Hellas Verona,0,7.0
+Serie A,3879663,2015-12-20,Hellas Verona,0,7.0
+Serie A,3879670,2016-01-06,Hellas Verona,0,17.0
+Serie A,3879683,2016-01-10,Hellas Verona,0,4.0
+Serie A,3879691,2016-01-17,Hellas Verona,0,7.0
+Serie A,3879702,2016-01-24,Hellas Verona,0,7.0
+Serie A,3879715,2016-01-31,Hellas Verona,0,7.0
+Serie A,3879722,2016-02-03,Hellas Verona,0,3.0
+Serie A,3879730,2016-02-07,Hellas Verona,0,4.0
+Serie A,3879737,2016-02-11,Hellas Verona,0,4.0
+Serie A,3879748,2016-02-20,Hellas Verona,0,9.0
+Serie A,3879762,2016-02-28,Hellas Verona,0,8.0
+Serie A,3879768,2016-03-05,Hellas Verona,0,6.0
+Serie A,3879780,2016-03-13,Hellas Verona,0,8.0
+Serie A,3879795,2016-03-20,Hellas Verona,0,7.0
+Serie A,3879806,2016-04-04,Hellas Verona,0,15.0
+Serie A,3879811,2016-04-10,Hellas Verona,0,6.0
+Serie A,3879826,2016-04-17,Hellas Verona,1,7.0
+Serie A,3879829,2016-04-20,Hellas Verona,1,3.0
+Serie A,3879846,2016-04-25,Hellas Verona,2,5.0
+Serie A,3879854,2016-05-01,Hellas Verona,1,6.0
+Serie A,3879864,2016-05-08,Hellas Verona,0,7.0
+Serie A,3879875,2016-05-15,Hellas Verona,0,7.0
+Serie A,3878543,2015-08-23,Inter Milan,1,
+Serie A,3878552,2015-08-30,Inter Milan,0,7.0
+Serie A,3878600,2015-09-13,Inter Milan,2,14.0
+Serie A,3878611,2015-09-20,Inter Milan,1,7.0
+Serie A,3879542,2015-09-23,Inter Milan,0,3.0
+Serie A,3879550,2015-09-27,Inter Milan,0,4.0
+Serie A,3879565,2015-10-04,Inter Milan,0,7.0
+Serie A,3879574,2015-10-18,Inter Milan,0,14.0
+Serie A,3879579,2015-10-24,Inter Milan,0,6.0
+Serie A,3879587,2015-10-27,Inter Milan,0,3.0
+Serie A,3879598,2015-10-31,Inter Milan,1,4.0
+Serie A,3879614,2015-11-08,Inter Milan,1,8.0
+Serie A,3879626,2015-11-22,Inter Milan,0,14.0
+Serie A,3879635,2015-11-30,Inter Milan,0,8.0
+Serie A,3879638,2015-12-05,Inter Milan,1,5.0
+Serie A,3879648,2015-12-12,Inter Milan,0,7.0
+Serie A,3879659,2015-12-20,Inter Milan,0,8.0
+Serie A,3879668,2016-01-06,Inter Milan,0,17.0
+Serie A,3879681,2016-01-10,Inter Milan,0,4.0
+Serie A,3879688,2016-01-16,Inter Milan,0,6.0
+Serie A,3879704,2016-01-24,Inter Milan,0,8.0
+Serie A,3879712,2016-01-31,Inter Milan,0,7.0
+Serie A,3879723,2016-02-03,Inter Milan,0,3.0
+Serie A,3879730,2016-02-07,Inter Milan,0,4.0
+Serie A,3879746,2016-02-14,Inter Milan,0,7.0
+Serie A,3879749,2016-02-20,Inter Milan,0,6.0
+Serie A,3879759,2016-02-28,Inter Milan,1,8.0
+Serie A,3879774,2016-03-06,Inter Milan,0,7.0
+Serie A,3879779,2016-03-12,Inter Milan,1,6.0
+Serie A,3879787,2016-03-19,Inter Milan,0,7.0
+Serie A,3879801,2016-04-03,Inter Milan,0,15.0
+Serie A,3879808,2016-04-09,Inter Milan,0,6.0
+Serie A,3879817,2016-04-16,Inter Milan,0,7.0
+Serie A,3879830,2016-04-20,Inter Milan,0,4.0
+Serie A,3879837,2016-04-23,Inter Milan,2,3.0
+Serie A,3879853,2016-05-01,Inter Milan,0,8.0
+Serie A,3879857,2016-05-07,Inter Milan,1,6.0
+Serie A,3879868,2016-05-14,Inter Milan,1,7.0
+Serie A,3878548,2015-08-23,Juventus,0,
+Serie A,3878555,2015-08-30,Juventus,0,7.0
+Serie A,3878594,2015-09-12,Juventus,0,13.0
+Serie A,3878609,2015-09-20,Juventus,2,8.0
+Serie A,3879543,2015-09-23,Juventus,0,3.0
+Serie A,3879548,2015-09-26,Juventus,0,3.0
+Serie A,3879559,2015-10-04,Juventus,0,8.0
+Serie A,3879574,2015-10-18,Juventus,0,14.0
+Serie A,3879580,2015-10-25,Juventus,1,7.0
+Serie A,3879591,2015-10-28,Juventus,0,3.0
+Serie A,3879597,2015-10-31,Juventus,1,3.0
+Serie A,3879613,2015-11-08,Juventus,0,8.0
+Serie A,3879618,2015-11-21,Juventus,1,13.0
+Serie A,3879630,2015-11-29,Juventus,0,8.0
+Serie A,3879637,2015-12-04,Juventus,0,5.0
+Serie A,3879653,2015-12-13,Juventus,0,9.0
+Serie A,3879660,2015-12-20,Juventus,0,7.0
+Serie A,3879670,2016-01-06,Juventus,0,17.0
+Serie A,3879684,2016-01-10,Juventus,0,4.0
+Serie A,3879693,2016-01-17,Juventus,0,7.0
+Serie A,3879701,2016-01-24,Juventus,0,7.0
+Serie A,3879713,2016-01-31,Juventus,0,7.0
+Serie A,3879726,2016-02-03,Juventus,2,3.0
+Serie A,3879733,2016-02-07,Juventus,1,4.0
+Serie A,3879739,2016-02-13,Juventus,1,6.0
+Serie A,3879747,2016-02-19,Juventus,0,6.0
+Serie A,3879759,2016-02-28,Juventus,1,9.0
+Serie A,3879770,2016-03-06,Juventus,0,7.0
+Serie A,3879777,2016-03-11,Juventus,0,5.0
+Serie A,3879790,2016-03-20,Juventus,1,9.0
+Serie A,3879798,2016-04-02,Juventus,0,13.0
+Serie A,3879810,2016-04-09,Juventus,2,7.0
+Serie A,3879820,2016-04-17,Juventus,1,8.0
+Serie A,3879833,2016-04-20,Juventus,0,3.0
+Serie A,3879839,2016-04-24,Juventus,0,4.0
+Serie A,3879850,2016-05-01,Juventus,1,7.0
+Serie A,3879864,2016-05-08,Juventus,0,7.0
+Serie A,3879870,2016-05-14,Juventus,0,6.0
+La Liga,3825563,2015-08-22,Las Palmas,1,
+La Liga,3825575,2015-08-30,Las Palmas,0,8.0
+La Liga,3825585,2015-09-13,Las Palmas,0,14.0
+La Liga,3825597,2015-09-20,Las Palmas,0,7.0
+La Liga,3825895,2015-09-23,Las Palmas,0,3.0
+La Liga,267611,2015-09-26,Las Palmas,0,3.0
+La Liga,3825618,2015-10-03,Las Palmas,0,7.0
+La Liga,3825628,2015-10-18,Las Palmas,0,15.0
+La Liga,3825639,2015-10-25,Las Palmas,0,7.0
+La Liga,3825643,2015-10-31,Las Palmas,0,6.0
+La Liga,3825652,2015-11-06,Las Palmas,1,6.0
+La Liga,3825888,2015-11-21,Las Palmas,0,15.0
+La Liga,3825673,2015-11-28,Las Palmas,0,7.0
+La Liga,3825685,2015-12-06,Las Palmas,0,8.0
+La Liga,3825690,2015-12-12,Las Palmas,0,6.0
+La Liga,3825891,2015-12-19,Las Palmas,0,7.0
+La Liga,3825707,2015-12-30,Las Palmas,2,11.0
+La Liga,3825719,2016-01-03,Las Palmas,0,4.0
+La Liga,3825731,2016-01-10,Las Palmas,0,7.0
+La Liga,3825738,2016-01-17,Las Palmas,0,7.0
+La Liga,3825749,2016-01-25,Las Palmas,0,8.0
+La Liga,3825754,2016-01-31,Las Palmas,1,6.0
+La Liga,3825763,2016-02-06,Las Palmas,0,6.0
+La Liga,3825776,2016-02-14,Las Palmas,1,8.0
+La Liga,267273,2016-02-20,Las Palmas,0,6.0
+La Liga,3825786,2016-02-26,Las Palmas,0,6.0
+La Liga,3825796,2016-03-01,Las Palmas,2,4.0
+La Liga,3825805,2016-03-05,Las Palmas,0,4.0
+La Liga,3825879,2016-03-13,Las Palmas,0,8.0
+La Liga,3825818,2016-03-19,Las Palmas,0,6.0
+La Liga,3825822,2016-04-02,Las Palmas,1,14.0
+La Liga,3825863,2016-04-11,Las Palmas,0,9.0
+La Liga,3825852,2016-04-16,Las Palmas,0,5.0
+La Liga,3825837,2016-04-19,Las Palmas,0,3.0
+La Liga,3825871,2016-04-22,Las Palmas,1,3.0
+La Liga,3825859,2016-04-30,Las Palmas,0,8.0
+La Liga,3825866,2016-05-08,Las Palmas,0,8.0
+La Liga,3825883,2016-05-15,Las Palmas,1,7.0
+Serie A,3878540,2015-08-22,Lazio,1,
+Serie A,3878553,2015-08-30,Lazio,0,8.0
+Serie A,3878595,2015-09-13,Lazio,0,14.0
+Serie A,3878604,2015-09-20,Lazio,0,7.0
+Serie A,3879538,2015-09-23,Lazio,0,3.0
+Serie A,3879551,2015-09-27,Lazio,0,4.0
+Serie A,3879560,2015-10-04,Lazio,2,7.0
+Serie A,3879573,2015-10-18,Lazio,0,14.0
+Serie A,3879582,2015-10-25,Lazio,0,7.0
+Serie A,3879588,2015-10-28,Lazio,0,3.0
+Serie A,3879599,2015-11-01,Lazio,0,4.0
+Serie A,3879610,2015-11-08,Lazio,0,7.0
+Serie A,3879624,2015-11-22,Lazio,0,14.0
+Serie A,3879633,2015-11-29,Lazio,0,7.0
+Serie A,3879637,2015-12-04,Lazio,0,5.0
+Serie A,3879655,2015-12-14,Lazio,1,10.0
+Serie A,3879659,2015-12-20,Lazio,0,6.0
+Serie A,3879675,2016-01-06,Lazio,0,17.0
+Serie A,3879677,2016-01-09,Lazio,1,3.0
+Serie A,3879694,2016-01-17,Lazio,0,8.0
+Serie A,3879703,2016-01-24,Lazio,0,7.0
+Serie A,3879711,2016-01-31,Lazio,2,7.0
+Serie A,3879720,2016-02-03,Lazio,1,3.0
+Serie A,3879727,2016-02-06,Lazio,0,3.0
+Serie A,3879737,2016-02-11,Lazio,0,5.0
+Serie A,3879755,2016-02-21,Lazio,0,10.0
+Serie A,3879766,2016-02-29,Lazio,0,8.0
+Serie A,3879772,2016-03-06,Lazio,0,6.0
+Serie A,3879785,2016-03-13,Lazio,1,7.0
+Serie A,3879791,2016-03-20,Lazio,0,7.0
+Serie A,3879799,2016-04-03,Lazio,0,14.0
+Serie A,3879812,2016-04-10,Lazio,0,7.0
+Serie A,3879825,2016-04-17,Lazio,1,7.0
+Serie A,3879833,2016-04-20,Lazio,0,3.0
+Serie A,3879838,2016-04-24,Lazio,1,4.0
+Serie A,3879853,2016-05-01,Lazio,0,7.0
+Serie A,3879859,2016-05-08,Lazio,1,7.0
+Serie A,3879874,2016-05-15,Lazio,0,7.0
+Premier League,3754237,2015-08-08,Leicester City,0,
+Premier League,3754203,2015-08-15,Leicester City,0,7.0
+Premier League,3753987,2015-08-22,Leicester City,0,7.0
+Premier League,3754023,2015-08-29,Leicester City,0,7.0
+Premier League,3754106,2015-09-13,Leicester City,0,15.0
+Premier League,3754146,2015-09-19,Leicester City,1,6.0
+Premier League,3754174,2015-09-26,Leicester City,0,7.0
+Premier League,3754335,2015-10-03,Leicester City,1,7.0
+Premier League,3754302,2015-10-17,Leicester City,0,14.0
+Premier League,3754263,2015-10-24,Leicester City,0,7.0
+Premier League,3754006,2015-10-31,Leicester City,0,7.0
+Premier League,3754156,2015-11-07,Leicester City,0,7.0
+Premier League,3754211,2015-11-21,Leicester City,0,14.0
+Premier League,3754186,2015-11-28,Leicester City,0,7.0
+Premier League,3754085,2015-12-05,Leicester City,0,7.0
+Premier League,3754013,2015-12-14,Leicester City,0,9.0
+Premier League,3754166,2015-12-19,Leicester City,0,5.0
+Premier League,3754343,2015-12-26,Leicester City,0,7.0
+Premier League,3754045,2015-12-29,Leicester City,0,3.0
+Premier League,3754058,2016-01-02,Leicester City,0,4.0
+Premier League,3754065,2016-01-13,Leicester City,0,11.0
+Premier League,3754250,2016-01-16,Leicester City,0,3.0
+Premier League,3754341,2016-01-23,Leicester City,0,7.0
+Premier League,3754275,2016-02-02,Leicester City,0,10.0
+Premier League,3754290,2016-02-06,Leicester City,0,4.0
+Premier League,3754261,2016-02-14,Leicester City,0,8.0
+Premier League,3754049,2016-02-27,Leicester City,0,13.0
+Premier League,3754231,2016-03-01,Leicester City,0,3.0
+Premier League,3754289,2016-03-05,Leicester City,0,4.0
+Premier League,3754002,2016-03-14,Leicester City,0,9.0
+Premier League,3754181,2016-03-19,Leicester City,0,5.0
+Premier League,3753982,2016-04-03,Leicester City,0,15.0
+Premier League,3754152,2016-04-10,Leicester City,0,7.0
+Premier League,3754227,2016-04-17,Leicester City,0,7.0
+Premier League,3754228,2016-04-24,Leicester City,1,7.0
+Premier League,3754165,2016-05-01,Leicester City,0,7.0
+Premier League,3754033,2016-05-07,Leicester City,0,6.0
+Premier League,3754229,2016-05-15,Leicester City,0,8.0
+La Liga,3825569,2015-08-23,Levante UD,0,
+La Liga,3825575,2015-08-30,Levante UD,0,7.0
+La Liga,3825580,2015-09-11,Levante UD,0,12.0
+La Liga,266490,2015-09-20,Levante UD,0,9.0
+La Liga,3825848,2015-09-23,Levante UD,1,3.0
+La Liga,3825612,2015-09-27,Levante UD,1,4.0
+La Liga,3825619,2015-10-04,Levante UD,1,7.0
+La Liga,3825625,2015-10-17,Levante UD,1,13.0
+La Liga,3825640,2015-10-25,Levante UD,0,8.0
+La Liga,3825647,2015-10-31,Levante UD,0,6.0
+La Liga,3825656,2015-11-07,Levante UD,0,7.0
+La Liga,3825668,2015-11-22,Levante UD,0,15.0
+La Liga,3825670,2015-11-27,Levante UD,0,5.0
+La Liga,3825687,2015-12-07,Levante UD,0,10.0
+La Liga,3825691,2015-12-12,Levante UD,1,5.0
+La Liga,3825703,2015-12-20,Levante UD,0,8.0
+La Liga,3825708,2015-12-30,Levante UD,0,10.0
+La Liga,3825714,2016-01-02,Levante UD,0,3.0
+La Liga,3825723,2016-01-09,Levante UD,0,7.0
+La Liga,3825732,2016-01-16,Levante UD,0,7.0
+La Liga,3825749,2016-01-25,Levante UD,1,9.0
+La Liga,3825756,2016-01-31,Levante UD,0,6.0
+La Liga,266160,2016-02-07,Levante UD,0,7.0
+La Liga,3825773,2016-02-14,Levante UD,0,7.0
+La Liga,3825777,2016-02-19,Levante UD,0,5.0
+La Liga,3825794,2016-02-28,Levante UD,0,9.0
+La Liga,3825798,2016-03-02,Levante UD,0,3.0
+La Liga,3825810,2016-03-06,Levante UD,1,4.0
+La Liga,3825815,2016-03-13,Levante UD,1,7.0
+La Liga,3825880,2016-03-19,Levante UD,0,6.0
+La Liga,3825825,2016-04-04,Levante UD,0,16.0
+La Liga,3825827,2016-04-09,Levante UD,0,5.0
+La Liga,3825857,2016-04-15,Levante UD,0,6.0
+La Liga,3825896,2016-04-21,Levante UD,0,6.0
+La Liga,3825842,2016-04-24,Levante UD,0,3.0
+La Liga,3825855,2016-05-02,Levante UD,0,8.0
+La Liga,3825860,2016-05-08,Levante UD,0,6.0
+La Liga,3825902,2016-05-15,Levante UD,1,7.0
+Ligue 1,3829413,2015-08-07,Lille,0,
+Ligue 1,3829423,2015-08-14,Lille,1,7.0
+Ligue 1,3829442,2015-08-23,Lille,0,9.0
+Ligue 1,3829447,2015-08-29,Lille,0,6.0
+Ligue 1,3829454,2015-09-12,Lille,2,14.0
+Ligue 1,3829463,2015-09-18,Lille,0,6.0
+Ligue 1,3829482,2015-09-25,Lille,1,7.0
+Ligue 1,3829492,2015-09-29,Lille,1,4.0
+Ligue 1,3829493,2015-10-02,Lille,0,3.0
+Ligue 1,3829506,2015-10-17,Lille,0,15.0
+Ligue 1,3829518,2015-10-25,Lille,0,8.0
+Ligue 1,3900497,2015-11-01,Lille,1,7.0
+Ligue 1,3900503,2015-11-07,Lille,0,6.0
+Ligue 1,3900513,2015-11-21,Lille,0,14.0
+Ligue 1,3900526,2015-11-28,Lille,0,7.0
+Ligue 1,3900535,2015-12-02,Lille,0,4.0
+Ligue 1,3900542,2015-12-05,Lille,1,3.0
+Ligue 1,3900551,2015-12-12,Lille,0,7.0
+Ligue 1,3900561,2015-12-19,Lille,0,7.0
+Ligue 1,3900578,2016-01-10,Lille,1,22.0
+Ligue 1,3900581,2016-01-16,Lille,1,6.0
+Ligue 1,3900593,2016-01-23,Lille,0,7.0
+Ligue 1,3900600,2016-01-29,Lille,0,6.0
+Ligue 1,3900614,2016-02-03,Lille,0,5.0
+Ligue 1,3900628,2016-02-07,Lille,1,4.0
+Ligue 1,3900634,2016-02-13,Lille,1,6.0
+Ligue 1,3901151,2016-02-21,Lille,0,8.0
+Ligue 1,3901155,2016-02-27,Lille,1,6.0
+Ligue 1,3901168,2016-03-05,Lille,0,7.0
+Ligue 1,3901177,2016-03-12,Lille,0,7.0
+Ligue 1,3901189,2016-03-19,Lille,0,7.0
+Ligue 1,3901203,2016-04-03,Lille,0,15.0
+Ligue 1,3901212,2016-04-10,Lille,0,7.0
+Ligue 1,3901215,2016-04-16,Lille,0,6.0
+Ligue 1,3901232,2016-04-27,Lille,0,11.0
+Ligue 1,3901240,2016-04-30,Lille,1,3.0
+Ligue 1,3901248,2016-05-07,Lille,0,7.0
+Ligue 1,3901257,2016-05-14,Lille,0,7.0
+Premier League,3753985,2015-08-09,Liverpool,0,
+Premier League,3754020,2015-08-17,Liverpool,0,8.0
+Premier League,3754129,2015-08-24,Liverpool,0,7.0
+Premier League,3753984,2015-08-29,Liverpool,0,5.0
+Premier League,3754003,2015-09-12,Liverpool,0,14.0
+Premier League,3754040,2015-09-20,Liverpool,0,8.0
+Premier League,3754212,2015-09-26,Liverpool,0,6.0
+Premier League,3754060,2015-10-04,Liverpool,0,8.0
+Premier League,3754198,2015-10-17,Liverpool,0,13.0
+Premier League,3754230,2015-10-25,Liverpool,0,8.0
+Premier League,3754098,2015-10-31,Liverpool,0,6.0
+Premier League,3754351,2015-11-08,Liverpool,0,8.0
+Premier League,3754208,2015-11-21,Liverpool,0,13.0
+Premier League,3754047,2015-11-29,Liverpool,0,8.0
+Premier League,3754143,2015-12-06,Liverpool,0,7.0
+Premier League,3754255,2015-12-13,Liverpool,1,7.0
+Premier League,3754051,2015-12-20,Liverpool,1,7.0
+Premier League,3754343,2015-12-26,Liverpool,1,6.0
+Premier League,3754226,2015-12-30,Liverpool,0,4.0
+Premier League,3754251,2016-01-02,Liverpool,0,3.0
+Premier League,3754305,2016-01-13,Liverpool,0,11.0
+Premier League,3754345,2016-01-17,Liverpool,0,4.0
+Premier League,3754348,2016-01-23,Liverpool,0,6.0
+Premier League,3754275,2016-02-02,Liverpool,0,10.0
+Premier League,3754316,2016-02-06,Liverpool,2,4.0
+Premier League,3754214,2016-02-14,Liverpool,0,8.0
+Premier League,3753991,2016-03-02,Liverpool,0,17.0
+Premier League,3754220,2016-03-06,Liverpool,0,4.0
+Premier League,3754064,2016-03-20,Liverpool,0,14.0
+Premier League,3754087,2016-04-02,Liverpool,0,13.0
+Premier League,3753986,2016-04-10,Liverpool,0,8.0
+Premier League,3754216,2016-04-17,Liverpool,0,7.0
+Premier League,3754294,2016-04-20,Liverpool,1,3.0
+Premier League,3754154,2016-04-23,Liverpool,0,3.0
+Premier League,3754018,2016-05-01,Liverpool,0,8.0
+Premier League,3754342,2016-05-08,Liverpool,0,7.0
+Premier League,3754055,2016-05-11,Liverpool,0,3.0
+Premier League,3754042,2016-05-15,Liverpool,0,4.0
+Ligue 1,3829422,2015-08-09,Lorient,0,
+Ligue 1,3829431,2015-08-16,Lorient,0,7.0
+Ligue 1,3829440,2015-08-23,Lorient,0,7.0
+Ligue 1,3829448,2015-08-29,Lorient,0,6.0
+Ligue 1,3829456,2015-09-12,Lorient,0,14.0
+Ligue 1,3829469,2015-09-20,Lorient,1,8.0
+Ligue 1,3829479,2015-09-23,Lorient,0,3.0
+Ligue 1,3829489,2015-09-27,Lorient,0,4.0
+Ligue 1,3829498,2015-10-04,Lorient,2,7.0
+Ligue 1,3829509,2015-10-18,Lorient,0,14.0
+Ligue 1,3829516,2015-10-24,Lorient,0,6.0
+Ligue 1,3900492,2015-10-31,Lorient,0,7.0
+Ligue 1,3900502,2015-11-07,Lorient,0,7.0
+Ligue 1,3900511,2015-11-21,Lorient,0,14.0
+Ligue 1,3900524,2015-11-28,Lorient,0,7.0
+Ligue 1,3900531,2015-12-01,Lorient,0,3.0
+Ligue 1,3900544,2015-12-05,Lorient,0,4.0
+Ligue 1,3900551,2015-12-12,Lorient,0,7.0
+Ligue 1,3900565,2015-12-19,Lorient,1,7.0
+Ligue 1,3900571,2016-01-09,Lorient,1,21.0
+Ligue 1,3900588,2016-01-17,Lorient,0,8.0
+Ligue 1,3900595,2016-01-23,Lorient,0,6.0
+Ligue 1,3900602,2016-01-30,Lorient,0,7.0
+Ligue 1,3900618,2016-02-03,Lorient,0,4.0
+Ligue 1,3900623,2016-02-06,Lorient,0,3.0
+Ligue 1,3900636,2016-02-13,Lorient,0,7.0
+Ligue 1,3901148,2016-02-20,Lorient,1,7.0
+Ligue 1,3901154,2016-02-27,Lorient,0,7.0
+Ligue 1,3901167,2016-03-05,Lorient,0,7.0
+Ligue 1,3901178,2016-03-12,Lorient,0,7.0
+Ligue 1,3901187,2016-03-19,Lorient,0,7.0
+Ligue 1,3901202,2016-04-03,Lorient,0,15.0
+Ligue 1,3901205,2016-04-09,Lorient,0,6.0
+Ligue 1,3901219,2016-04-16,Lorient,0,7.0
+Ligue 1,3901228,2016-04-24,Lorient,1,8.0
+Ligue 1,3901240,2016-04-30,Lorient,0,6.0
+Ligue 1,3901245,2016-05-07,Lorient,0,7.0
+Ligue 1,3901260,2016-05-14,Lorient,1,7.0
+Ligue 1,3829422,2015-08-09,Lyon,0,
+Ligue 1,3829426,2015-08-15,Lyon,0,6.0
+Ligue 1,3829435,2015-08-22,Lyon,0,7.0
+Ligue 1,3829444,2015-08-29,Lyon,1,7.0
+Ligue 1,3829454,2015-09-12,Lyon,0,14.0
+Ligue 1,3829472,2015-09-20,Lyon,1,8.0
+Ligue 1,3829476,2015-09-23,Lyon,0,3.0
+Ligue 1,3829484,2015-09-26,Lyon,0,3.0
+Ligue 1,3829495,2015-10-03,Lyon,0,7.0
+Ligue 1,3829502,2015-10-16,Lyon,0,13.0
+Ligue 1,3829512,2015-10-23,Lyon,0,7.0
+Ligue 1,3900493,2015-10-31,Lyon,0,8.0
+Ligue 1,3900509,2015-11-08,Lyon,2,8.0
+Ligue 1,3900510,2015-11-20,Lyon,0,12.0
+Ligue 1,3900520,2015-11-27,Lyon,0,7.0
+Ligue 1,3900530,2015-12-01,Lyon,1,4.0
+Ligue 1,3900545,2015-12-05,Lyon,0,4.0
+Ligue 1,3900557,2015-12-13,Lyon,0,8.0
+Ligue 1,3900568,2015-12-20,Lyon,1,7.0
+Ligue 1,3900574,2016-01-09,Lyon,0,20.0
+Ligue 1,3900587,2016-01-17,Lyon,0,8.0
+Ligue 1,3900597,2016-01-24,Lyon,0,7.0
+Ligue 1,3900605,2016-01-30,Lyon,0,6.0
+Ligue 1,3900616,2016-02-03,Lyon,0,4.0
+Ligue 1,3900624,2016-02-06,Lyon,0,3.0
+Ligue 1,3900638,2016-02-14,Lyon,0,8.0
+Ligue 1,3901151,2016-02-21,Lyon,0,7.0
+Ligue 1,3901159,2016-02-28,Lyon,0,7.0
+Ligue 1,3901171,2016-03-06,Lyon,0,7.0
+Ligue 1,3901181,2016-03-13,Lyon,0,7.0
+Ligue 1,3901186,2016-03-19,Lyon,0,6.0
+Ligue 1,3901202,2016-04-03,Lyon,0,15.0
+Ligue 1,3901204,2016-04-08,Lyon,0,5.0
+Ligue 1,3901214,2016-04-15,Lyon,0,7.0
+Ligue 1,3901225,2016-04-23,Lyon,0,8.0
+Ligue 1,3901235,2016-04-30,Lyon,1,7.0
+Ligue 1,3901252,2016-05-07,Lyon,0,7.0
+Ligue 1,3901254,2016-05-14,Lyon,2,7.0
+Premier League,3754145,2015-08-10,Manchester City,0,
+Premier League,3754066,2015-08-16,Manchester City,0,6.0
+Premier League,3754233,2015-08-23,Manchester City,0,7.0
+Premier League,3754246,2015-08-29,Manchester City,0,6.0
+Premier League,3754257,2015-09-12,Manchester City,0,14.0
+Premier League,3754077,2015-09-19,Manchester City,0,7.0
+Premier League,3754197,2015-09-26,Manchester City,1,7.0
+Premier League,3754079,2015-10-03,Manchester City,0,7.0
+Premier League,3754193,2015-10-17,Manchester City,0,14.0
+Premier League,3754015,2015-10-25,Manchester City,0,8.0
+Premier League,3754167,2015-10-31,Manchester City,0,6.0
+Premier League,3754258,2015-11-08,Manchester City,1,8.0
+Premier League,3754208,2015-11-21,Manchester City,0,13.0
+Premier League,3754028,2015-11-28,Manchester City,1,7.0
+Premier League,3754135,2015-12-05,Manchester City,0,7.0
+Premier League,3754328,2015-12-12,Manchester City,0,7.0
+Premier League,3754296,2015-12-21,Manchester City,0,9.0
+Premier League,3754054,2015-12-26,Manchester City,0,5.0
+Premier League,3754045,2015-12-29,Manchester City,0,3.0
+Premier League,3754346,2016-01-02,Manchester City,0,4.0
+Premier League,3754142,2016-01-13,Manchester City,0,11.0
+Premier League,3754260,2016-01-16,Manchester City,1,3.0
+Premier League,3754110,2016-01-23,Manchester City,0,7.0
+Premier League,3754095,2016-02-02,Manchester City,1,10.0
+Premier League,3754290,2016-02-06,Manchester City,0,4.0
+Premier League,3754147,2016-02-14,Manchester City,0,8.0
+Premier League,3753991,2016-03-02,Manchester City,0,17.0
+Premier League,3754249,2016-03-05,Manchester City,0,3.0
+Premier League,3754313,2016-03-12,Manchester City,0,7.0
+Premier League,3754124,2016-03-20,Manchester City,1,8.0
+Premier League,3754144,2016-04-02,Manchester City,0,13.0
+Premier League,3754035,2016-04-09,Manchester City,0,7.0
+Premier League,3754322,2016-04-16,Manchester City,0,7.0
+Premier League,3754206,2016-04-19,Manchester City,0,3.0
+Premier League,3754307,2016-04-23,Manchester City,0,4.0
+Premier League,3754320,2016-05-01,Manchester City,0,8.0
+Premier League,3754314,2016-05-08,Manchester City,0,7.0
+Premier League,3754149,2016-05-15,Manchester City,0,7.0
+Premier League,3754097,2015-08-08,Manchester United,0,
+Premier League,3754107,2015-08-14,Manchester United,0,6.0
+Premier League,3754254,2015-08-22,Manchester United,0,8.0
+Premier League,3754221,2015-08-30,Manchester United,0,8.0
+Premier League,3754003,2015-09-12,Manchester United,0,13.0
+Premier League,3754011,2015-09-20,Manchester United,0,8.0
+Premier League,3754008,2015-09-26,Manchester United,0,6.0
+Premier League,3754171,2015-10-04,Manchester United,0,8.0
+Premier League,3754256,2015-10-17,Manchester United,0,13.0
+Premier League,3754015,2015-10-25,Manchester United,1,8.0
+Premier League,3754223,2015-10-31,Manchester United,0,6.0
+Premier League,3754297,2015-11-07,Manchester United,0,7.0
+Premier League,3754185,2015-11-21,Manchester United,1,14.0
+Premier League,3754186,2015-11-28,Manchester United,0,7.0
+Premier League,3754347,2015-12-05,Manchester United,1,7.0
+Premier League,3754162,2015-12-12,Manchester United,0,7.0
+Premier League,3754044,2015-12-19,Manchester United,0,7.0
+Premier League,3754014,2015-12-26,Manchester United,0,7.0
+Premier League,3754019,2015-12-28,Manchester United,0,2.0
+Premier League,3754319,2016-01-02,Manchester United,0,5.0
+Premier League,3754088,2016-01-12,Manchester United,0,10.0
+Premier League,3754345,2016-01-17,Manchester United,0,5.0
+Premier League,3754200,2016-01-23,Manchester United,1,6.0
+Premier League,3754094,2016-02-02,Manchester United,0,10.0
+Premier League,3754281,2016-02-07,Manchester United,0,5.0
+Premier League,3754031,2016-02-13,Manchester United,1,6.0
+Premier League,3754239,2016-02-28,Manchester United,0,15.0
+Premier League,3754232,2016-03-02,Manchester United,0,3.0
+Premier League,3754081,2016-03-06,Manchester United,0,4.0
+Premier League,3754124,2016-03-20,Manchester United,0,14.0
+Premier League,3754299,2016-04-03,Manchester United,0,14.0
+Premier League,3754209,2016-04-10,Manchester United,0,7.0
+Premier League,3754295,2016-04-16,Manchester United,0,6.0
+Premier League,3754310,2016-04-20,Manchester United,0,4.0
+Premier League,3754165,2016-05-01,Manchester United,0,11.0
+Premier League,3754210,2016-05-07,Manchester United,1,6.0
+Premier League,3754134,2016-05-10,Manchester United,0,3.0
+Premier League,3754159,2016-05-17,Manchester United,0,7.0
+Ligue 1,3829430,2015-08-16,Marseille,0,
+Ligue 1,3829443,2015-08-28,Marseille,0,12.0
+Ligue 1,3829477,2015-09-23,Marseille,0,26.0
+Ligue 1,3829500,2015-10-04,Marseille,0,11.0
+Ligue 1,3829518,2015-10-25,Marseille,0,21.0
+Ligue 1,3900637,2016-02-14,Marseille,1,112.0
+Ligue 1,3901173,2016-03-09,Marseille,0,24.0
+Ligue 1,3901178,2016-03-12,Marseille,2,3.0
+Ligue 1,3901201,2016-04-03,Marseille,1,22.0
+Ligue 1,3901223,2016-04-17,Marseille,0,14.0
+Ligue 1,3901242,2016-05-01,Marseille,0,14.0
+Ligue 1,3829419,2015-08-08,Montpellier,0,
+Ligue 1,3829429,2015-08-15,Montpellier,0,7.0
+Ligue 1,3829433,2015-08-21,Montpellier,0,6.0
+Ligue 1,3829446,2015-08-29,Montpellier,0,8.0
+Ligue 1,3829457,2015-09-12,Montpellier,0,14.0
+Ligue 1,3829467,2015-09-19,Montpellier,0,7.0
+Ligue 1,3829481,2015-09-24,Montpellier,1,5.0
+Ligue 1,3829489,2015-09-27,Montpellier,1,3.0
+Ligue 1,3829493,2015-10-02,Montpellier,0,5.0
+Ligue 1,3829511,2015-10-18,Montpellier,3,16.0
+Ligue 1,3829515,2015-10-24,Montpellier,0,6.0
+Ligue 1,3900496,2015-10-31,Montpellier,0,7.0
+Ligue 1,3900504,2015-11-07,Montpellier,0,7.0
+Ligue 1,3900512,2015-11-21,Montpellier,0,14.0
+Ligue 1,3900520,2015-11-27,Montpellier,0,6.0
+Ligue 1,3900536,2015-12-02,Montpellier,0,5.0
+Ligue 1,3900547,2015-12-06,Montpellier,0,4.0
+Ligue 1,3900552,2015-12-12,Montpellier,0,6.0
+Ligue 1,3900560,2015-12-18,Montpellier,0,6.0
+Ligue 1,3900576,2016-01-09,Montpellier,0,22.0
+Ligue 1,3900584,2016-01-16,Montpellier,0,7.0
+Ligue 1,3900592,2016-01-23,Montpellier,1,7.0
+Ligue 1,3900601,2016-01-30,Montpellier,0,7.0
+Ligue 1,3900610,2016-02-02,Montpellier,0,3.0
+Ligue 1,3900623,2016-02-06,Montpellier,0,4.0
+Ligue 1,3900631,2016-02-13,Montpellier,0,7.0
+Ligue 1,3901145,2016-02-20,Montpellier,0,7.0
+Ligue 1,3901155,2016-02-27,Montpellier,1,7.0
+Ligue 1,3901166,2016-03-05,Montpellier,2,7.0
+Ligue 1,3901175,2016-03-12,Montpellier,0,7.0
+Ligue 1,3901188,2016-03-19,Montpellier,1,7.0
+Ligue 1,3901197,2016-04-02,Montpellier,0,14.0
+Ligue 1,3901204,2016-04-08,Montpellier,0,6.0
+Ligue 1,3901222,2016-04-17,Montpellier,0,9.0
+Ligue 1,3901226,2016-04-24,Montpellier,0,7.0
+Ligue 1,3901234,2016-04-30,Montpellier,0,6.0
+Ligue 1,3901249,2016-05-07,Montpellier,0,7.0
+Ligue 1,3901256,2016-05-14,Montpellier,0,7.0
+La Liga,3825562,2015-08-21,Málaga,0,
+La Liga,267422,2015-08-29,Málaga,1,8.0
+La Liga,3825586,2015-09-13,Málaga,0,15.0
+La Liga,3825589,2015-09-18,Málaga,0,5.0
+La Liga,3825600,2015-09-23,Málaga,0,5.0
+La Liga,3825606,2015-09-26,Málaga,0,3.0
+La Liga,3825616,2015-10-03,Málaga,0,7.0
+La Liga,3825623,2015-10-17,Málaga,1,14.0
+La Liga,3825636,2015-10-24,Málaga,1,7.0
+La Liga,3825649,2015-11-01,Málaga,0,8.0
+La Liga,3825657,2015-11-07,Málaga,0,6.0
+La Liga,3825663,2015-11-21,Málaga,0,14.0
+La Liga,3825672,2015-11-28,Málaga,0,7.0
+La Liga,3825686,2015-12-06,Málaga,0,8.0
+La Liga,3825696,2015-12-13,Málaga,0,7.0
+La Liga,3825701,2015-12-20,Málaga,0,7.0
+La Liga,3825708,2015-12-30,Málaga,0,10.0
+La Liga,3825715,2016-01-02,Málaga,0,3.0
+La Liga,3825731,2016-01-10,Málaga,1,8.0
+La Liga,3825733,2016-01-16,Málaga,0,6.0
+La Liga,265894,2016-01-23,Málaga,0,7.0
+La Liga,3825752,2016-01-30,Málaga,0,7.0
+La Liga,3825759,2016-02-05,Málaga,0,6.0
+La Liga,3825769,2016-02-13,Málaga,0,8.0
+La Liga,3825785,2016-02-21,Málaga,0,8.0
+La Liga,3825789,2016-02-27,Málaga,0,6.0
+La Liga,3825799,2016-03-02,Málaga,0,4.0
+La Liga,3825804,2016-03-05,Málaga,1,3.0
+La Liga,3825812,2016-03-11,Málaga,0,6.0
+La Liga,3825903,2016-03-19,Málaga,0,8.0
+La Liga,3825905,2016-04-03,Málaga,0,15.0
+La Liga,3825826,2016-04-08,Málaga,0,5.0
+La Liga,3825835,2016-04-17,Málaga,0,9.0
+La Liga,3825843,2016-04-20,Málaga,0,3.0
+La Liga,3825890,2016-04-23,Málaga,0,3.0
+La Liga,3825855,2016-05-02,Málaga,1,9.0
+La Liga,3825850,2016-05-08,Málaga,0,6.0
+La Liga,3825883,2016-05-15,Málaga,1,7.0
+Ligue 1,3829418,2015-08-08,Nantes,0,
+Ligue 1,3829425,2015-08-15,Nantes,1,7.0
+Ligue 1,3829436,2015-08-22,Nantes,0,7.0
+Ligue 1,3829452,2015-08-30,Nantes,0,8.0
+Ligue 1,3829460,2015-09-13,Nantes,0,14.0
+Ligue 1,3829470,2015-09-20,Nantes,0,7.0
+Ligue 1,3829483,2015-09-26,Nantes,0,6.0
+Ligue 1,3829492,2015-09-29,Nantes,1,3.0
+Ligue 1,3829503,2015-10-17,Nantes,0,18.0
+Ligue 1,3829513,2015-10-23,Nantes,1,6.0
+Ligue 1,3900499,2015-11-01,Nantes,0,9.0
+Ligue 1,3829522,2015-11-04,Nantes,0,3.0
+Ligue 1,3900504,2015-11-07,Nantes,0,3.0
+Ligue 1,3900515,2015-11-21,Nantes,1,14.0
+Ligue 1,3900525,2015-11-28,Nantes,1,7.0
+Ligue 1,3900530,2015-12-01,Nantes,0,3.0
+Ligue 1,3900546,2015-12-05,Nantes,0,4.0
+Ligue 1,3900555,2015-12-12,Nantes,1,7.0
+Ligue 1,3900565,2015-12-19,Nantes,0,7.0
+Ligue 1,3900579,2016-01-10,Nantes,1,22.0
+Ligue 1,3900586,2016-01-16,Nantes,0,6.0
+Ligue 1,3900594,2016-01-23,Nantes,1,7.0
+Ligue 1,3900606,2016-01-30,Nantes,0,7.0
+Ligue 1,3900615,2016-02-03,Nantes,0,4.0
+Ligue 1,3900621,2016-02-06,Nantes,0,3.0
+Ligue 1,3900636,2016-02-13,Nantes,0,7.0
+Ligue 1,3901160,2016-02-28,Nantes,0,15.0
+Ligue 1,3901170,2016-03-06,Nantes,0,7.0
+Ligue 1,3901172,2016-03-09,Nantes,2,3.0
+Ligue 1,3901182,2016-03-13,Nantes,2,4.0
+Ligue 1,3901186,2016-03-19,Nantes,0,6.0
+Ligue 1,3901203,2016-04-03,Nantes,0,15.0
+Ligue 1,3901207,2016-04-09,Nantes,0,6.0
+Ligue 1,3901222,2016-04-17,Nantes,1,8.0
+Ligue 1,3901227,2016-04-24,Nantes,0,7.0
+Ligue 1,3901236,2016-04-30,Nantes,3,6.0
+Ligue 1,3901246,2016-05-07,Nantes,0,7.0
+Ligue 1,3901261,2016-05-14,Nantes,0,7.0
+Serie A,3878546,2015-08-23,Napoli,0,
+Serie A,3878558,2015-08-30,Napoli,0,7.0
+Serie A,3878597,2015-09-13,Napoli,0,14.0
+Serie A,3878604,2015-09-20,Napoli,0,7.0
+Serie A,3879539,2015-09-23,Napoli,0,3.0
+Serie A,3879548,2015-09-26,Napoli,1,3.0
+Serie A,3879562,2015-10-04,Napoli,0,8.0
+Serie A,3879572,2015-10-18,Napoli,1,14.0
+Serie A,3879581,2015-10-25,Napoli,1,7.0
+Serie A,3879593,2015-10-28,Napoli,0,3.0
+Serie A,3879604,2015-11-01,Napoli,1,4.0
+Serie A,3879609,2015-11-08,Napoli,0,7.0
+Serie A,3879620,2015-11-22,Napoli,0,14.0
+Serie A,3879635,2015-11-30,Napoli,0,8.0
+Serie A,3879645,2015-12-06,Napoli,0,6.0
+Serie A,3879651,2015-12-13,Napoli,0,7.0
+Serie A,3879661,2015-12-20,Napoli,0,7.0
+Serie A,3879669,2016-01-06,Napoli,0,17.0
+Serie A,3879679,2016-01-10,Napoli,0,4.0
+Serie A,3879686,2016-01-16,Napoli,0,6.0
+Serie A,3879699,2016-01-24,Napoli,0,8.0
+Serie A,3879714,2016-01-31,Napoli,0,7.0
+Serie A,3879720,2016-02-03,Napoli,0,3.0
+Serie A,3879731,2016-02-07,Napoli,0,4.0
+Serie A,3879739,2016-02-13,Napoli,0,6.0
+Serie A,3879756,2016-02-22,Napoli,0,9.0
+Serie A,3879765,2016-02-29,Napoli,0,7.0
+Serie A,3879769,2016-03-05,Napoli,0,5.0
+Serie A,3879786,2016-03-13,Napoli,0,8.0
+Serie A,3879796,2016-03-20,Napoli,0,7.0
+Serie A,3879803,2016-04-03,Napoli,0,14.0
+Serie A,3879811,2016-04-10,Napoli,0,7.0
+Serie A,3879817,2016-04-16,Napoli,0,6.0
+Serie A,3879827,2016-04-19,Napoli,0,3.0
+Serie A,3879845,2016-04-25,Napoli,0,6.0
+Serie A,3879855,2016-05-02,Napoli,0,7.0
+Serie A,3879862,2016-05-08,Napoli,0,6.0
+Serie A,3879867,2016-05-14,Napoli,0,6.0
+Premier League,3754112,2015-08-09,Newcastle United,1,
+Premier League,3754344,2015-08-15,Newcastle United,0,6.0
+Premier League,3754254,2015-08-22,Newcastle United,0,7.0
+Premier League,3754205,2015-08-29,Newcastle United,0,7.0
+Premier League,3754329,2015-09-14,Newcastle United,0,16.0
+Premier League,3754010,2015-09-19,Newcastle United,0,5.0
+Premier League,3754001,2015-09-26,Newcastle United,0,7.0
+Premier League,3754079,2015-10-03,Newcastle United,1,7.0
+Premier League,3754102,2015-10-18,Newcastle United,0,15.0
+Premier League,3754119,2015-10-25,Newcastle United,1,7.0
+Premier League,3754090,2015-10-31,Newcastle United,1,6.0
+Premier League,3754238,2015-11-07,Newcastle United,0,7.0
+Premier League,3754211,2015-11-21,Newcastle United,0,14.0
+Premier League,3754304,2015-11-28,Newcastle United,0,7.0
+Premier League,3754143,2015-12-06,Newcastle United,0,8.0
+Premier League,3754276,2015-12-13,Newcastle United,0,7.0
+Premier League,3754136,2015-12-19,Newcastle United,0,6.0
+Premier League,3753974,2015-12-26,Newcastle United,0,7.0
+Premier League,3754195,2015-12-28,Newcastle United,1,2.0
+Premier League,3754069,2016-01-02,Newcastle United,0,5.0
+Premier League,3754088,2016-01-12,Newcastle United,0,10.0
+Premier League,3754338,2016-01-16,Newcastle United,0,4.0
+Premier League,3754271,2016-01-23,Newcastle United,0,7.0
+Premier League,3754252,2016-02-03,Newcastle United,1,11.0
+Premier League,3754292,2016-02-06,Newcastle United,0,3.0
+Premier League,3754264,2016-02-13,Newcastle United,0,7.0
+Premier League,3754005,2016-03-02,Newcastle United,1,18.0
+Premier League,3754177,2016-03-05,Newcastle United,0,3.0
+Premier League,3754002,2016-03-14,Newcastle United,0,9.0
+Premier League,3754100,2016-03-20,Newcastle United,0,6.0
+Premier League,3754243,2016-04-02,Newcastle United,0,13.0
+Premier League,3754016,2016-04-09,Newcastle United,0,7.0
+Premier League,3754024,2016-04-16,Newcastle United,0,7.0
+Premier League,3754206,2016-04-19,Newcastle United,0,3.0
+Premier League,3754154,2016-04-23,Newcastle United,0,4.0
+Premier League,3754170,2016-04-30,Newcastle United,0,7.0
+Premier League,3754070,2016-05-07,Newcastle United,0,7.0
+Premier League,3754333,2016-05-15,Newcastle United,0,8.0
+Premier League,3754138,2015-08-08,Norwich City,0,
+Premier League,3753993,2015-08-15,Norwich City,0,7.0
+Premier League,3754104,2015-08-22,Norwich City,0,7.0
+Premier League,3754337,2015-08-30,Norwich City,0,8.0
+Premier League,3754315,2015-09-12,Norwich City,0,13.0
+Premier League,3754040,2015-09-20,Norwich City,0,8.0
+Premier League,3754323,2015-09-26,Norwich City,0,6.0
+Premier League,3754335,2015-10-03,Norwich City,0,7.0
+Premier League,3754102,2015-10-18,Norwich City,0,15.0
+Premier League,3754133,2015-10-24,Norwich City,0,6.0
+Premier League,3754167,2015-10-31,Norwich City,1,7.0
+Premier League,3754311,2015-11-07,Norwich City,0,7.0
+Premier League,3753996,2015-11-21,Norwich City,0,14.0
+Premier League,3754038,2015-11-29,Norwich City,0,8.0
+Premier League,3754286,2015-12-05,Norwich City,0,6.0
+Premier League,3754182,2015-12-12,Norwich City,0,7.0
+Premier League,3754044,2015-12-19,Norwich City,0,7.0
+Premier League,3754057,2015-12-26,Norwich City,0,7.0
+Premier League,3754130,2015-12-28,Norwich City,0,2.0
+Premier League,3754101,2016-01-02,Norwich City,0,5.0
+Premier League,3754032,2016-01-13,Norwich City,0,11.0
+Premier League,3754004,2016-01-16,Norwich City,0,3.0
+Premier League,3754348,2016-01-23,Norwich City,0,7.0
+Premier League,3754317,2016-02-02,Norwich City,0,10.0
+Premier League,3754306,2016-02-06,Norwich City,0,4.0
+Premier League,3754244,2016-02-13,Norwich City,0,7.0
+Premier League,3754049,2016-02-27,Norwich City,0,14.0
+Premier League,3754280,2016-03-01,Norwich City,0,3.0
+Premier League,3754151,2016-03-05,Norwich City,1,4.0
+Premier League,3754313,2016-03-12,Norwich City,1,7.0
+Premier League,3754052,2016-03-19,Norwich City,1,7.0
+Premier League,3754243,2016-04-02,Norwich City,0,14.0
+Premier League,3754022,2016-04-09,Norwich City,0,7.0
+Premier League,3754172,2016-04-16,Norwich City,0,7.0
+Premier League,3754184,2016-04-30,Norwich City,0,14.0
+Premier League,3754210,2016-05-07,Norwich City,0,7.0
+Premier League,3754207,2016-05-11,Norwich City,0,4.0
+Premier League,3754123,2016-05-15,Norwich City,1,4.0
+Ligue 1,3829416,2015-08-08,OGC Nice,2,
+Ligue 1,3829427,2015-08-15,OGC Nice,1,7.0
+Ligue 1,3829438,2015-08-22,OGC Nice,0,7.0
+Ligue 1,3829445,2015-08-29,OGC Nice,0,7.0
+Ligue 1,3829459,2015-09-12,OGC Nice,0,14.0
+Ligue 1,3829464,2015-09-19,OGC Nice,1,7.0
+Ligue 1,3829475,2015-09-23,OGC Nice,0,4.0
+Ligue 1,3829490,2015-09-27,OGC Nice,0,4.0
+Ligue 1,3829510,2015-10-18,OGC Nice,0,21.0
+Ligue 1,3829517,2015-10-24,OGC Nice,0,6.0
+Ligue 1,3900497,2015-11-01,OGC Nice,0,8.0
+Ligue 1,3829522,2015-11-04,OGC Nice,0,3.0
+Ligue 1,3900507,2015-11-08,OGC Nice,0,4.0
+Ligue 1,3900510,2015-11-20,OGC Nice,0,12.0
+Ligue 1,3900522,2015-11-28,OGC Nice,0,8.0
+Ligue 1,3900531,2015-12-01,OGC Nice,0,3.0
+Ligue 1,3900540,2015-12-04,OGC Nice,0,3.0
+Ligue 1,3900553,2015-12-12,OGC Nice,1,8.0
+Ligue 1,3900560,2015-12-18,OGC Nice,1,6.0
+Ligue 1,3900578,2016-01-10,OGC Nice,0,23.0
+Ligue 1,3900580,2016-01-15,OGC Nice,0,5.0
+Ligue 1,3900595,2016-01-23,OGC Nice,0,8.0
+Ligue 1,3900608,2016-01-31,OGC Nice,0,8.0
+Ligue 1,3900613,2016-02-03,OGC Nice,0,3.0
+Ligue 1,3900625,2016-02-06,OGC Nice,1,3.0
+Ligue 1,3900637,2016-02-14,OGC Nice,0,8.0
+Ligue 1,3901144,2016-02-19,OGC Nice,0,5.0
+Ligue 1,3901153,2016-02-26,OGC Nice,0,7.0
+Ligue 1,3901163,2016-03-05,OGC Nice,2,8.0
+Ligue 1,3901175,2016-03-12,OGC Nice,0,7.0
+Ligue 1,3901191,2016-03-20,OGC Nice,0,8.0
+Ligue 1,3901196,2016-04-02,OGC Nice,0,13.0
+Ligue 1,3901213,2016-04-10,OGC Nice,0,8.0
+Ligue 1,3901214,2016-04-15,OGC Nice,0,5.0
+Ligue 1,3901224,2016-04-22,OGC Nice,0,7.0
+Ligue 1,3901236,2016-04-30,OGC Nice,0,8.0
+Ligue 1,3901250,2016-05-07,OGC Nice,1,7.0
+Ligue 1,3901258,2016-05-14,OGC Nice,0,7.0
+Ligue 1,3829414,2015-08-08,Olympique de Marseille,0,
+Ligue 1,3829441,2015-08-23,Olympique de Marseille,0,15.0
+Ligue 1,3829461,2015-09-13,Olympique de Marseille,0,21.0
+Ligue 1,3829472,2015-09-20,Olympique de Marseille,0,7.0
+Ligue 1,3829491,2015-09-27,Olympique de Marseille,0,7.0
+Ligue 1,3829509,2015-10-18,Olympique de Marseille,0,21.0
+Ligue 1,3900499,2015-11-01,Olympique de Marseille,0,14.0
+Ligue 1,3900507,2015-11-08,Olympique de Marseille,0,7.0
+Ligue 1,3900516,2015-11-22,Olympique de Marseille,0,14.0
+Ligue 1,3900527,2015-11-29,Olympique de Marseille,1,7.0
+Ligue 1,3900539,2015-12-03,Olympique de Marseille,0,4.0
+Ligue 1,3900547,2015-12-06,Olympique de Marseille,0,3.0
+Ligue 1,3900559,2015-12-13,Olympique de Marseille,0,7.0
+Ligue 1,3900567,2015-12-20,Olympique de Marseille,0,7.0
+Ligue 1,3900577,2016-01-10,Olympique de Marseille,1,21.0
+Ligue 1,3900589,2016-01-17,Olympique de Marseille,0,7.0
+Ligue 1,3900597,2016-01-24,Olympique de Marseille,0,7.0
+Ligue 1,3900600,2016-01-29,Olympique de Marseille,0,5.0
+Ligue 1,3900610,2016-02-02,Olympique de Marseille,0,4.0
+Ligue 1,3900629,2016-02-07,Olympique de Marseille,0,5.0
+Ligue 1,3901150,2016-02-21,Olympique de Marseille,0,14.0
+Ligue 1,3901169,2016-03-06,Olympique de Marseille,0,14.0
+Ligue 1,3901184,2016-03-18,Olympique de Marseille,0,12.0
+Ligue 1,3901211,2016-04-10,Olympique de Marseille,0,23.0
+Ligue 1,3901227,2016-04-24,Olympique de Marseille,1,14.0
+Ligue 1,3901251,2016-05-07,Olympique de Marseille,0,13.0
+Ligue 1,3901259,2016-05-14,Olympique de Marseille,0,7.0
+Serie A,3878544,2015-08-23,Palermo,0,
+Serie A,3878557,2015-08-30,Palermo,0,7.0
+Serie A,3878598,2015-09-13,Palermo,0,14.0
+Serie A,3878602,2015-09-19,Palermo,1,6.0
+Serie A,3879544,2015-09-23,Palermo,0,4.0
+Serie A,3879554,2015-09-27,Palermo,0,4.0
+Serie A,3879564,2015-10-04,Palermo,0,7.0
+Serie A,3879569,2015-10-18,Palermo,0,14.0
+Serie A,3879579,2015-10-24,Palermo,0,6.0
+Serie A,3879593,2015-10-28,Palermo,0,4.0
+Serie A,3879605,2015-11-02,Palermo,0,5.0
+Serie A,3879611,2015-11-08,Palermo,1,6.0
+Serie A,3879624,2015-11-22,Palermo,0,14.0
+Serie A,3879630,2015-11-29,Palermo,0,7.0
+Serie A,3879644,2015-12-06,Palermo,0,7.0
+Serie A,3879649,2015-12-12,Palermo,0,6.0
+Serie A,3879664,2015-12-20,Palermo,0,8.0
+Serie A,3879671,2016-01-06,Palermo,0,17.0
+Serie A,3879683,2016-01-10,Palermo,0,4.0
+Serie A,3879695,2016-01-17,Palermo,0,7.0
+Serie A,3879700,2016-01-24,Palermo,0,7.0
+Serie A,3879709,2016-01-30,Palermo,0,6.0
+Serie A,3879721,2016-02-03,Palermo,0,4.0
+Serie A,3879729,2016-02-07,Palermo,0,4.0
+Serie A,3879745,2016-02-14,Palermo,1,7.0
+Serie A,3879751,2016-02-21,Palermo,0,7.0
+Serie A,3879760,2016-02-28,Palermo,0,7.0
+Serie A,3879774,2016-03-06,Palermo,0,7.0
+Serie A,3879786,2016-03-13,Palermo,0,7.0
+Serie A,3879788,2016-03-19,Palermo,1,6.0
+Serie A,3879802,2016-04-03,Palermo,0,15.0
+Serie A,3879812,2016-04-10,Palermo,0,7.0
+Serie A,3879820,2016-04-17,Palermo,0,7.0
+Serie A,3879832,2016-04-20,Palermo,0,3.0
+Serie A,3879841,2016-04-24,Palermo,0,4.0
+Serie A,3879852,2016-05-01,Palermo,0,7.0
+Serie A,3879860,2016-05-08,Palermo,0,7.0
+Serie A,3879875,2016-05-15,Palermo,0,7.0
+Ligue 1,3829413,2015-08-07,Paris Saint-Germain,0,
+Ligue 1,3829432,2015-08-16,Paris Saint-Germain,0,9.0
+Ligue 1,3829433,2015-08-21,Paris Saint-Germain,1,5.0
+Ligue 1,3829450,2015-08-30,Paris Saint-Germain,0,9.0
+Ligue 1,3829453,2015-09-11,Paris Saint-Germain,0,12.0
+Ligue 1,3829465,2015-09-19,Paris Saint-Germain,0,8.0
+Ligue 1,3829473,2015-09-22,Paris Saint-Germain,0,3.0
+Ligue 1,3829483,2015-09-26,Paris Saint-Germain,0,4.0
+Ligue 1,3829500,2015-10-04,Paris Saint-Germain,0,8.0
+Ligue 1,3829504,2015-10-17,Paris Saint-Germain,0,13.0
+Ligue 1,3829519,2015-10-25,Paris Saint-Germain,0,8.0
+Ligue 1,3900490,2015-10-30,Paris Saint-Germain,0,5.0
+Ligue 1,3900501,2015-11-07,Paris Saint-Germain,0,8.0
+Ligue 1,3900511,2015-11-21,Paris Saint-Germain,1,14.0
+Ligue 1,3900521,2015-11-28,Paris Saint-Germain,0,7.0
+Ligue 1,3900532,2015-12-01,Paris Saint-Germain,0,3.0
+Ligue 1,3900540,2015-12-04,Paris Saint-Germain,0,3.0
+Ligue 1,3900557,2015-12-13,Paris Saint-Germain,0,9.0
+Ligue 1,3900562,2015-12-19,Paris Saint-Germain,0,6.0
+Ligue 1,3900570,2016-01-08,Paris Saint-Germain,1,20.0
+Ligue 1,3900585,2016-01-16,Paris Saint-Germain,2,8.0
+Ligue 1,3900591,2016-01-23,Paris Saint-Germain,0,7.0
+Ligue 1,3900618,2016-02-03,Paris Saint-Germain,0,11.0
+Ligue 1,3900629,2016-02-07,Paris Saint-Germain,0,4.0
+Ligue 1,3900634,2016-02-13,Paris Saint-Germain,0,6.0
+Ligue 1,3901146,2016-02-20,Paris Saint-Germain,1,7.0
+Ligue 1,3901159,2016-02-28,Paris Saint-Germain,0,8.0
+Ligue 1,3901166,2016-03-05,Paris Saint-Germain,0,6.0
+Ligue 1,3901183,2016-03-13,Paris Saint-Germain,0,8.0
+Ligue 1,3901193,2016-03-20,Paris Saint-Germain,0,7.0
+Ligue 1,3901196,2016-04-02,Paris Saint-Germain,0,13.0
+Ligue 1,3901208,2016-04-09,Paris Saint-Germain,1,7.0
+Ligue 1,3901216,2016-04-16,Paris Saint-Germain,0,7.0
+Ligue 1,3901233,2016-04-29,Paris Saint-Germain,0,13.0
+Ligue 1,3901247,2016-05-07,Paris Saint-Germain,0,8.0
+Ligue 1,3901253,2016-05-11,Paris Saint-Germain,1,4.0
+Ligue 1,3901261,2016-05-14,Paris Saint-Germain,0,3.0
+La Liga,3825564,2015-08-22,RC Deportivo La Coruña,0,
+La Liga,3825576,2015-08-30,RC Deportivo La Coruña,0,8.0
+La Liga,3825588,2015-09-14,RC Deportivo La Coruña,0,15.0
+La Liga,3825596,2015-09-20,RC Deportivo La Coruña,0,6.0
+La Liga,3825603,2015-09-24,RC Deportivo La Coruña,0,4.0
+La Liga,3825611,2015-09-27,RC Deportivo La Coruña,0,3.0
+La Liga,3825614,2015-10-03,RC Deportivo La Coruña,0,6.0
+La Liga,3825630,2015-10-18,RC Deportivo La Coruña,0,15.0
+La Liga,3825636,2015-10-24,RC Deportivo La Coruña,0,6.0
+La Liga,3825642,2015-10-30,RC Deportivo La Coruña,0,6.0
+La Liga,3825656,2015-11-07,RC Deportivo La Coruña,0,8.0
+La Liga,3825662,2015-11-21,RC Deportivo La Coruña,0,14.0
+La Liga,3825673,2015-11-28,RC Deportivo La Coruña,1,7.0
+La Liga,3825680,2015-12-05,RC Deportivo La Coruña,1,7.0
+La Liga,266961,2015-12-12,RC Deportivo La Coruña,0,7.0
+La Liga,3825698,2015-12-19,RC Deportivo La Coruña,0,7.0
+La Liga,3825712,2015-12-30,RC Deportivo La Coruña,0,11.0
+La Liga,3825721,2016-01-03,RC Deportivo La Coruña,0,4.0
+La Liga,3825724,2016-01-09,RC Deportivo La Coruña,0,6.0
+La Liga,3825734,2016-01-16,RC Deportivo La Coruña,0,7.0
+La Liga,3825745,2016-01-24,RC Deportivo La Coruña,0,8.0
+La Liga,3825758,2016-02-01,RC Deportivo La Coruña,0,8.0
+La Liga,3825762,2016-02-06,RC Deportivo La Coruña,0,5.0
+La Liga,3825771,2016-02-13,RC Deportivo La Coruña,0,7.0
+La Liga,3825780,2016-02-20,RC Deportivo La Coruña,1,7.0
+La Liga,3825792,2016-02-28,RC Deportivo La Coruña,0,8.0
+La Liga,3825797,2016-03-02,RC Deportivo La Coruña,0,3.0
+La Liga,3825804,2016-03-05,RC Deportivo La Coruña,0,3.0
+La Liga,3825813,2016-03-12,RC Deportivo La Coruña,1,7.0
+La Liga,3825880,2016-03-19,RC Deportivo La Coruña,0,7.0
+La Liga,3825898,2016-04-02,RC Deportivo La Coruña,1,14.0
+La Liga,3825863,2016-04-11,RC Deportivo La Coruña,0,9.0
+La Liga,3825906,2016-04-17,RC Deportivo La Coruña,0,6.0
+La Liga,266310,2016-04-20,RC Deportivo La Coruña,0,3.0
+La Liga,3825847,2016-04-23,RC Deportivo La Coruña,0,3.0
+La Liga,3825894,2016-05-01,RC Deportivo La Coruña,0,8.0
+La Liga,3825851,2016-05-08,RC Deportivo La Coruña,0,7.0
+La Liga,3825846,2016-05-14,RC Deportivo La Coruña,0,6.0
+La Liga,3825566,2015-08-22,Rayo Vallecano,0,
+La Liga,3825574,2015-08-29,Rayo Vallecano,1,7.0
+La Liga,3825588,2015-09-14,Rayo Vallecano,0,16.0
+La Liga,3825597,2015-09-20,Rayo Vallecano,0,6.0
+La Liga,3825601,2015-09-23,Rayo Vallecano,1,3.0
+La Liga,3825605,2015-09-26,Rayo Vallecano,0,3.0
+La Liga,3825620,2015-10-04,Rayo Vallecano,0,8.0
+La Liga,3825627,2015-10-17,Rayo Vallecano,0,13.0
+La Liga,3825633,2015-10-23,Rayo Vallecano,0,6.0
+La Liga,3825648,2015-11-01,Rayo Vallecano,0,9.0
+La Liga,3825655,2015-11-07,Rayo Vallecano,1,6.0
+La Liga,3825669,2015-11-23,Rayo Vallecano,0,16.0
+La Liga,3825675,2015-11-29,Rayo Vallecano,0,6.0
+La Liga,3825684,2015-12-06,Rayo Vallecano,1,7.0
+La Liga,3825696,2015-12-13,Rayo Vallecano,0,7.0
+La Liga,3825700,2015-12-20,Rayo Vallecano,0,7.0
+La Liga,3825711,2015-12-30,Rayo Vallecano,0,10.0
+La Liga,3825716,2016-01-03,Rayo Vallecano,0,4.0
+La Liga,3825723,2016-01-09,Rayo Vallecano,0,6.0
+La Liga,3825736,2016-01-17,Rayo Vallecano,1,8.0
+La Liga,3825743,2016-01-23,Rayo Vallecano,0,6.0
+La Liga,3825758,2016-02-01,Rayo Vallecano,0,9.0
+La Liga,3825763,2016-02-06,Rayo Vallecano,1,5.0
+La Liga,3825768,2016-02-12,Rayo Vallecano,0,6.0
+La Liga,3825781,2016-02-21,Rayo Vallecano,0,9.0
+La Liga,3825791,2016-02-27,Rayo Vallecano,0,6.0
+La Liga,266653,2016-03-03,Rayo Vallecano,0,5.0
+La Liga,3825811,2016-03-07,Rayo Vallecano,0,4.0
+La Liga,3825858,2016-03-12,Rayo Vallecano,0,5.0
+La Liga,3825887,2016-03-19,Rayo Vallecano,0,7.0
+La Liga,3825885,2016-04-01,Rayo Vallecano,0,13.0
+La Liga,3825829,2016-04-10,Rayo Vallecano,0,9.0
+La Liga,3825836,2016-04-17,Rayo Vallecano,1,7.0
+La Liga,3825843,2016-04-20,Rayo Vallecano,2,3.0
+La Liga,3825886,2016-04-23,Rayo Vallecano,1,3.0
+La Liga,3825878,2016-04-30,Rayo Vallecano,0,7.0
+La Liga,3825861,2016-05-08,Rayo Vallecano,0,8.0
+La Liga,3825902,2016-05-15,Rayo Vallecano,0,7.0
+La Liga,3825568,2015-08-23,Real Betis,0,
+La Liga,3825572,2015-08-29,Real Betis,0,6.0
+La Liga,3825582,2015-09-12,Real Betis,0,14.0
+La Liga,3825591,2015-09-19,Real Betis,0,7.0
+La Liga,3825603,2015-09-24,Real Betis,1,5.0
+La Liga,3825610,2015-09-27,Real Betis,0,3.0
+La Liga,3825620,2015-10-04,Real Betis,0,7.0
+La Liga,3825626,2015-10-17,Real Betis,0,13.0
+La Liga,3825634,2015-10-24,Real Betis,0,7.0
+La Liga,3825650,2015-11-01,Real Betis,0,8.0
+La Liga,3825657,2015-11-07,Real Betis,0,6.0
+La Liga,3825666,2015-11-22,Real Betis,1,15.0
+La Liga,3825670,2015-11-27,Real Betis,0,5.0
+La Liga,3825679,2015-12-05,Real Betis,0,8.0
+La Liga,3825690,2015-12-12,Real Betis,0,7.0
+La Liga,3825699,2015-12-19,Real Betis,1,7.0
+La Liga,267327,2015-12-30,Real Betis,1,11.0
+La Liga,3825720,2016-01-03,Real Betis,0,4.0
+La Liga,3825725,2016-01-09,Real Betis,0,6.0
+La Liga,3825735,2016-01-16,Real Betis,1,7.0
+La Liga,3825746,2016-01-24,Real Betis,2,8.0
+La Liga,3825750,2016-01-30,Real Betis,0,6.0
+La Liga,3825766,2016-02-07,Real Betis,0,8.0
+La Liga,3825771,2016-02-13,Real Betis,0,6.0
+La Liga,3825778,2016-02-20,Real Betis,0,7.0
+La Liga,3825791,2016-02-27,Real Betis,0,7.0
+La Liga,3825802,2016-03-03,Real Betis,0,5.0
+La Liga,3825809,2016-03-06,Real Betis,1,3.0
+La Liga,3825844,2016-03-13,Real Betis,0,7.0
+La Liga,3825903,2016-03-19,Real Betis,0,6.0
+La Liga,3825872,2016-04-02,Real Betis,0,14.0
+La Liga,3825827,2016-04-09,Real Betis,1,7.0
+La Liga,3825889,2016-04-16,Real Betis,0,7.0
+La Liga,3825837,2016-04-19,Real Betis,0,3.0
+La Liga,3825884,2016-04-24,Real Betis,0,5.0
+La Liga,266986,2016-04-30,Real Betis,0,6.0
+La Liga,3825904,2016-05-08,Real Betis,0,8.0
+La Liga,3825876,2016-05-15,Real Betis,0,7.0
+La Liga,3825567,2015-08-23,Real Madrid,0,
+La Liga,3825572,2015-08-29,Real Madrid,0,6.0
+La Liga,3825581,2015-09-12,Real Madrid,0,14.0
+La Liga,3825590,2015-09-19,Real Madrid,0,7.0
+La Liga,3825602,2015-09-23,Real Madrid,0,4.0
+La Liga,3825606,2015-09-26,Real Madrid,1,3.0
+La Liga,3825621,2015-10-04,Real Madrid,0,8.0
+La Liga,3825625,2015-10-17,Real Madrid,0,13.0
+La Liga,3825635,2015-10-24,Real Madrid,0,7.0
+La Liga,3825643,2015-10-31,Real Madrid,0,7.0
+La Liga,3825661,2015-11-08,Real Madrid,1,8.0
+La Liga,266424,2015-11-21,Real Madrid,1,13.0
+La Liga,3825678,2015-11-29,Real Madrid,0,8.0
+La Liga,3825681,2015-12-05,Real Madrid,0,6.0
+La Liga,3825695,2015-12-13,Real Madrid,1,8.0
+La Liga,3825700,2015-12-20,Real Madrid,0,7.0
+La Liga,3825710,2015-12-30,Real Madrid,0,10.0
+La Liga,3825718,2016-01-03,Real Madrid,0,4.0
+La Liga,3825724,2016-01-09,Real Madrid,0,6.0
+La Liga,3825739,2016-01-17,Real Madrid,2,8.0
+La Liga,3825746,2016-01-24,Real Madrid,0,7.0
+La Liga,3825757,2016-01-31,Real Madrid,0,7.0
+La Liga,3825764,2016-02-07,Real Madrid,0,7.0
+La Liga,3825770,2016-02-13,Real Madrid,0,6.0
+La Liga,3825785,2016-02-21,Real Madrid,0,8.0
+La Liga,3825787,2016-02-27,Real Madrid,0,6.0
+La Liga,3825798,2016-03-02,Real Madrid,1,4.0
+La Liga,3825806,2016-03-05,Real Madrid,0,3.0
+La Liga,3825879,2016-03-13,Real Madrid,0,8.0
+La Liga,3825820,2016-03-20,Real Madrid,0,7.0
+La Liga,267533,2016-04-02,Real Madrid,0,13.0
+La Liga,3825856,2016-04-09,Real Madrid,0,7.0
+La Liga,3825833,2016-04-16,Real Madrid,0,7.0
+La Liga,3825893,2016-04-20,Real Madrid,0,4.0
+La Liga,3825886,2016-04-23,Real Madrid,1,3.0
+La Liga,3825864,2016-04-30,Real Madrid,0,7.0
+La Liga,3825901,2016-05-08,Real Madrid,1,8.0
+La Liga,3825846,2016-05-14,Real Madrid,0,6.0
+La Liga,3825564,2015-08-22,Real Sociedad,0,
+La Liga,3825573,2015-08-29,Real Sociedad,0,7.0
+La Liga,3825582,2015-09-12,Real Sociedad,0,14.0
+La Liga,3825592,2015-09-19,Real Sociedad,0,7.0
+La Liga,3825892,2015-09-22,Real Sociedad,0,3.0
+La Liga,3825609,2015-09-27,Real Sociedad,0,5.0
+La Liga,3825616,2015-10-03,Real Sociedad,0,6.0
+La Liga,3825631,2015-10-18,Real Sociedad,0,15.0
+La Liga,3825640,2015-10-25,Real Sociedad,0,7.0
+La Liga,3825644,2015-10-31,Real Sociedad,1,6.0
+La Liga,3825652,2015-11-06,Real Sociedad,0,6.0
+La Liga,3825664,2015-11-21,Real Sociedad,0,15.0
+La Liga,266885,2015-11-28,Real Sociedad,0,7.0
+La Liga,3825683,2015-12-06,Real Sociedad,0,8.0
+La Liga,3825688,2015-12-11,Real Sociedad,1,5.0
+La Liga,3825702,2015-12-20,Real Sociedad,0,9.0
+La Liga,3825710,2015-12-30,Real Sociedad,0,10.0
+La Liga,3825716,2016-01-03,Real Sociedad,0,4.0
+La Liga,3825730,2016-01-10,Real Sociedad,0,7.0
+La Liga,3825734,2016-01-16,Real Sociedad,0,6.0
+La Liga,3825741,2016-01-22,Real Sociedad,0,6.0
+La Liga,3825750,2016-01-30,Real Sociedad,0,8.0
+La Liga,3825767,2016-02-08,Real Sociedad,1,9.0
+La Liga,3825775,2016-02-14,Real Sociedad,0,6.0
+La Liga,3825783,2016-02-21,Real Sociedad,0,7.0
+La Liga,3825789,2016-02-27,Real Sociedad,0,6.0
+La Liga,3825795,2016-03-01,Real Sociedad,0,3.0
+La Liga,3825810,2016-03-06,Real Sociedad,0,5.0
+La Liga,3825814,2016-03-12,Real Sociedad,0,6.0
+La Liga,3825818,2016-03-19,Real Sociedad,0,7.0
+La Liga,3825823,2016-04-03,Real Sociedad,1,15.0
+La Liga,266664,2016-04-09,Real Sociedad,0,6.0
+La Liga,3825897,2016-04-16,Real Sociedad,0,7.0
+La Liga,3825841,2016-04-21,Real Sociedad,0,5.0
+La Liga,3825875,2016-04-24,Real Sociedad,0,3.0
+La Liga,3825864,2016-04-30,Real Sociedad,0,6.0
+La Liga,3825861,2016-05-08,Real Sociedad,0,8.0
+La Liga,3825849,2016-05-13,Real Sociedad,0,5.0
+Ligue 1,3829415,2015-08-08,Rennes,1,
+Ligue 1,3829429,2015-08-15,Rennes,0,7.0
+Ligue 1,3829435,2015-08-22,Rennes,0,7.0
+Ligue 1,3829449,2015-08-29,Rennes,0,7.0
+Ligue 1,3829460,2015-09-13,Rennes,0,15.0
+Ligue 1,3829463,2015-09-18,Rennes,0,5.0
+Ligue 1,3829478,2015-09-23,Rennes,1,5.0
+Ligue 1,3829485,2015-09-26,Rennes,0,3.0
+Ligue 1,3829501,2015-10-04,Rennes,2,8.0
+Ligue 1,3829510,2015-10-18,Rennes,0,14.0
+Ligue 1,3829516,2015-10-24,Rennes,0,6.0
+Ligue 1,3900490,2015-10-30,Rennes,0,6.0
+Ligue 1,3900500,2015-11-06,Rennes,1,7.0
+Ligue 1,3900519,2015-11-22,Rennes,0,16.0
+Ligue 1,3900523,2015-11-28,Rennes,0,6.0
+Ligue 1,3900539,2015-12-03,Rennes,2,5.0
+Ligue 1,3900549,2015-12-06,Rennes,0,3.0
+Ligue 1,3900550,2015-12-11,Rennes,0,5.0
+Ligue 1,3900563,2015-12-19,Rennes,0,8.0
+Ligue 1,3900571,2016-01-09,Rennes,0,21.0
+Ligue 1,3900583,2016-01-16,Rennes,0,7.0
+Ligue 1,3900590,2016-01-22,Rennes,0,6.0
+Ligue 1,3900609,2016-01-31,Rennes,0,9.0
+Ligue 1,3900619,2016-02-04,Rennes,0,4.0
+Ligue 1,3900628,2016-02-07,Rennes,0,3.0
+Ligue 1,3900630,2016-02-12,Rennes,0,5.0
+Ligue 1,3901152,2016-02-21,Rennes,0,9.0
+Ligue 1,3901158,2016-02-27,Rennes,0,6.0
+Ligue 1,3901170,2016-03-06,Rennes,0,8.0
+Ligue 1,3901181,2016-03-13,Rennes,0,7.0
+Ligue 1,3901184,2016-03-18,Rennes,0,5.0
+Ligue 1,3901199,2016-04-02,Rennes,0,15.0
+Ligue 1,3901213,2016-04-10,Rennes,0,8.0
+Ligue 1,3901221,2016-04-17,Rennes,0,7.0
+Ligue 1,3901231,2016-04-24,Rennes,0,7.0
+Ligue 1,3901233,2016-04-29,Rennes,0,5.0
+Ligue 1,3901249,2016-05-07,Rennes,3,8.0
+Ligue 1,3901263,2016-05-14,Rennes,0,7.0
+Ligue 1,3829421,2015-08-09,Saint-Étienne,0,
+Ligue 1,3829424,2015-08-15,Saint-Étienne,0,6.0
+Ligue 1,3829440,2015-08-23,Saint-Étienne,0,8.0
+Ligue 1,3829451,2015-08-30,Saint-Étienne,0,7.0
+Ligue 1,3829457,2015-09-12,Saint-Étienne,0,13.0
+Ligue 1,3829470,2015-09-20,Saint-Étienne,0,8.0
+Ligue 1,3829480,2015-09-23,Saint-Étienne,0,3.0
+Ligue 1,3829490,2015-09-27,Saint-Étienne,0,4.0
+Ligue 1,3829499,2015-10-04,Saint-Étienne,0,7.0
+Ligue 1,3829505,2015-10-17,Saint-Étienne,0,13.0
+Ligue 1,3829519,2015-10-25,Saint-Étienne,0,8.0
+Ligue 1,3900491,2015-10-31,Saint-Étienne,0,6.0
+Ligue 1,3900509,2015-11-08,Saint-Étienne,2,8.0
+Ligue 1,3900516,2015-11-22,Saint-Étienne,1,14.0
+Ligue 1,3900529,2015-11-29,Saint-Étienne,1,7.0
+Ligue 1,3900535,2015-12-02,Saint-Étienne,0,3.0
+Ligue 1,3900549,2015-12-06,Saint-Étienne,0,4.0
+Ligue 1,3900558,2015-12-13,Saint-Étienne,0,7.0
+Ligue 1,3900569,2015-12-20,Saint-Étienne,1,7.0
+Ligue 1,3900579,2016-01-10,Saint-Étienne,0,21.0
+Ligue 1,3900587,2016-01-17,Saint-Étienne,0,7.0
+Ligue 1,3900599,2016-01-24,Saint-Étienne,0,7.0
+Ligue 1,3900619,2016-02-04,Saint-Étienne,0,11.0
+Ligue 1,3900627,2016-02-07,Saint-Étienne,1,3.0
+Ligue 1,3900639,2016-02-14,Saint-Étienne,1,7.0
+Ligue 1,3901150,2016-02-21,Saint-Étienne,0,7.0
+Ligue 1,3901161,2016-02-28,Saint-Étienne,0,7.0
+Ligue 1,3901164,2016-03-05,Saint-Étienne,0,6.0
+Ligue 1,3901180,2016-03-12,Saint-Étienne,0,7.0
+Ligue 1,3901188,2016-03-19,Saint-Étienne,0,7.0
+Ligue 1,3901195,2016-04-02,Saint-Étienne,0,14.0
+Ligue 1,3901210,2016-04-09,Saint-Étienne,1,7.0
+Ligue 1,3901220,2016-04-16,Saint-Étienne,0,7.0
+Ligue 1,3901228,2016-04-24,Saint-Étienne,0,8.0
+Ligue 1,3901237,2016-04-30,Saint-Étienne,1,6.0
+Ligue 1,3901250,2016-05-07,Saint-Étienne,1,7.0
+Ligue 1,3901257,2016-05-14,Saint-Étienne,0,7.0
+Serie A,3878545,2015-08-23,Sampdoria,0,
+Serie A,3878558,2015-08-30,Sampdoria,1,7.0
+Serie A,3878601,2015-09-14,Sampdoria,1,15.0
+Serie A,3878606,2015-09-20,Sampdoria,0,6.0
+Serie A,3879545,2015-09-23,Sampdoria,1,3.0
+Serie A,3879555,2015-09-28,Sampdoria,0,5.0
+Serie A,3879565,2015-10-04,Sampdoria,1,6.0
+Serie A,3879576,2015-10-18,Sampdoria,0,14.0
+Serie A,3879586,2015-10-25,Sampdoria,0,7.0
+Serie A,3879596,2015-10-29,Sampdoria,0,4.0
+Serie A,3879606,2015-11-02,Sampdoria,0,4.0
+Serie A,3879616,2015-11-08,Sampdoria,0,6.0
+Serie A,3879625,2015-11-22,Sampdoria,0,14.0
+Serie A,3879628,2015-11-28,Sampdoria,0,6.0
+Serie A,3879643,2015-12-06,Sampdoria,1,8.0
+Serie A,3879655,2015-12-14,Sampdoria,0,8.0
+Serie A,3879664,2015-12-20,Sampdoria,0,6.0
+Serie A,3879666,2016-01-05,Sampdoria,1,16.0
+Serie A,3879684,2016-01-10,Sampdoria,1,5.0
+Serie A,3879689,2016-01-17,Sampdoria,0,7.0
+Serie A,3879699,2016-01-24,Sampdoria,0,7.0
+Serie A,3879710,2016-01-31,Sampdoria,0,7.0
+Serie A,3879719,2016-02-03,Sampdoria,2,3.0
+Serie A,3879736,2016-02-07,Sampdoria,0,4.0
+Serie A,3879744,2016-02-14,Sampdoria,0,7.0
+Serie A,3879749,2016-02-20,Sampdoria,0,6.0
+Serie A,3879763,2016-02-28,Sampdoria,0,8.0
+Serie A,3879768,2016-03-05,Sampdoria,0,6.0
+Serie A,3879778,2016-03-12,Sampdoria,0,7.0
+Serie A,3879792,2016-03-20,Sampdoria,0,8.0
+Serie A,3879800,2016-04-03,Sampdoria,1,14.0
+Serie A,3879813,2016-04-10,Sampdoria,1,7.0
+Serie A,3879824,2016-04-17,Sampdoria,1,7.0
+Serie A,3879831,2016-04-20,Sampdoria,1,3.0
+Serie A,3879838,2016-04-24,Sampdoria,0,4.0
+Serie A,3879852,2016-05-01,Sampdoria,0,7.0
+Serie A,3879865,2016-05-08,Sampdoria,1,7.0
+Serie A,3879870,2016-05-14,Sampdoria,0,6.0
+Serie A,3878546,2015-08-23,Sassuolo,1,
+Serie A,3878550,2015-08-29,Sassuolo,0,6.0
+Serie A,3878599,2015-09-13,Sassuolo,0,15.0
+Serie A,3878607,2015-09-20,Sassuolo,1,7.0
+Serie A,3879544,2015-09-23,Sassuolo,0,3.0
+Serie A,3879553,2015-09-27,Sassuolo,1,4.0
+Serie A,3879563,2015-10-04,Sassuolo,0,7.0
+Serie A,3879573,2015-10-18,Sassuolo,0,14.0
+Serie A,3879585,2015-10-25,Sassuolo,0,7.0
+Serie A,3879591,2015-10-28,Sassuolo,0,3.0
+Serie A,3879603,2015-11-01,Sassuolo,1,4.0
+Serie A,3879615,2015-11-08,Sassuolo,1,7.0
+Serie A,3879619,2015-11-22,Sassuolo,0,14.0
+Serie A,3879636,2015-11-30,Sassuolo,0,8.0
+Serie A,3879643,2015-12-06,Sassuolo,1,6.0
+Serie A,3879663,2015-12-20,Sassuolo,0,14.0
+Serie A,3879667,2016-01-06,Sassuolo,0,17.0
+Serie A,3879681,2016-01-10,Sassuolo,0,4.0
+Serie A,3879686,2016-01-16,Sassuolo,1,6.0
+Serie A,3879696,2016-01-20,Sassuolo,0,4.0
+Serie A,3879705,2016-01-24,Sassuolo,0,4.0
+Serie A,3879708,2016-01-30,Sassuolo,0,6.0
+Serie A,3879717,2016-02-02,Sassuolo,0,3.0
+Serie A,3879729,2016-02-07,Sassuolo,1,5.0
+Serie A,3879741,2016-02-13,Sassuolo,0,6.0
+Serie A,3879753,2016-02-21,Sassuolo,0,8.0
+Serie A,3879766,2016-02-29,Sassuolo,0,8.0
+Serie A,3879771,2016-03-06,Sassuolo,2,6.0
+Serie A,3879777,2016-03-11,Sassuolo,0,5.0
+Serie A,3879793,2016-03-20,Sassuolo,1,9.0
+Serie A,3879797,2016-04-02,Sassuolo,1,13.0
+Serie A,3879809,2016-04-09,Sassuolo,0,7.0
+Serie A,3879821,2016-04-17,Sassuolo,1,8.0
+Serie A,3879831,2016-04-20,Sassuolo,2,3.0
+Serie A,3879843,2016-04-24,Sassuolo,0,4.0
+Serie A,3879854,2016-05-01,Sassuolo,0,7.0
+Serie A,3879861,2016-05-08,Sassuolo,0,7.0
+Serie A,3879868,2016-05-14,Sassuolo,2,6.0
+La Liga,3825562,2015-08-21,Sevilla,0,
+La Liga,3825579,2015-08-30,Sevilla,1,9.0
+La Liga,3825580,2015-09-11,Sevilla,0,12.0
+La Liga,3825594,2015-09-20,Sevilla,0,9.0
+La Liga,3825895,2015-09-23,Sevilla,0,3.0
+La Liga,3825605,2015-09-26,Sevilla,0,3.0
+La Liga,3825617,2015-10-03,Sevilla,0,7.0
+La Liga,3825624,2015-10-17,Sevilla,0,14.0
+La Liga,3825874,2015-10-24,Sevilla,0,7.0
+La Liga,3825646,2015-10-31,Sevilla,0,7.0
+La Liga,3825661,2015-11-08,Sevilla,0,8.0
+La Liga,3825664,2015-11-21,Sevilla,0,13.0
+La Liga,3825677,2015-11-29,Sevilla,0,8.0
+La Liga,3825680,2015-12-05,Sevilla,0,6.0
+La Liga,3825692,2015-12-12,Sevilla,0,7.0
+La Liga,3825699,2015-12-19,Sevilla,0,7.0
+La Liga,3825709,2015-12-30,Sevilla,0,11.0
+La Liga,3825717,2016-01-03,Sevilla,0,4.0
+La Liga,3825726,2016-01-09,Sevilla,0,6.0
+La Liga,3825733,2016-01-16,Sevilla,0,7.0
+La Liga,3825748,2016-01-24,Sevilla,1,8.0
+La Liga,3825756,2016-01-31,Sevilla,0,7.0
+La Liga,3825765,2016-02-07,Sevilla,0,7.0
+La Liga,3825776,2016-02-14,Sevilla,0,7.0
+La Liga,3825781,2016-02-21,Sevilla,0,7.0
+La Liga,265839,2016-02-28,Sevilla,0,7.0
+La Liga,3825801,2016-03-02,Sevilla,0,3.0
+La Liga,3825867,2016-03-05,Sevilla,0,3.0
+La Liga,3825816,2016-03-13,Sevilla,2,8.0
+La Liga,3825820,2016-03-20,Sevilla,0,7.0
+La Liga,3825823,2016-04-03,Sevilla,0,14.0
+La Liga,3825831,2016-04-10,Sevilla,0,7.0
+La Liga,3825906,2016-04-17,Sevilla,0,7.0
+La Liga,3825839,2016-04-20,Sevilla,1,3.0
+La Liga,3825884,2016-04-24,Sevilla,0,4.0
+La Liga,3825845,2016-05-01,Sevilla,1,7.0
+La Liga,3825853,2016-05-08,Sevilla,0,7.0
+La Liga,3825869,2016-05-14,Sevilla,0,6.0
+Premier League,3754112,2015-08-09,Southampton,0,
+Premier League,3754034,2015-08-15,Southampton,0,6.0
+Premier League,3754189,2015-08-23,Southampton,1,8.0
+Premier League,3754337,2015-08-30,Southampton,0,7.0
+Premier League,3754325,2015-09-12,Southampton,0,13.0
+Premier League,3754011,2015-09-20,Southampton,0,8.0
+Premier League,3753978,2015-09-26,Southampton,0,6.0
+Premier League,3753995,2015-10-03,Southampton,0,7.0
+Premier League,3754302,2015-10-17,Southampton,0,14.0
+Premier League,3754230,2015-10-25,Southampton,0,8.0
+Premier League,3754191,2015-11-01,Southampton,0,7.0
+Premier League,3754000,2015-11-07,Southampton,0,6.0
+Premier League,3754247,2015-11-21,Southampton,0,14.0
+Premier League,3754028,2015-11-28,Southampton,0,7.0
+Premier League,3754113,2015-12-05,Southampton,0,7.0
+Premier League,3754218,2015-12-12,Southampton,1,7.0
+Premier League,3754188,2015-12-19,Southampton,0,7.0
+Premier League,3754309,2015-12-26,Southampton,0,7.0
+Premier League,3753998,2015-12-28,Southampton,0,2.0
+Premier League,3754101,2016-01-02,Southampton,0,5.0
+Premier League,3754183,2016-01-13,Southampton,0,11.0
+Premier League,3754168,2016-01-16,Southampton,0,3.0
+Premier League,3754200,2016-01-23,Southampton,0,7.0
+Premier League,3754201,2016-02-02,Southampton,0,10.0
+Premier League,3754120,2016-02-06,Southampton,0,4.0
+Premier League,3754139,2016-02-13,Southampton,0,7.0
+Premier League,3754012,2016-02-27,Southampton,1,14.0
+Premier League,3754334,2016-03-01,Southampton,0,3.0
+Premier League,3754164,2016-03-05,Southampton,0,4.0
+Premier League,3754196,2016-03-12,Southampton,0,7.0
+Premier League,3754064,2016-03-20,Southampton,0,8.0
+Premier League,3753982,2016-04-03,Southampton,0,14.0
+Premier League,3754016,2016-04-09,Southampton,0,6.0
+Premier League,3754137,2016-04-16,Southampton,0,7.0
+Premier League,3754282,2016-04-23,Southampton,0,7.0
+Premier League,3754320,2016-05-01,Southampton,0,8.0
+Premier League,3753992,2016-05-08,Southampton,0,7.0
+Premier League,3753994,2016-05-15,Southampton,0,7.0
+La Liga,3825567,2015-08-23,Sporting Gijón,0,
+La Liga,3825573,2015-08-29,Sporting Gijón,1,6.0
+La Liga,3825583,2015-09-12,Sporting Gijón,0,14.0
+La Liga,3825596,2015-09-20,Sporting Gijón,0,8.0
+La Liga,3825601,2015-09-23,Sporting Gijón,0,3.0
+La Liga,3825610,2015-09-27,Sporting Gijón,0,4.0
+La Liga,3825615,2015-10-03,Sporting Gijón,0,6.0
+La Liga,3825632,2015-10-19,Sporting Gijón,0,16.0
+La Liga,3825641,2015-10-26,Sporting Gijón,0,7.0
+La Liga,3825649,2015-11-01,Sporting Gijón,0,6.0
+La Liga,3825658,2015-11-08,Sporting Gijón,2,7.0
+La Liga,3825668,2015-11-22,Sporting Gijón,0,14.0
+La Liga,3825671,2015-11-28,Sporting Gijón,0,6.0
+La Liga,3825685,2015-12-06,Sporting Gijón,0,8.0
+La Liga,3825692,2015-12-12,Sporting Gijón,1,6.0
+La Liga,3825705,2015-12-30,Sporting Gijón,0,18.0
+La Liga,3825722,2016-01-04,Sporting Gijón,0,5.0
+La Liga,3825729,2016-01-10,Sporting Gijón,1,6.0
+La Liga,3825739,2016-01-17,Sporting Gijón,0,7.0
+La Liga,3825741,2016-01-22,Sporting Gijón,0,5.0
+La Liga,3825755,2016-01-31,Sporting Gijón,1,9.0
+La Liga,3825762,2016-02-06,Sporting Gijón,0,6.0
+La Liga,3825768,2016-02-12,Sporting Gijón,0,6.0
+La Liga,266815,2016-02-17,Sporting Gijón,0,5.0
+La Liga,3825778,2016-02-20,Sporting Gijón,0,3.0
+La Liga,3825790,2016-02-27,Sporting Gijón,0,7.0
+La Liga,3825803,2016-03-03,Sporting Gijón,0,5.0
+La Liga,3825808,2016-03-06,Sporting Gijón,0,3.0
+La Liga,3825812,2016-03-11,Sporting Gijón,0,5.0
+La Liga,3825907,2016-03-19,Sporting Gijón,0,8.0
+La Liga,3825825,2016-04-04,Sporting Gijón,0,16.0
+La Liga,3825832,2016-04-10,Sporting Gijón,0,6.0
+La Liga,3825852,2016-04-16,Sporting Gijón,1,6.0
+La Liga,3825839,2016-04-20,Sporting Gijón,0,4.0
+La Liga,265944,2016-04-23,Sporting Gijón,0,3.0
+La Liga,3825854,2016-04-29,Sporting Gijón,1,6.0
+La Liga,3825865,2016-05-08,Sporting Gijón,0,9.0
+La Liga,3825900,2016-05-15,Sporting Gijón,1,7.0
+Ligue 1,3829414,2015-08-08,Stade Malherbe Caen,0,
+Ligue 1,3829428,2015-08-15,Stade Malherbe Caen,1,7.0
+Ligue 1,3829444,2015-08-29,Stade Malherbe Caen,0,14.0
+Ligue 1,3829467,2015-09-19,Stade Malherbe Caen,0,21.0
+Ligue 1,3829487,2015-09-26,Stade Malherbe Caen,0,7.0
+Ligue 1,3829499,2015-10-04,Stade Malherbe Caen,0,8.0
+Ligue 1,3829513,2015-10-23,Stade Malherbe Caen,0,19.0
+Ligue 1,3900495,2015-10-31,Stade Malherbe Caen,0,8.0
+Ligue 1,3900505,2015-11-07,Stade Malherbe Caen,1,7.0
+Ligue 1,3900518,2015-11-22,Stade Malherbe Caen,0,15.0
+Ligue 1,3900528,2015-11-29,Stade Malherbe Caen,0,7.0
+Ligue 1,3900533,2015-12-02,Stade Malherbe Caen,0,3.0
+Ligue 1,3900542,2015-12-05,Stade Malherbe Caen,0,3.0
+Ligue 1,3900550,2015-12-11,Stade Malherbe Caen,0,6.0
+Ligue 1,3900562,2015-12-19,Stade Malherbe Caen,0,8.0
+Ligue 1,3900573,2016-01-09,Stade Malherbe Caen,1,21.0
+Ligue 1,3900589,2016-01-17,Stade Malherbe Caen,0,8.0
+Ligue 1,3900592,2016-01-23,Stade Malherbe Caen,0,6.0
+Ligue 1,3900608,2016-01-31,Stade Malherbe Caen,1,8.0
+Ligue 1,3900614,2016-02-03,Stade Malherbe Caen,0,3.0
+Ligue 1,3900620,2016-02-06,Stade Malherbe Caen,0,3.0
+Ligue 1,3900638,2016-02-14,Stade Malherbe Caen,0,8.0
+Ligue 1,3901152,2016-02-21,Stade Malherbe Caen,0,7.0
+Ligue 1,3901161,2016-02-28,Stade Malherbe Caen,0,7.0
+Ligue 1,3901162,2016-03-04,Stade Malherbe Caen,0,5.0
+Ligue 1,3901190,2016-03-19,Stade Malherbe Caen,0,15.0
+Ligue 1,3901205,2016-04-09,Stade Malherbe Caen,1,21.0
+Ligue 1,3901241,2016-04-30,Stade Malherbe Caen,0,21.0
+Ligue 1,3901262,2016-05-14,Stade Malherbe Caen,0,14.0
+Ligue 1,3829420,2015-08-09,Stade de Reims,0,
+Ligue 1,3829430,2015-08-16,Stade de Reims,0,7.0
+Ligue 1,3829436,2015-08-22,Stade de Reims,1,6.0
+Ligue 1,3829448,2015-08-29,Stade de Reims,0,7.0
+Ligue 1,3829458,2015-09-12,Stade de Reims,0,14.0
+Ligue 1,3829465,2015-09-19,Stade de Reims,2,7.0
+Ligue 1,3829474,2015-09-22,Stade de Reims,1,3.0
+Ligue 1,3829482,2015-09-25,Stade de Reims,0,3.0
+Ligue 1,3829495,2015-10-03,Stade de Reims,0,8.0
+Ligue 1,3829508,2015-10-17,Stade de Reims,1,14.0
+Ligue 1,3829520,2015-10-25,Stade de Reims,0,8.0
+Ligue 1,3900491,2015-10-31,Stade de Reims,0,6.0
+Ligue 1,3900506,2015-11-07,Stade de Reims,0,7.0
+Ligue 1,3900512,2015-11-21,Stade de Reims,0,14.0
+Ligue 1,3900523,2015-11-28,Stade de Reims,1,7.0
+Ligue 1,3900538,2015-12-02,Stade de Reims,1,4.0
+Ligue 1,3900543,2015-12-05,Stade de Reims,0,3.0
+Ligue 1,3900553,2015-12-12,Stade de Reims,0,7.0
+Ligue 1,3900566,2015-12-19,Stade de Reims,0,7.0
+Ligue 1,3900575,2016-01-09,Stade de Reims,0,21.0
+Ligue 1,3900582,2016-01-16,Stade de Reims,1,7.0
+Ligue 1,3900599,2016-01-24,Stade de Reims,1,8.0
+Ligue 1,3900602,2016-01-30,Stade de Reims,0,6.0
+Ligue 1,3900617,2016-02-03,Stade de Reims,0,4.0
+Ligue 1,3900620,2016-02-06,Stade de Reims,0,3.0
+Ligue 1,3900635,2016-02-13,Stade de Reims,0,7.0
+Ligue 1,3901146,2016-02-20,Stade de Reims,0,7.0
+Ligue 1,3901157,2016-02-27,Stade de Reims,0,7.0
+Ligue 1,3901168,2016-03-05,Stade de Reims,0,7.0
+Ligue 1,3901174,2016-03-11,Stade de Reims,0,6.0
+Ligue 1,3901185,2016-03-19,Stade de Reims,0,8.0
+Ligue 1,3901199,2016-04-02,Stade de Reims,0,14.0
+Ligue 1,3901207,2016-04-09,Stade de Reims,0,7.0
+Ligue 1,3901217,2016-04-16,Stade de Reims,0,7.0
+Ligue 1,3901224,2016-04-22,Stade de Reims,0,6.0
+Ligue 1,3901234,2016-04-30,Stade de Reims,0,8.0
+Ligue 1,3901251,2016-05-07,Stade de Reims,0,7.0
+Ligue 1,3901254,2016-05-14,Stade de Reims,0,7.0
+Premier League,3753985,2015-08-09,Stoke City,0,
+Premier League,3754270,2015-08-15,Stoke City,0,6.0
+Premier League,3754104,2015-08-22,Stoke City,0,7.0
+Premier League,3754007,2015-08-29,Stoke City,0,7.0
+Premier League,3754240,2015-09-12,Stoke City,0,14.0
+Premier League,3754146,2015-09-19,Stoke City,0,7.0
+Premier League,3754339,2015-09-26,Stoke City,1,7.0
+Premier League,3754330,2015-10-03,Stoke City,0,7.0
+Premier League,3754269,2015-10-19,Stoke City,0,16.0
+Premier League,3754091,2015-10-24,Stoke City,1,5.0
+Premier League,3754090,2015-10-31,Stoke City,0,7.0
+Premier League,3754293,2015-11-07,Stoke City,0,7.0
+Premier League,3754247,2015-11-21,Stoke City,0,14.0
+Premier League,3754150,2015-11-28,Stoke City,0,7.0
+Premier League,3754135,2015-12-05,Stoke City,0,7.0
+Premier League,3754096,2015-12-12,Stoke City,0,7.0
+Premier League,3754153,2015-12-19,Stoke City,0,7.0
+Premier League,3754014,2015-12-26,Stoke City,0,7.0
+Premier League,3754056,2015-12-28,Stoke City,0,2.0
+Premier League,3754122,2016-01-02,Stoke City,0,5.0
+Premier League,3754032,2016-01-13,Stoke City,0,11.0
+Premier League,3754202,2016-01-17,Stoke City,0,4.0
+Premier League,3754341,2016-01-23,Stoke City,1,6.0
+Premier League,3754094,2016-02-02,Stoke City,0,10.0
+Premier League,3754127,2016-02-06,Stoke City,0,4.0
+Premier League,3754274,2016-02-13,Stoke City,1,7.0
+Premier League,3754321,2016-02-27,Stoke City,0,14.0
+Premier League,3754005,2016-03-02,Stoke City,0,4.0
+Premier League,3754061,2016-03-05,Stoke City,0,3.0
+Premier League,3754196,2016-03-12,Stoke City,0,7.0
+Premier League,3753977,2016-03-19,Stoke City,0,7.0
+Premier League,3754272,2016-04-02,Stoke City,0,14.0
+Premier League,3753986,2016-04-10,Stoke City,0,8.0
+Premier League,3754187,2016-04-18,Stoke City,0,8.0
+Premier League,3754307,2016-04-23,Stoke City,0,5.0
+Premier League,3754132,2016-04-30,Stoke City,0,7.0
+Premier League,3754026,2016-05-07,Stoke City,0,7.0
+Premier League,3754199,2016-05-15,Stoke City,0,8.0
+Premier League,3754237,2015-08-08,Sunderland,0,
+Premier League,3753993,2015-08-15,Sunderland,0,7.0
+Premier League,3754180,2015-08-22,Sunderland,0,7.0
+Premier League,3754204,2015-08-29,Sunderland,0,7.0
+Premier League,3754148,2015-09-13,Sunderland,0,15.0
+Premier League,3754169,2015-09-19,Sunderland,0,6.0
+Premier League,3754008,2015-09-26,Sunderland,0,7.0
+Premier League,3754076,2015-10-03,Sunderland,0,7.0
+Premier League,3754245,2015-10-17,Sunderland,0,14.0
+Premier League,3754119,2015-10-25,Sunderland,2,8.0
+Premier League,3754082,2015-11-01,Sunderland,1,7.0
+Premier League,3754000,2015-11-07,Sunderland,0,6.0
+Premier League,3753979,2015-11-23,Sunderland,1,16.0
+Premier League,3754150,2015-11-28,Sunderland,1,5.0
+Premier League,3754160,2015-12-05,Sunderland,0,7.0
+Premier League,3754072,2015-12-12,Sunderland,0,7.0
+Premier League,3754025,2015-12-19,Sunderland,0,7.0
+Premier League,3754054,2015-12-26,Sunderland,0,7.0
+Premier League,3754226,2015-12-30,Sunderland,2,4.0
+Premier League,3754036,2016-01-02,Sunderland,0,3.0
+Premier League,3754071,2016-01-13,Sunderland,0,11.0
+Premier League,3754027,2016-01-16,Sunderland,0,3.0
+Premier League,3753975,2016-01-23,Sunderland,0,7.0
+Premier League,3754095,2016-02-02,Sunderland,0,10.0
+Premier League,3754316,2016-02-06,Sunderland,2,4.0
+Premier League,3754031,2016-02-13,Sunderland,0,7.0
+Premier League,3754331,2016-02-27,Sunderland,0,14.0
+Premier League,3754050,2016-03-01,Sunderland,1,3.0
+Premier League,3754164,2016-03-05,Sunderland,0,4.0
+Premier League,3754100,2016-03-20,Sunderland,0,15.0
+Premier League,3754175,2016-04-02,Sunderland,0,13.0
+Premier League,3754152,2016-04-10,Sunderland,0,8.0
+Premier League,3754172,2016-04-16,Sunderland,0,6.0
+Premier League,3753990,2016-04-24,Sunderland,0,8.0
+Premier League,3754132,2016-04-30,Sunderland,0,6.0
+Premier League,3754108,2016-05-07,Sunderland,0,7.0
+Premier League,3753989,2016-05-11,Sunderland,0,4.0
+Premier League,3754308,2016-05-15,Sunderland,1,4.0
+Premier League,3754078,2015-08-08,Swansea City,1,
+Premier League,3754344,2015-08-15,Swansea City,0,7.0
+Premier League,3754180,2015-08-22,Swansea City,0,7.0
+Premier League,3754221,2015-08-30,Swansea City,0,8.0
+Premier League,3754213,2015-09-12,Swansea City,0,13.0
+Premier League,3754298,2015-09-19,Swansea City,0,7.0
+Premier League,3753978,2015-09-26,Swansea City,0,7.0
+Premier League,3754074,2015-10-04,Swansea City,0,8.0
+Premier League,3754269,2015-10-19,Swansea City,0,15.0
+Premier League,3754017,2015-10-24,Swansea City,0,5.0
+Premier League,3753983,2015-10-31,Swansea City,0,7.0
+Premier League,3754311,2015-11-07,Swansea City,0,7.0
+Premier League,3753972,2015-11-21,Swansea City,0,14.0
+Premier League,3754047,2015-11-29,Swansea City,0,8.0
+Premier League,3754085,2015-12-05,Swansea City,0,6.0
+Premier League,3754328,2015-12-12,Swansea City,0,7.0
+Premier League,3754259,2015-12-20,Swansea City,0,8.0
+Premier League,3754279,2015-12-26,Swansea City,0,6.0
+Premier League,3754326,2015-12-28,Swansea City,0,2.0
+Premier League,3754319,2016-01-02,Swansea City,0,5.0
+Premier League,3754071,2016-01-13,Swansea City,0,11.0
+Premier League,3754161,2016-01-18,Swansea City,0,5.0
+Premier League,3754163,2016-01-24,Swansea City,0,6.0
+Premier League,3754340,2016-02-02,Swansea City,1,9.0
+Premier League,3754303,2016-02-06,Swansea City,0,4.0
+Premier League,3754139,2016-02-13,Swansea City,0,7.0
+Premier League,3754324,2016-02-28,Swansea City,0,15.0
+Premier League,3753976,2016-03-02,Swansea City,0,3.0
+Premier League,3754151,2016-03-05,Swansea City,0,3.0
+Premier League,3753988,2016-03-12,Swansea City,0,7.0
+Premier League,3754224,2016-03-19,Swansea City,0,7.0
+Premier League,3754272,2016-04-02,Swansea City,0,14.0
+Premier League,3754116,2016-04-09,Swansea City,0,7.0
+Premier League,3754024,2016-04-16,Swansea City,0,7.0
+Premier League,3754228,2016-04-24,Swansea City,0,8.0
+Premier League,3754018,2016-05-01,Swansea City,0,7.0
+Premier League,3754158,2016-05-07,Swansea City,0,6.0
+Premier League,3754149,2016-05-15,Swansea City,0,8.0
+Serie A,3878547,2015-08-23,Torino,0,
+Serie A,3878556,2015-08-30,Torino,0,7.0
+Serie A,3878596,2015-09-13,Torino,1,14.0
+Serie A,3878606,2015-09-20,Torino,0,7.0
+Serie A,3879540,2015-09-23,Torino,0,3.0
+Serie A,3879554,2015-09-27,Torino,1,4.0
+Serie A,3879558,2015-10-03,Torino,0,6.0
+Serie A,3879568,2015-10-17,Torino,1,14.0
+Serie A,3879582,2015-10-25,Torino,0,8.0
+Serie A,3879590,2015-10-28,Torino,1,3.0
+Serie A,3879597,2015-10-31,Torino,0,3.0
+Serie A,3879614,2015-11-08,Torino,0,8.0
+Serie A,3879621,2015-11-22,Torino,0,14.0
+Serie A,3879627,2015-11-28,Torino,0,6.0
+Serie A,3879639,2015-12-05,Torino,1,7.0
+Serie A,3879658,2015-12-20,Torino,0,15.0
+Serie A,3879669,2016-01-06,Torino,0,17.0
+Serie A,3879682,2016-01-10,Torino,0,4.0
+Serie A,3879687,2016-01-16,Torino,1,6.0
+Serie A,3879696,2016-01-20,Torino,0,4.0
+Serie A,3879706,2016-01-24,Torino,0,4.0
+Serie A,3879715,2016-01-31,Torino,0,7.0
+Serie A,3879719,2016-02-03,Torino,0,3.0
+Serie A,3879732,2016-02-07,Torino,0,4.0
+Serie A,3879745,2016-02-14,Torino,1,7.0
+Serie A,3879754,2016-02-21,Torino,0,7.0
+Serie A,3879758,2016-02-27,Torino,0,6.0
+Serie A,3879772,2016-03-06,Torino,1,8.0
+Serie A,3879784,2016-03-13,Torino,0,7.0
+Serie A,3879790,2016-03-20,Torino,0,7.0
+Serie A,3879801,2016-04-03,Torino,0,14.0
+Serie A,3879815,2016-04-10,Torino,0,7.0
+Serie A,3879818,2016-04-16,Torino,0,6.0
+Serie A,3879828,2016-04-20,Torino,0,4.0
+Serie A,3879843,2016-04-24,Torino,1,4.0
+Serie A,3879847,2016-04-30,Torino,0,6.0
+Serie A,3879862,2016-05-08,Torino,0,8.0
+Serie A,3879873,2016-05-15,Torino,1,7.0
+Premier League,3754097,2015-08-08,Tottenham Hotspur,0,
+Premier League,3754270,2015-08-15,Tottenham Hotspur,0,7.0
+Premier League,3753987,2015-08-22,Tottenham Hotspur,0,7.0
+Premier League,3754268,2015-08-29,Tottenham Hotspur,0,7.0
+Premier League,3754148,2015-09-13,Tottenham Hotspur,0,15.0
+Premier League,3754222,2015-09-20,Tottenham Hotspur,0,7.0
+Premier League,3754197,2015-09-26,Tottenham Hotspur,0,6.0
+Premier League,3754074,2015-10-04,Tottenham Hotspur,0,8.0
+Premier League,3754198,2015-10-17,Tottenham Hotspur,1,13.0
+Premier League,3754234,2015-10-25,Tottenham Hotspur,0,8.0
+Premier League,3754029,2015-11-02,Tottenham Hotspur,0,8.0
+Premier League,3754265,2015-11-08,Tottenham Hotspur,0,6.0
+Premier League,3754109,2015-11-22,Tottenham Hotspur,0,14.0
+Premier League,3754093,2015-11-29,Tottenham Hotspur,1,7.0
+Premier League,3754215,2015-12-05,Tottenham Hotspur,0,6.0
+Premier League,3754276,2015-12-13,Tottenham Hotspur,0,8.0
+Premier League,3754188,2015-12-19,Tottenham Hotspur,0,6.0
+Premier League,3754057,2015-12-26,Tottenham Hotspur,0,7.0
+Premier League,3754291,2015-12-28,Tottenham Hotspur,0,2.0
+Premier League,3754140,2016-01-03,Tottenham Hotspur,0,6.0
+Premier League,3754065,2016-01-13,Tottenham Hotspur,0,10.0
+Premier League,3754027,2016-01-16,Tottenham Hotspur,0,3.0
+Premier League,3754179,2016-01-23,Tottenham Hotspur,1,7.0
+Premier League,3754317,2016-02-02,Tottenham Hotspur,0,10.0
+Premier League,3754080,2016-02-06,Tottenham Hotspur,0,4.0
+Premier League,3754147,2016-02-14,Tottenham Hotspur,0,8.0
+Premier League,3754324,2016-02-28,Tottenham Hotspur,0,14.0
+Premier League,3754349,2016-03-02,Tottenham Hotspur,0,3.0
+Premier League,3754318,2016-03-05,Tottenham Hotspur,0,3.0
+Premier League,3754053,2016-03-13,Tottenham Hotspur,0,8.0
+Premier League,3754043,2016-03-20,Tottenham Hotspur,0,7.0
+Premier League,3754087,2016-04-02,Tottenham Hotspur,0,13.0
+Premier League,3754209,2016-04-10,Tottenham Hotspur,0,8.0
+Premier League,3754187,2016-04-18,Tottenham Hotspur,0,8.0
+Premier League,3754332,2016-04-25,Tottenham Hotspur,1,7.0
+Premier League,3754092,2016-05-02,Tottenham Hotspur,2,7.0
+Premier League,3753992,2016-05-08,Tottenham Hotspur,0,6.0
+Premier League,3754333,2016-05-15,Tottenham Hotspur,1,7.0
+Ligue 1,3829421,2015-08-09,Toulouse,0,
+Ligue 1,3829428,2015-08-15,Toulouse,0,6.0
+Ligue 1,3829439,2015-08-22,Toulouse,0,7.0
+Ligue 1,3829449,2015-08-29,Toulouse,1,7.0
+Ligue 1,3829458,2015-09-12,Toulouse,0,14.0
+Ligue 1,3829471,2015-09-20,Toulouse,2,8.0
+Ligue 1,3829477,2015-09-23,Toulouse,0,3.0
+Ligue 1,3829486,2015-09-26,Toulouse,0,3.0
+Ligue 1,3829494,2015-10-03,Toulouse,1,7.0
+Ligue 1,3829507,2015-10-17,Toulouse,0,14.0
+Ligue 1,3829512,2015-10-23,Toulouse,1,6.0
+Ligue 1,3900496,2015-10-31,Toulouse,0,8.0
+Ligue 1,3900501,2015-11-07,Toulouse,0,7.0
+Ligue 1,3900514,2015-11-21,Toulouse,1,14.0
+Ligue 1,3900522,2015-11-28,Toulouse,0,7.0
+Ligue 1,3900537,2015-12-02,Toulouse,0,4.0
+Ligue 1,3900544,2015-12-05,Toulouse,0,3.0
+Ligue 1,3900555,2015-12-12,Toulouse,0,7.0
+Ligue 1,3900561,2015-12-19,Toulouse,0,7.0
+Ligue 1,3900575,2016-01-09,Toulouse,0,21.0
+Ligue 1,3900585,2016-01-16,Toulouse,0,7.0
+Ligue 1,3900598,2016-01-24,Toulouse,0,8.0
+Ligue 1,3900603,2016-01-30,Toulouse,0,6.0
+Ligue 1,3900613,2016-02-03,Toulouse,0,4.0
+Ligue 1,3900621,2016-02-06,Toulouse,1,3.0
+Ligue 1,3900631,2016-02-13,Toulouse,0,7.0
+Ligue 1,3901147,2016-02-20,Toulouse,0,7.0
+Ligue 1,3901158,2016-02-27,Toulouse,0,7.0
+Ligue 1,3901169,2016-03-06,Toulouse,0,8.0
+Ligue 1,3901176,2016-03-12,Toulouse,0,6.0
+Ligue 1,3901189,2016-03-19,Toulouse,0,7.0
+Ligue 1,3901200,2016-04-02,Toulouse,0,14.0
+Ligue 1,3901206,2016-04-09,Toulouse,0,7.0
+Ligue 1,3901219,2016-04-16,Toulouse,1,7.0
+Ligue 1,3901225,2016-04-23,Toulouse,1,7.0
+Ligue 1,3901237,2016-04-30,Toulouse,1,7.0
+Ligue 1,3901244,2016-05-07,Toulouse,1,7.0
+Ligue 1,3901255,2016-05-14,Toulouse,0,7.0
+Ligue 1,3829417,2015-08-08,Troyes,0,
+Ligue 1,3829427,2015-08-15,Troyes,0,7.0
+Ligue 1,3829441,2015-08-23,Troyes,1,8.0
+Ligue 1,3829446,2015-08-29,Troyes,0,6.0
+Ligue 1,3829455,2015-09-12,Troyes,0,14.0
+Ligue 1,3829466,2015-09-19,Troyes,0,7.0
+Ligue 1,3829480,2015-09-23,Troyes,0,4.0
+Ligue 1,3829485,2015-09-26,Troyes,0,3.0
+Ligue 1,3829497,2015-10-03,Troyes,1,7.0
+Ligue 1,3829503,2015-10-17,Troyes,0,14.0
+Ligue 1,3829521,2015-10-25,Troyes,0,8.0
+Ligue 1,3900493,2015-10-31,Troyes,1,6.0
+Ligue 1,3900502,2015-11-07,Troyes,0,7.0
+Ligue 1,3900513,2015-11-21,Troyes,0,14.0
+Ligue 1,3900521,2015-11-28,Troyes,0,7.0
+Ligue 1,3900537,2015-12-02,Troyes,0,4.0
+Ligue 1,3900543,2015-12-05,Troyes,1,3.0
+Ligue 1,3900554,2015-12-12,Troyes,1,7.0
+Ligue 1,3900564,2015-12-19,Troyes,0,7.0
+Ligue 1,3900574,2016-01-09,Troyes,0,21.0
+Ligue 1,3900583,2016-01-16,Troyes,0,7.0
+Ligue 1,3900593,2016-01-23,Troyes,0,7.0
+Ligue 1,3900606,2016-01-30,Troyes,0,7.0
+Ligue 1,3900612,2016-02-03,Troyes,0,4.0
+Ligue 1,3900622,2016-02-06,Troyes,0,3.0
+Ligue 1,3900633,2016-02-13,Troyes,1,7.0
+Ligue 1,3901149,2016-02-20,Troyes,0,7.0
+Ligue 1,3901154,2016-02-27,Troyes,0,7.0
+Ligue 1,3901163,2016-03-05,Troyes,1,7.0
+Ligue 1,3901183,2016-03-13,Troyes,0,8.0
+Ligue 1,3901190,2016-03-19,Troyes,1,6.0
+Ligue 1,3901198,2016-04-02,Troyes,1,14.0
+Ligue 1,3901210,2016-04-09,Troyes,0,7.0
+Ligue 1,3901217,2016-04-16,Troyes,1,7.0
+Ligue 1,3901226,2016-04-24,Troyes,0,8.0
+Ligue 1,3901244,2016-05-07,Troyes,1,13.0
+Ligue 1,3901259,2016-05-14,Troyes,2,7.0
+Serie A,3878548,2015-08-23,Udinese,1,
+Serie A,3878557,2015-08-30,Udinese,0,7.0
+Serie A,3878595,2015-09-13,Udinese,0,14.0
+Serie A,3878603,2015-09-19,Udinese,0,6.0
+Serie A,3879537,2015-09-22,Udinese,0,3.0
+Serie A,3879552,2015-09-27,Udinese,0,5.0
+Serie A,3879566,2015-10-04,Udinese,0,7.0
+Serie A,3879575,2015-10-18,Udinese,1,14.0
+Serie A,3879584,2015-10-25,Udinese,0,7.0
+Serie A,3879592,2015-10-28,Udinese,0,3.0
+Serie A,3879603,2015-11-01,Udinese,0,4.0
+Serie A,3879609,2015-11-08,Udinese,0,7.0
+Serie A,3879625,2015-11-22,Udinese,1,14.0
+Serie A,3879631,2015-11-29,Udinese,0,7.0
+Serie A,3879646,2015-12-06,Udinese,0,7.0
+Serie A,3879648,2015-12-12,Udinese,0,6.0
+Serie A,3879658,2015-12-20,Udinese,0,8.0
+Serie A,3879673,2016-01-06,Udinese,0,17.0
+Serie A,3879678,2016-01-09,Udinese,0,3.0
+Serie A,3879693,2016-01-17,Udinese,0,8.0
+Serie A,3879700,2016-01-24,Udinese,0,7.0
+Serie A,3879711,2016-01-31,Udinese,0,7.0
+Serie A,3879718,2016-02-03,Udinese,0,3.0
+Serie A,3879734,2016-02-07,Udinese,0,4.0
+Serie A,3879743,2016-02-14,Udinese,0,7.0
+Serie A,3879752,2016-02-21,Udinese,0,7.0
+Serie A,3879762,2016-02-28,Udinese,0,7.0
+Serie A,3879773,2016-03-06,Udinese,1,7.0
+Serie A,3879783,2016-03-13,Udinese,0,7.0
+Serie A,3879793,2016-03-20,Udinese,0,7.0
+Serie A,3879803,2016-04-03,Udinese,0,14.0
+Serie A,3879813,2016-04-10,Udinese,0,7.0
+Serie A,3879822,2016-04-17,Udinese,0,7.0
+Serie A,3879834,2016-04-20,Udinese,0,3.0
+Serie A,3879837,2016-04-23,Udinese,0,3.0
+Serie A,3879847,2016-04-30,Udinese,0,7.0
+Serie A,3879863,2016-05-08,Udinese,2,8.0
+Serie A,3879871,2016-05-15,Udinese,0,7.0
+La Liga,3825566,2015-08-22,Valencia,0,
+La Liga,3825576,2015-08-30,Valencia,0,8.0
+La Liga,3825583,2015-09-12,Valencia,0,13.0
+La Liga,3825591,2015-09-19,Valencia,0,7.0
+La Liga,3825599,2015-09-22,Valencia,0,3.0
+La Liga,3825604,2015-09-25,Valencia,1,3.0
+La Liga,3825622,2015-10-04,Valencia,0,9.0
+La Liga,3825623,2015-10-17,Valencia,0,13.0
+La Liga,3825638,2015-10-25,Valencia,1,8.0
+La Liga,3825647,2015-10-31,Valencia,0,6.0
+La Liga,3825654,2015-11-07,Valencia,0,7.0
+La Liga,3825888,2015-11-21,Valencia,0,14.0
+La Liga,3825677,2015-11-29,Valencia,0,8.0
+La Liga,267274,2015-12-05,Valencia,1,6.0
+La Liga,3825694,2015-12-13,Valencia,0,8.0
+La Liga,3825697,2015-12-19,Valencia,0,6.0
+La Liga,3825713,2015-12-31,Valencia,0,12.0
+La Liga,3825718,2016-01-03,Valencia,0,3.0
+La Liga,3825730,2016-01-10,Valencia,1,7.0
+La Liga,3825736,2016-01-17,Valencia,0,7.0
+La Liga,3825745,2016-01-24,Valencia,1,7.0
+La Liga,3825755,2016-01-31,Valencia,0,7.0
+La Liga,3825766,2016-02-07,Valencia,1,7.0
+La Liga,3825772,2016-02-13,Valencia,1,6.0
+La Liga,3825782,2016-02-21,Valencia,0,8.0
+La Liga,3825793,2016-02-28,Valencia,0,7.0
+La Liga,3825799,2016-03-02,Valencia,0,3.0
+La Liga,3825807,2016-03-06,Valencia,0,4.0
+La Liga,3825815,2016-03-13,Valencia,0,7.0
+La Liga,3825819,2016-03-20,Valencia,0,7.0
+La Liga,3825822,2016-04-02,Valencia,0,13.0
+La Liga,3825831,2016-04-10,Valencia,0,8.0
+La Liga,266557,2016-04-17,Valencia,0,7.0
+La Liga,3825840,2016-04-20,Valencia,1,3.0
+La Liga,3825899,2016-04-24,Valencia,0,4.0
+La Liga,3825873,2016-05-01,Valencia,0,7.0
+La Liga,3825901,2016-05-08,Valencia,0,7.0
+La Liga,3825849,2016-05-13,Valencia,0,5.0
+La Liga,3825568,2015-08-23,Villarreal,0,
+La Liga,3825571,2015-08-28,Villarreal,0,5.0
+La Liga,3825584,2015-09-13,Villarreal,0,16.0
+La Liga,3825595,2015-09-20,Villarreal,0,7.0
+La Liga,3825600,2015-09-23,Villarreal,1,3.0
+La Liga,3825607,2015-09-26,Villarreal,0,3.0
+La Liga,3825619,2015-10-04,Villarreal,0,8.0
+La Liga,3825629,2015-10-18,Villarreal,0,14.0
+La Liga,3825639,2015-10-25,Villarreal,1,7.0
+La Liga,3825646,2015-10-31,Villarreal,1,6.0
+La Liga,3825660,2015-11-08,Villarreal,0,8.0
+La Liga,3825667,2015-11-22,Villarreal,1,14.0
+La Liga,3825676,2015-11-29,Villarreal,1,7.0
+La Liga,3825684,2015-12-06,Villarreal,0,7.0
+La Liga,3825695,2015-12-13,Villarreal,1,7.0
+La Liga,3825702,2015-12-20,Villarreal,1,7.0
+La Liga,3825713,2015-12-31,Villarreal,0,11.0
+La Liga,3825721,2016-01-03,Villarreal,0,3.0
+La Liga,3825729,2016-01-10,Villarreal,0,7.0
+La Liga,3825735,2016-01-16,Villarreal,0,6.0
+La Liga,3825744,2016-01-23,Villarreal,0,7.0
+La Liga,3825753,2016-01-30,Villarreal,0,7.0
+La Liga,3825761,2016-02-06,Villarreal,1,7.0
+La Liga,3825769,2016-02-13,Villarreal,0,7.0
+La Liga,3825784,2016-02-21,Villarreal,0,8.0
+La Liga,3825794,2016-02-28,Villarreal,0,7.0
+La Liga,3825800,2016-03-02,Villarreal,1,3.0
+La Liga,3825805,2016-03-05,Villarreal,0,3.0
+La Liga,3825816,2016-03-13,Villarreal,0,8.0
+La Liga,266106,2016-03-20,Villarreal,0,7.0
+La Liga,3825824,2016-04-03,Villarreal,0,14.0
+La Liga,3825830,2016-04-10,Villarreal,0,7.0
+La Liga,3825836,2016-04-17,Villarreal,0,7.0
+La Liga,3825893,2016-04-20,Villarreal,0,3.0
+La Liga,3825875,2016-04-24,Villarreal,0,4.0
+La Liga,3825873,2016-05-01,Villarreal,0,7.0
+La Liga,3825851,2016-05-08,Villarreal,0,7.0
+La Liga,3825900,2016-05-15,Villarreal,0,7.0
+Premier League,3754300,2015-08-08,Watford,0,
+Premier League,3754267,2015-08-15,Watford,0,7.0
+Premier League,3754189,2015-08-23,Watford,0,8.0
+Premier League,3754246,2015-08-29,Watford,0,6.0
+Premier League,3754213,2015-09-12,Watford,0,14.0
+Premier League,3754010,2015-09-19,Watford,0,7.0
+Premier League,3754266,2015-09-27,Watford,0,8.0
+Premier League,3754278,2015-10-03,Watford,2,6.0
+Premier League,3753999,2015-10-17,Watford,0,14.0
+Premier League,3754091,2015-10-24,Watford,0,7.0
+Premier League,3754273,2015-10-31,Watford,0,7.0
+Premier League,3754156,2015-11-07,Watford,0,7.0
+Premier League,3754185,2015-11-21,Watford,0,14.0
+Premier League,3754178,2015-11-28,Watford,0,7.0
+Premier League,3754286,2015-12-05,Watford,0,7.0
+Premier League,3754072,2015-12-12,Watford,0,7.0
+Premier League,3754051,2015-12-20,Watford,0,8.0
+Premier League,3754287,2015-12-26,Watford,0,6.0
+Premier League,3754291,2015-12-28,Watford,0,2.0
+Premier League,3754346,2016-01-02,Watford,0,5.0
+Premier League,3754183,2016-01-13,Watford,0,11.0
+Premier League,3754161,2016-01-18,Watford,0,5.0
+Premier League,3754271,2016-01-23,Watford,0,5.0
+Premier League,3754103,2016-02-03,Watford,0,11.0
+Premier League,3754080,2016-02-06,Watford,0,3.0
+Premier League,3754039,2016-02-13,Watford,0,7.0
+Premier League,3754121,2016-02-27,Watford,0,14.0
+Premier League,3754232,2016-03-02,Watford,0,4.0
+Premier League,3754289,2016-03-05,Watford,0,3.0
+Premier League,3753977,2016-03-19,Watford,0,14.0
+Premier League,3754118,2016-04-02,Watford,0,14.0
+Premier League,3754030,2016-04-09,Watford,0,7.0
+Premier League,3754155,2016-04-16,Watford,0,7.0
+Premier League,3754086,2016-04-20,Watford,0,4.0
+Premier League,3754063,2016-04-30,Watford,0,10.0
+Premier League,3754342,2016-05-08,Watford,0,8.0
+Premier League,3754207,2016-05-11,Watford,0,3.0
+Premier League,3754308,2016-05-15,Watford,0,4.0
+Premier League,3754145,2015-08-10,West Bromwich Albion,0,
+Premier League,3754267,2015-08-15,West Bromwich Albion,0,5.0
+Premier League,3754059,2015-08-23,West Bromwich Albion,0,8.0
+Premier League,3754007,2015-08-29,West Bromwich Albion,0,6.0
+Premier League,3754325,2015-09-12,West Bromwich Albion,1,14.0
+Premier League,3754068,2015-09-19,West Bromwich Albion,0,7.0
+Premier League,3754105,2015-09-28,West Bromwich Albion,1,9.0
+Premier League,3754099,2015-10-03,West Bromwich Albion,1,5.0
+Premier League,3754245,2015-10-17,West Bromwich Albion,0,14.0
+Premier League,3754133,2015-10-24,West Bromwich Albion,0,7.0
+Premier League,3754006,2015-10-31,West Bromwich Albion,0,7.0
+Premier League,3754297,2015-11-07,West Bromwich Albion,0,7.0
+Premier League,3754301,2015-11-21,West Bromwich Albion,0,14.0
+Premier League,3754235,2015-11-29,West Bromwich Albion,0,8.0
+Premier League,3754215,2015-12-05,West Bromwich Albion,1,6.0
+Premier League,3754255,2015-12-13,West Bromwich Albion,0,8.0
+Premier League,3754219,2015-12-19,West Bromwich Albion,0,6.0
+Premier League,3754279,2015-12-26,West Bromwich Albion,0,7.0
+Premier League,3754195,2015-12-28,West Bromwich Albion,0,2.0
+Premier League,3754122,2016-01-02,West Bromwich Albion,0,5.0
+Premier League,3754062,2016-01-13,West Bromwich Albion,0,11.0
+Premier League,3754168,2016-01-16,West Bromwich Albion,0,3.0
+Premier League,3754084,2016-01-23,West Bromwich Albion,0,7.0
+Premier League,3754340,2016-02-02,West Bromwich Albion,1,10.0
+Premier League,3754292,2016-02-06,West Bromwich Albion,0,4.0
+Premier League,3754350,2016-02-13,West Bromwich Albion,0,7.0
+Premier League,3754236,2016-02-27,West Bromwich Albion,0,14.0
+Premier League,3754231,2016-03-01,West Bromwich Albion,0,3.0
+Premier League,3754081,2016-03-06,West Bromwich Albion,0,5.0
+Premier League,3754052,2016-03-19,West Bromwich Albion,0,13.0
+Premier League,3754175,2016-04-02,West Bromwich Albion,0,14.0
+Premier League,3754035,2016-04-09,West Bromwich Albion,0,7.0
+Premier League,3754155,2016-04-16,West Bromwich Albion,0,7.0
+Premier League,3754284,2016-04-21,West Bromwich Albion,0,5.0
+Premier League,3754332,2016-04-25,West Bromwich Albion,0,4.0
+Premier League,3754192,2016-04-30,West Bromwich Albion,0,5.0
+Premier League,3754225,2016-05-07,West Bromwich Albion,0,7.0
+Premier League,3754042,2016-05-15,West Bromwich Albion,0,8.0
+Premier League,3754141,2015-08-09,West Ham United,0,
+Premier League,3754203,2015-08-15,West Ham United,0,6.0
+Premier League,3754131,2015-08-22,West Ham United,0,7.0
+Premier League,3753984,2015-08-29,West Ham United,1,7.0
+Premier League,3754329,2015-09-14,West Ham United,1,16.0
+Premier League,3754077,2015-09-19,West Ham United,0,5.0
+Premier League,3754323,2015-09-26,West Ham United,0,7.0
+Premier League,3754076,2015-10-03,West Ham United,0,7.0
+Premier League,3754067,2015-10-17,West Ham United,0,14.0
+Premier League,3754288,2015-10-24,West Ham United,0,7.0
+Premier League,3754273,2015-10-31,West Ham United,0,7.0
+Premier League,3754194,2015-11-07,West Ham United,2,7.0
+Premier League,3754109,2015-11-22,West Ham United,0,15.0
+Premier League,3754235,2015-11-29,West Ham United,1,7.0
+Premier League,3754347,2015-12-05,West Ham United,1,6.0
+Premier League,3754096,2015-12-12,West Ham United,0,7.0
+Premier League,3754259,2015-12-20,West Ham United,0,8.0
+Premier League,3754285,2015-12-26,West Ham United,0,6.0
+Premier League,3753998,2015-12-28,West Ham United,1,2.0
+Premier League,3754251,2016-01-02,West Ham United,1,5.0
+Premier League,3754021,2016-01-12,West Ham United,1,10.0
+Premier League,3754338,2016-01-16,West Ham United,0,4.0
+Premier League,3754110,2016-01-23,West Ham United,0,7.0
+Premier League,3753997,2016-02-02,West Ham United,0,10.0
+Premier League,3754120,2016-02-06,West Ham United,1,4.0
+Premier League,3754244,2016-02-13,West Ham United,0,7.0
+Premier League,3754331,2016-02-27,West Ham United,0,14.0
+Premier League,3754349,2016-03-02,West Ham United,0,4.0
+Premier League,3754277,2016-03-05,West Ham United,0,3.0
+Premier League,3753973,2016-03-19,West Ham United,0,14.0
+Premier League,3754176,2016-04-02,West Ham United,0,14.0
+Premier League,3754241,2016-04-09,West Ham United,0,7.0
+Premier League,3754227,2016-04-17,West Ham United,0,8.0
+Premier League,3754086,2016-04-20,West Ham United,0,3.0
+Premier League,3754192,2016-04-30,West Ham United,0,10.0
+Premier League,3754158,2016-05-07,West Ham United,0,7.0
+Premier League,3754134,2016-05-10,West Ham United,0,3.0
+Premier League,3754199,2016-05-15,West Ham United,0,5.0

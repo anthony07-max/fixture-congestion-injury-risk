@@ -1,0 +1,195 @@
+{
+  "missed_next_after_injury_sub": 0.6505460218408736,
+  "missed_next_otherwise": 0.16565612139109673,
+  "team_rest_table": [
+    {
+      "rest": "2-3 days",
+      "matches": 301,
+      "injury_subs": 75,
+      "per_100_matches": 24.917
+    },
+    {
+      "rest": "4-5 days",
+      "matches": 381,
+      "injury_subs": 99,
+      "per_100_matches": 25.984
+    },
+    {
+      "rest": "6-7 days",
+      "matches": 1344,
+      "injury_subs": 291,
+      "per_100_matches": 21.652
+    },
+    {
+      "rest": "8+ days",
+      "matches": 914,
+      "injury_subs": 192,
+      "per_100_matches": 21.007
+    }
+  ],
+  "team_irr": [
+    {
+      "term": "Intercept",
+      "irr": 0.183,
+      "lo": 0.152,
+      "hi": 0.221,
+      "p": 0.0
+    },
+    {
+      "term": "C(rest, Treatment('6-7 days'))[T.2-3 days]",
+      "irr": 1.143,
+      "lo": 0.887,
+      "hi": 1.473,
+      "p": 0.302
+    },
+    {
+      "term": "C(rest, Treatment('6-7 days'))[T.4-5 days]",
+      "irr": 1.207,
+      "lo": 0.96,
+      "hi": 1.516,
+      "p": 0.107
+    },
+    {
+      "term": "C(rest, Treatment('6-7 days'))[T.8+ days]",
+      "irr": 0.998,
+      "lo": 0.832,
+      "hi": 1.198,
+      "p": 0.983
+    },
+    {
+      "term": "C(league)[T.Ligue 1]",
+      "irr": 1.385,
+      "lo": 1.113,
+      "hi": 1.722,
+      "p": 0.003
+    },
+    {
+      "term": "C(league)[T.Premier League]",
+      "irr": 0.751,
+      "lo": 0.584,
+      "hi": 0.967,
+      "p": 0.026
+    },
+    {
+      "term": "C(league)[T.Serie A]",
+      "irr": 1.556,
+      "lo": 1.26,
+      "hi": 1.923,
+      "p": 0.0
+    }
+  ],
+  "player_load_table": [
+    {
+      "load14": "0-90",
+      "starts": 7485,
+      "injuries": 179,
+      "per_1000_starts": 23.914
+    },
+    {
+      "load14": "91-180",
+      "starts": 11360,
+      "injuries": 211,
+      "per_1000_starts": 18.574
+    },
+    {
+      "load14": "181-270",
+      "starts": 6785,
+      "injuries": 153,
+      "per_1000_starts": 22.55
+    },
+    {
+      "load14": "271+",
+      "starts": 894,
+      "injuries": 16,
+      "per_1000_starts": 17.897
+    }
+  ],
+  "player_or": [
+    {
+      "term": "Intercept",
+      "odds_ratio": 0.018,
+      "lo": 0.014,
+      "hi": 0.022,
+      "p": 0.0
+    },
+    {
+      "term": "C(load14, Treatment('91-180'))[T.0-90]",
+      "odds_ratio": 1.282,
+      "lo": 1.047,
+      "hi": 1.571,
+      "p": 0.016
+    },
+    {
+      "term": "C(load14, Treatment('91-180'))[T.181-270]",
+      "odds_ratio": 1.193,
+      "lo": 0.965,
+      "hi": 1.476,
+      "p": 0.103
+    },
+    {
+      "term": "C(load14, Treatment('91-180'))[T.271+]",
+      "odds_ratio": 0.856,
+      "lo": 0.51,
+      "hi": 1.436,
+      "p": 0.556
+    },
+    {
+      "term": "C(pos)[T.FWD]",
+      "odds_ratio": 0.933,
+      "lo": 0.753,
+      "hi": 1.157,
+      "p": 0.527
+    },
+    {
+      "term": "C(pos)[T.MID]",
+      "odds_ratio": 0.818,
+      "lo": 0.671,
+      "hi": 0.998,
+      "p": 0.047
+    },
+    {
+      "term": "C(league)[T.Ligue 1]",
+      "odds_ratio": 1.41,
+      "lo": 1.111,
+      "hi": 1.789,
+      "p": 0.005
+    },
+    {
+      "term": "C(league)[T.Premier League]",
+      "odds_ratio": 0.786,
+      "lo": 0.599,
+      "hi": 1.032,
+      "p": 0.083
+    },
+    {
+      "term": "C(league)[T.Serie A]",
+      "odds_ratio": 1.523,
+      "lo": 1.205,
+      "hi": 1.926,
+      "p": 0.0
+    },
+    {
+      "term": "short_rest",
+      "odds_ratio": 1.042,
+      "lo": 0.773,
+      "hi": 1.404,
+      "p": 0.788
+    }
+  ],
+  "n_starts": 26524,
+  "n_injuries_model": 559,
+  "first_half_share": 0.3935389133627019,
+  "by_month": {
+    "2015-08": 18.56,
+    "2015-09": 22.12,
+    "2015-10": 18.66,
+    "2015-11": 24.37,
+    "2015-12": 20.71,
+    "2016-01": 19.81,
+    "2016-02": 17.62,
+    "2016-03": 19.24,
+    "2016-04": 20.6,
+    "2016-05": 23.83
+  },
+  "team_corr_short_turnarounds_injuries": 0.3208028176421832
+}
